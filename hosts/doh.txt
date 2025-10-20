@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Oct 2025 11:43 UTC
-# Version: 2025.1018.1143.08
+# Last modified: 19 Oct 2025 23:26 UTC
+# Version: 2025.1019.2326.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3871
+# Number of entries: 3872
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1596,6 +1596,7 @@
 0.0.0.0 jalexx.freeboxos.fr
 0.0.0.0 lilibox.freeboxos.fr
 0.0.0.0 pcornet.freeboxos.fr
+0.0.0.0 hkname.freecdn.one
 0.0.0.0 adblock.freeddns.org
 0.0.0.0 aydank.freeddns.org
 0.0.0.0 drandrade21.freeddns.org

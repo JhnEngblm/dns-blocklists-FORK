@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 14:49 UTC
-# Version: 2025.1019.1449.28
+# Last modified: 19 Oct 2025 23:20 UTC
+# Version: 2025.1019.2320.10
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 82481
+# Number of entries: 82457
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -7648,7 +7648,6 @@
 *.alexandercasino-fr.org
 *.alexandercasino-norway.com
 *.alexandercasinofrance.org
-*.alexandercasinoo.com
 *.alexandercasinoq.com
 *.alexandercasinos.org
 *.alexanderjean.net
@@ -10404,7 +10403,6 @@
 *.banzaibets.xyz
 *.banzaicasino.bet
 *.banzaicasino.com
-*.banzaicasino-fr.com
 *.banzaicasino-lk.com
 *.banzaicasinofrance.com
 *.banzaicasinopkx.com
@@ -17696,7 +17694,6 @@
 *.captain-cooks-casino.ca
 *.captain-cooks-casino-ca.com
 *.captain-cooks-casino-login.com
-*.captain-jackcasino.com
 *.captain-slots.co
 *.captain-slots-casino.net
 *.captain77beta.info
@@ -22176,7 +22173,6 @@
 *.casinoly.ca
 *.casinoly.com
 *.casinoly-canada.ca
-*.casinoly-casino.org
 *.casinoly-hr.com
 *.casinoly-hu.com
 *.casinoly-it.com
@@ -22638,7 +22634,6 @@
 *.casinonet.ru
 *.casinonettofun.com
 *.casinonetworkasia.com
-*.casinonewjersey.com
 *.casinonewlucky.com
 *.casinoneworleans.club
 *.casinonews.me
@@ -22844,7 +22839,6 @@
 *.casinoparadise8.com
 *.casinoparatiisi.com
 *.casinoparatodos.org
-*.casinoparisfrance.com
 *.casinopark11.com
 *.casinopark12.com
 *.casinopark13.com
@@ -23493,7 +23487,6 @@
 *.casinos-bonuscodes.com
 *.casinos-cactus.ru
 *.casinos-canadiens.org
-*.casinos-casinia.com
 *.casinos-colombia.com
 *.casinos-com.com
 *.casinos-curacao.com
@@ -39451,7 +39444,6 @@
 *.hanomaman.xyz
 *.hanoooman.xyz
 *.hans-wendingcasino.com
-*.hanslot88keren.xyz
 *.hanspokerparty.ca
 *.hantuslotwow.com
 *.hanya1000.xyz
@@ -44190,12 +44182,10 @@
 *.kbkbet.io
 *.kbkbet.org
 *.kbkf.bet
-*.kbmotorsonline.com
 *.kc9.lol
 *.kc9-casino.com
 *.kc9-casino.org
 *.kc9-slots.com
-*.kcasinosite.com
 *.kccd.org
 *.kcmobileveterinaryservices.com
 *.kcrelomag.com
@@ -49663,7 +49653,6 @@
 *.malinacasinoapp.fr
 *.malinacasinoaustralia.com
 *.malinacasinoavis.fr
-*.malinacasinobonus.com
 *.malinacasinobonus.fr
 *.malinacasinocz.net
 *.malinacasinodeutschland.com
@@ -51581,7 +51570,6 @@
 *.millionz.com
 *.millionz-casino.net
 *.millionz-casino-fr.net
-*.millionz-casinoenligne.com
 *.millionzcasino.one
 *.millonix-casino.com
 *.milslot77.com
@@ -52633,7 +52621,6 @@
 *.monacobetcasino.org
 *.monacototo.org
 *.monarchcasino.club
-*.monarquecasino.com
 *.monarqueclub.com
 *.moncasino.ca
 *.moncasino.ga
@@ -53393,7 +53380,6 @@
 *.mrcasino728.com
 *.mrcasino729.com
 *.mrcasino730.com
-*.mrcasinogir.net
 *.mrcasinoparty.biz
 *.mrcasinoparty.com
 *.mrcasinoparty.info
@@ -55298,7 +55284,6 @@
 *.octszm.shop
 *.odawacasino.com
 *.odawacasinow.com
-*.oddigo-bisa.info
 *.oddigojuara.xyz
 *.oddigostrong.xyz
 *.odds.am
@@ -66688,7 +66673,6 @@
 *.rpslots11.com
 *.rptbet.casino
 *.rq21blackjack.club
-*.rr.casino
 *.rr.vip
 *.rr88vip.com
 *.rrbet.com
@@ -66708,7 +66692,6 @@
 *.rt-bet-casino.com
 *.rt66casino.com
 *.rtbet.com
-*.rtbet-casino.org
 *.rtbet1.com
 *.rtbetcasino.app
 *.rtbetcasinodeutschland.com
@@ -67830,7 +67813,6 @@
 *.scoopsonlinepokerclub.com
 *.scorebet-casino-south-africa.app
 *.scorebetscore.com
-*.scorenemass.org
 *.scores24.live
 *.scoresandoddspoker.com
 *.scorpcasino.us
@@ -72983,7 +72965,6 @@
 *.talibetsmart.cloud
 *.talismania.casino
 *.talismania.com
-*.talismania-casino-review.com
 *.talismaniacasino.ca
 *.talismaniacasino.net
 *.talismaniacasinos.com
@@ -74260,7 +74241,6 @@
 *.tompel123.org
 *.toms-outlet.net
 *.tomslot88.biz
-*.tomslot88keren.xyz
 *.tomvv.com
 *.tomwaterhouse.com
 *.tomwcommunications.com
@@ -77429,7 +77409,6 @@
 *.viggoslots.pl
 *.viggoslots-de.com
 *.viggoslots-fr.com
-*.viggoslots-reg.com
 *.viggoslots-se.com
 *.viggoslots-sweden.com
 *.viggoslotscasino.ca
@@ -82050,7 +82029,6 @@
 *.zerkalo-leonbets-czi8s.xyz
 *.zerkalo-leonbets-d49n.buzz
 *.zerkalo-leonbets-dfg3.buzz
-*.zerkalo-leonbets-dgfh.buzz
 *.zerkalo-leonbets-doqsz.top
 *.zerkalo-leonbets-egu7.buzz
 *.zerkalo-leonbets-ewuui.xyz
@@ -82061,7 +82039,6 @@
 *.zerkalo-leonbets-izzj.buzz
 *.zerkalo-leonbets-jd31c.top
 *.zerkalo-leonbets-ji7f.buzz
-*.zerkalo-leonbets-jss2.buzz
 *.zerkalo-leonbets-jyez.buzz
 *.zerkalo-leonbets-kpz7.buzz
 *.zerkalo-leonbets-ls93.buzz
@@ -82086,7 +82063,6 @@
 *.zerkalo-leonbets-v6bp1.top
 *.zerkalo-leonbets-vgr8t.xyz
 *.zerkalo-leonbets-vvot.buzz
-*.zerkalo-leonbets-w5oi.buzz
 *.zerkalo-leonbets-zb3q2.xyz
 *.zerkalo-leonbets-zbmdm.xyz
 *.zerkalo-leonbets-zchf2.top

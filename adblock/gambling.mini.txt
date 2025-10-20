@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Oct 2025 14:49 UTC
-! Version: 2025.1019.1449.58
+! Last modified: 19 Oct 2025 23:20 UTC
+! Version: 2025.1019.2320.41
 ! Syntax: AdBlock
-! Number of entries: 44269
+! Number of entries: 44245
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -4627,7 +4627,6 @@
 ||alexandercasino-fr.org^
 ||alexandercasino-norway.com^
 ||alexandercasinofrance.org^
-||alexandercasinoo.com^
 ||alexanderjean.net^
 ||alexandriteluxuryhotelcasino.com^
 ||alexbets.xyz^
@@ -6265,7 +6264,6 @@
 ||banzaibets.xyz^
 ||banzaicasino.bet^
 ||banzaicasino.com^
-||banzaicasino-fr.com^
 ||banzaicasino-lk.com^
 ||bao-casino.win^
 ||baocasino.ca^
@@ -10591,7 +10589,6 @@
 ||capsulebets.xyz^
 ||captain-cooks-casino.ca^
 ||captain-cooks-casino-login.com^
-||captain-jackcasino.com^
 ||captain-slots.co^
 ||captain-slots-casino.net^
 ||captainbets.xyz^
@@ -12619,7 +12616,6 @@
 ||casinoly.ca^
 ||casinoly.com^
 ||casinoly-canada.ca^
-||casinoly-casino.org^
 ||casinoly-hr.com^
 ||casinoly-hu.com^
 ||casinoly-it.com^
@@ -12906,7 +12902,6 @@
 ||casinonet.ru^
 ||casinonettofun.com^
 ||casinonetworkasia.com^
-||casinonewjersey.com^
 ||casinonews.uk^
 ||casinonewsdaily.com^
 ||casinonewsmedia.com^
@@ -13036,7 +13031,6 @@
 ||casinoparadise8.com^
 ||casinoparatiisi.com^
 ||casinoparatodos.org^
-||casinoparisfrance.com^
 ||casinopark11.com^
 ||casinopark12.com^
 ||casinopark13.com^
@@ -13395,7 +13389,6 @@
 ||casinos-bonuscodes.com^
 ||casinos-cactus.ru^
 ||casinos-canadiens.org^
-||casinos-casinia.com^
 ||casinos-com.com^
 ||casinos-curacao.com^
 ||casinos-en-ligne.fr^
@@ -22229,7 +22222,6 @@
 ||hannamaruku.com^
 ||hannliveonline.com^
 ||hanoooman.xyz^
-||hanslot88keren.xyz^
 ||hanspokerparty.ca^
 ||hantuslotwow.com^
 ||hanzbet.com^
@@ -24566,10 +24558,8 @@
 ||kbkbet.io^
 ||kbkbet.org^
 ||kbkf.bet^
-||kbmotorsonline.com^
 ||kc9.lol^
 ||kc9-slots.com^
-||kcasinosite.com^
 ||kccd.org^
 ||kcv7pokerdom.com^
 ||kcwin17.com^
@@ -27304,7 +27294,6 @@
 ||malinacasinoapp.fr^
 ||malinacasinoaustralia.com^
 ||malinacasinoavis.fr^
-||malinacasinobonus.com^
 ||malinacasinobonus.fr^
 ||malinacasinocz.net^
 ||malinacasinodeutschland.com^
@@ -28391,7 +28380,6 @@
 ||millionpot.com^
 ||millionz.com^
 ||millionz-casino.net^
-||millionz-casinoenligne.com^
 ||milton-casino.com^
 ||milyon88.bond^
 ||milyon88slot.com^
@@ -29267,7 +29255,6 @@
 ||monacobet-casino.com^
 ||monacobet-casino.net^
 ||monacobetcasino.org^
-||monarquecasino.com^
 ||monarqueclub.com^
 ||moncasino.ca^
 ||moncasino.ga^
@@ -29685,7 +29672,6 @@
 ||mrcasino728.com^
 ||mrcasino729.com^
 ||mrcasino730.com^
-||mrcasinogir.net^
 ||mrcasinoslots.com^
 ||mrcasinova.com^
 ||mrcp889.com^
@@ -30799,7 +30785,6 @@
 ||octas107.site^
 ||octoplay.com^
 ||odawacasino.com^
-||oddigo-bisa.info^
 ||oddigostrong.xyz^
 ||odds.am^
 ||odds.ru^
@@ -35929,7 +35914,6 @@
 ||rpslots101.top^
 ||rpslots11.com^
 ||rptbet.casino^
-||rr.casino^
 ||rr.vip^
 ||rr88vip.com^
 ||rrbet.com^
@@ -35943,7 +35927,6 @@
 ||rsx-dblivecasino.com^
 ||rt66casino.com^
 ||rtbet.com^
-||rtbet-casino.org^
 ||rtbet1.com^
 ||rtbetcasino.app^
 ||rtbetcasinodeutschland.com^
@@ -36466,7 +36449,6 @@
 ||scooorecasino.net^
 ||scorebet-casino-south-africa.app^
 ||scorebetscore.com^
-||scorenemass.org^
 ||scores24.live^
 ||scoresandoddspoker.com^
 ||scorpcasino.us^
@@ -39051,7 +39033,6 @@
 ||talbantal.xyz^
 ||talent.casino^
 ||talismania.com^
-||talismania-casino-review.com^
 ||talismaniacasino.net^
 ||talismaniacasinos.com^
 ||talkbasket.com^
@@ -39725,7 +39706,6 @@
 ||tombriches.com^
 ||tomcasino.click^
 ||toms-outlet.net^
-||tomslot88keren.xyz^
 ||tomwaterhouse.com^
 ||tomwcommunications.com^
 ||toncasino.io^
@@ -41371,7 +41351,6 @@
 ||viggoslots.com^
 ||viggoslots.fr^
 ||viggoslots.pl^
-||viggoslots-reg.com^
 ||viggoslotscasino.dk^
 ||viggoslotsg.com^
 ||vigiswisscasino.com^
@@ -44021,7 +44000,6 @@
 ||zerkalo-leonbets-czi8s.xyz^
 ||zerkalo-leonbets-d49n.buzz^
 ||zerkalo-leonbets-dfg3.buzz^
-||zerkalo-leonbets-dgfh.buzz^
 ||zerkalo-leonbets-egu7.buzz^
 ||zerkalo-leonbets-gnr2k.top^
 ||zerkalo-leonbets-h0qdu.top^
@@ -44029,7 +44007,6 @@
 ||zerkalo-leonbets-izzj.buzz^
 ||zerkalo-leonbets-jd31c.top^
 ||zerkalo-leonbets-ji7f.buzz^
-||zerkalo-leonbets-jss2.buzz^
 ||zerkalo-leonbets-jyez.buzz^
 ||zerkalo-leonbets-kpz7.buzz^
 ||zerkalo-leonbets-ls93.buzz^
@@ -44048,7 +44025,6 @@
 ||zerkalo-leonbets-v6bp1.top^
 ||zerkalo-leonbets-vgr8t.xyz^
 ||zerkalo-leonbets-vvot.buzz^
-||zerkalo-leonbets-w5oi.buzz^
 ||zerkalo-leonbets-zb3q2.xyz^
 ||zerkalo-leonbets-zbmdm.xyz^
 ||zerkalo-leonbets-zchf2.top^

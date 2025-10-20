@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Oct 2025 11:43 UTC
-! Version: 2025.1018.1143.08
+! Last modified: 19 Oct 2025 23:26 UTC
+! Version: 2025.1019.2326.37
 ! Syntax: AdBlock
-! Number of entries: 3393
+! Number of entries: 3394
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1364,6 +1364,7 @@
 ||jalexx.freeboxos.fr^
 ||lilibox.freeboxos.fr^
 ||pcornet.freeboxos.fr^
+||hkname.freecdn.one^
 ||adblock.freeddns.org^
 ||aydank.freeddns.org^
 ||drandrade21.freeddns.org^

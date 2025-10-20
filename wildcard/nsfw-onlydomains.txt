@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 14:52 UTC
-# Version: 2025.1019.1452.23
+# Last modified: 19 Oct 2025 23:23 UTC
+# Version: 2025.1019.2323.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 79448
+# Number of entries: 79458
 #
 0000xxxx.com
 001-adult-toys-n-sex-dolls.com
@@ -740,7 +740,6 @@ vadimtrunov.35photo.ru
 360sex.xyz
 360vrporn.site
 365fucks.com
-365parma.net
 365porn.store
 365pornmovs.com
 365porno.one
@@ -5745,6 +5744,7 @@ arabe-gay.com
 arabellaescort.com
 arabeng.org
 arabesex.click
+arabesex.info
 arabesex.onl
 arabgayvideos.com
 arabgrid.net
@@ -10082,6 +10082,7 @@ bodrumtranslationoffice.com
 bodrumyorulmazgayrimenkul.com
 bodsforthemods.com
 body-n-mind.com
+body169.store
 bodyask.net
 bodybuilderbeautiful.com
 bodycontact.com
@@ -13922,6 +13923,7 @@ clipphot.net
 clipphot.store
 clipphot1.shop
 clipphot181.shop
+clipphot18pro.store
 clipphotlux.store
 clipphotorg.store
 clipphotpro.store
@@ -17265,6 +17267,7 @@ cxxxx.top
 cxxxy.top
 cxxxz.top
 cyacvdsgayfg.forum
+cyber-fk.net
 cyber-odpornosc.pl
 cybercitymodel.com
 cybercitymodels.com
@@ -18686,7 +18689,6 @@ dipikasharma.com
 dipikasingh.com
 diplomatiegouv.fr
 diplomnow-xxxgmyx.top
-dippy.ai
 app.dipseastories.com
 diptikaur.com
 directfundsexpress.com
@@ -19565,6 +19567,7 @@ sovet.donbass.com
 doncolombia.com
 donewporn.com
 donfrancks.com
+dong69.store
 dongamold.com
 dongbanto1.store
 dongbanto69.shop
@@ -23948,7 +23951,6 @@ findfree.xxx
 findgaytube.com
 findgilfs.com
 findgirlsdating.com
-findhere.org
 findhername.net
 findhotmilf.com
 findhqporner.store
@@ -33164,7 +33166,6 @@ ilvsex.xyz
 ilvxxx.xyz
 ilya.gay
 im12andgay.org
-a.im9.eu
 imadultcare.com
 imagearranger.com
 imageconverterx.in
@@ -34393,13 +34394,13 @@ itau-seguro.com
 13leagues.itch.io
 13th-sin-games.itch.io
 also123kimo.itch.io
+andrealphus.itch.io
 anduogames.itch.io
 animefanka.itch.io
 azrd79.itch.io
 baldhamster.itch.io
 belgerum.itch.io
 bokundev.itch.io
-bondagebunny.itch.io
 bottom-all-the-way.itch.io
 caesarcub.itch.io
 cherrykissgames.itch.io
@@ -34440,6 +34441,7 @@ fouzi94.itch.io
 foxicube.itch.io
 frostworks.itch.io
 furrgroup.itch.io
+fylokon-games.itch.io
 gabeinhalls.itch.io
 garage-dungeon.itch.io
 gendervamp.itch.io
@@ -34489,16 +34491,19 @@ lustsakura.itch.io
 luxobscura.itch.io
 m87124games.itch.io
 madmategames.itch.io
+malerouille.itch.io
 matpneumatos.itch.io
 medibang.itch.io
 medibang-manga.itch.io
 mega-blue-ball.itch.io
 melieconiek.itch.io
+melodysakura.itch.io
 messy-studios.itch.io
 milkyhoneysoft.itch.io
 milohaze-fetishfactory.itch.io
 mofu.itch.io
 monsterboxgames.itch.io
+morgangavin.itch.io
 mrcreep-games.itch.io
 mrheisenbergo.itch.io
 muller247.itch.io
@@ -34536,6 +34541,7 @@ perilous-words.itch.io
 phracassado.itch.io
 pinktea-games.itch.io
 pinkypads.itch.io
+pixelmiho.itch.io
 pizzacatmx.itch.io
 ponporio.itch.io
 pumpkinclowning.itch.io
@@ -34832,6 +34838,7 @@ jagaymeister.com
 jagayyapetatamilnadmercantilebank.com
 jagex.gay
 jagex-rs.com
+jaguaro.org
 jaincy.com
 jainsite.com
 jaipur-escort-girls.com
@@ -35566,6 +35573,7 @@ jcsexpresslogistica.me
 jdforum.net
 jdvance.gay
 jdvance2028.gay
+jdwsp4.homes
 jdylanrudicilai.gay
 jealmlcfbufmqbqrauho.com
 jealmlcfbufmqwqnvymb.com
@@ -35977,6 +35985,7 @@ jourfixe-muenchen-ev.com
 journalofasexaddict.com
 journaloftraining.net
 journeysexotica.space
+jouwpagina.be
 jouwpagina.nl
 jovencitas.gratis
 joybear.com
@@ -37258,7 +37267,6 @@ komsomolsk-sex24.ru
 kon.gay
 kon4aj.com
 konachan.com
-konachan.net
 konakescort.com
 konakgayrimenkuldudullu.com
 konchil.online
@@ -38653,6 +38661,7 @@ listcrawler.app
 listcrawler.com
 listcrawler.eu
 listensensex.xyz
+listifyapp.co
 listofporn.site
 listporn.top
 listslut.com
@@ -40065,7 +40074,6 @@ mangaswim.com
 mangatoto.com
 mangatoto.net
 mangatoto.org
-mangaupdates.com
 mangay24.com
 mangayaoi.net
 mangayaro.com
@@ -43526,6 +43534,7 @@ mysmallbusinessexpo.com
 mysnap.cc
 mysnap.pw
 mysnoiportal.ru
+mysonababy.com
 myspass.de
 myspicyvanilla.com
 myspree.club
@@ -49970,7 +49979,6 @@ porndoepremium.com
 porndogfucksgirl.net
 porndogsthemovie.com
 porndogstyle.space
-porndoll.com
 porndominator.com
 porndopo.click
 porndos.com
@@ -53807,6 +53815,7 @@ pornvideos.rs
 pornvideos.store
 pornvideos.tv
 pornvideos.website
+pornvideos.xxx
 pornvideos1.com
 pornvideos4k.com
 pornvideos7.com
@@ -55202,6 +55211,7 @@ pzsexdrctfvygbuhi.top
 pzsexdrctfvygbuhnij.top
 pzwsexdrcftvgybhunj.top
 q2.rs
+q34po.com
 qanjiq.ru
 qarporn.xyz
 qarsex.xyz
@@ -56535,7 +56545,6 @@ rodonesgayrimenkul.com
 rodrigolascivo.com
 roemerforum.com
 rogreviews.com
-roguesinparadise.com
 rohama.org
 rohasexpress.com
 rohinicallgirls.com
@@ -57838,6 +57847,7 @@ sekporno.site
 sekporno.space
 sekporno.website
 sekpornoizle.space
+seks.ws
 seks-devki.biz
 seks-pics.ru
 seks-porno.com
@@ -64203,6 +64213,7 @@ siaxxx.xyz
 sibelkekilli.com
 siberia113.ru
 sibitex.ru
+sibokep.boats
 sibokep.cam
 sibokep.stream
 sibotak.lol
@@ -65666,7 +65677,6 @@ spycoolvids.com
 spyerotic.com
 spyfam.com
 spyfans.com
-spyfoot.com
 spyhub.tv
 spying-cam.com
 spypornone.com
@@ -65968,7 +65978,6 @@ stern-setagaya.com
 sternporn.com
 sterobac.com
 steuerlotsexa.com
-stevedavisexcavating.net
 stevejabba.com
 stevemilfordinsurance.com
 stevengaydos.com
@@ -72795,6 +72804,7 @@ vitamin69pro.shop
 vitamin69pro1.shop
 vitamingai1.shop
 vitamingailux.shop
+vitamingailux.store
 vitamingaiplus1.shop
 vitamingaipro.store
 vitaminkuofc.com

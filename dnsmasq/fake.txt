@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 13:52 UTC
-# Version: 2025.1019.1352.03
+# Last modified: 19 Oct 2025 22:23 UTC
+# Version: 2025.1019.2223.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14183
+# Number of entries: 14187
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1870,6 +1870,7 @@ local=/brennholzgo.de/
 local=/brennholzhaus.de/
 local=/brennholzkamin.de/
 local=/brennholzmeister.com/
+local=/brennholzmeister.de/
 local=/brennholzpellets.com/
 local=/brennholzruhl.de/
 local=/brennholzs.com/
@@ -3366,6 +3367,7 @@ local=/dithclerk.com/
 local=/divine-group.io/
 local=/divingshop.nl/
 local=/divisaautopecas.com/
+local=/divisconcept.com/
 local=/divorion.com/
 local=/divyz.com/
 local=/diytools-store.com/
@@ -6088,6 +6090,7 @@ local=/holzhandler.com/
 local=/holzharry.shop/
 local=/holzhaven.de/
 local=/holzheimersdorf.com/
+local=/e.holzheiz.com/
 local=/holzlagermarket.com/
 local=/holzliefer.com/
 local=/holzmarkte.de/
@@ -6097,6 +6100,7 @@ local=/holzqualitat.de/
 local=/holzraun.com/
 local=/holzstreif.de/
 local=/holzti.com/
+local=/holzvomland.de/
 local=/holzwerkzeugekaufen.com/
 local=/homado.de/
 local=/home-aytm.com/
