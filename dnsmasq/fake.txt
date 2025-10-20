@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 22:23 UTC
-# Version: 2025.1019.2223.29
+# Last modified: 20 Oct 2025 10:24 UTC
+# Version: 2025.1020.1024.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14187
+# Number of entries: 14183
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2412,7 +2412,6 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
-local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -6443,7 +6442,6 @@ local=/indicativet.com/
 local=/indigo-investissement.com/
 local=/individualm.com/
 local=/individualw.com/
-local=/indonesiahotel24.com/
 local=/indoorecofarm.com/
 local=/industrie-moebel.eu/
 local=/industriebauladen.com/
@@ -8162,7 +8160,6 @@ local=/mediamarkets.de/
 local=/mediamarkkinat.com/
 local=/mediamarkt-at.com/
 local=/mediamarkt-de.com/
-local=/mediaplus.shop/
 local=/mediatech-shop.com/
 local=/medicalandbeautycare.com/
 local=/medicamententreparticulier.com/
@@ -10231,7 +10228,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -10650,6 +10646,7 @@ local=/rheinlandstore.shop/
 local=/rheinwing.de/
 local=/rhineritz.de/
 local=/rhinowalk.com/
+local=/rhodeshotel24.com/
 local=/ri-lieeoodu.com/
 local=/ribeiraoautoparts.com/
 local=/ricadihotelspage.com/
@@ -11668,7 +11665,6 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
-local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
 local=/specialtytraderssale.shop/

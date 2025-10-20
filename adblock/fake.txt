@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Oct 2025 22:23 UTC
-! Version: 2025.1019.2223.29
+! Last modified: 20 Oct 2025 10:24 UTC
+! Version: 2025.1020.1024.07
 ! Syntax: AdBlock
-! Number of entries: 14187
+! Number of entries: 14183
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2413,7 +2413,6 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
-||cllusatoam.com^
 ||clockwisek.com^
 ||clorislife.com^
 ||clotha-boutique.de^
@@ -6444,7 +6443,6 @@
 ||indigo-investissement.com^
 ||individualm.com^
 ||individualw.com^
-||indonesiahotel24.com^
 ||indoorecofarm.com^
 ||industrie-moebel.eu^
 ||industriebauladen.com^
@@ -8163,7 +8161,6 @@
 ||mediamarkkinat.com^
 ||mediamarkt-at.com^
 ||mediamarkt-de.com^
-||mediaplus.shop^
 ||mediatech-shop.com^
 ||medicalandbeautycare.com^
 ||medicamententreparticulier.com^
@@ -10232,7 +10229,6 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
-||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -10651,6 +10647,7 @@
 ||rheinwing.de^
 ||rhineritz.de^
 ||rhinowalk.com^
+||rhodeshotel24.com^
 ||ri-lieeoodu.com^
 ||ribeiraoautoparts.com^
 ||ricadihotelspage.com^
@@ -11669,7 +11666,6 @@
 ||sparprime.com^
 ||sparwahnsinn24.de^
 ||spd-mossautal.de^
-||specializeg.com^
 ||specialmenswear.com^
 ||specialselling.com^
 ||specialtytraderssale.shop^

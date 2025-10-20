@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Oct 2025 23:35 UTC
-! Version: 2025.1018.2335.42
+! Last modified: 20 Oct 2025 11:29 UTC
+! Version: 2025.1020.1129.49
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -286,7 +286,7 @@
 ||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~noclip.website|~thatsup.website|~tilde.website|~uphold.website
 ||wedding^$doc
 ||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~chibi-robo.wiki|~consumerrights.wiki|~cooked.wiki|~datei.wiki|~deadlock.wiki|~deltarune.wiki|~dragalialost.wiki|~drawntolife.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~hololive.wiki|~klingon.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~mtg.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~pizzatower.wiki|~rs.wiki|~runescape.wiki|~saintsrow.wiki|~severance.wiki|~survivors.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~twewy.wiki|~umamusu.wiki|~undertale.wiki|~usermanual.wiki|~w.wiki|~zeldawiki.wiki|~zeppelin.wiki
-||win^$doc,domain=~activated.win|~communities.win|~patriots.win|~vaultcord.win
+||win^$doc,domain=~activated.win|~communities.win|~debloat.win|~patriots.win|~vaultcord.win
 ||wine^$doc,domain=~nostr.wine
 ||work^$doc,domain=~doesmycode.work|~elphago.work|~frame.work|~koding.work|~mirror.work
 ||world^$doc,domain=~boo.world|~calckey.world|~camhub.world|~edgecdn.world|~ift.world|~lemmings.world|~lemmy.world|~mastodon.world|~maxwellcat.world|~meming.world|~mnetplus.world|~mnr.world|~shitposter.world|~unidays.world|~userstyles.world|~welocal.world|~wetdry.world|~wiz.world
