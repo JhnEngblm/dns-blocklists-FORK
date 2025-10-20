@@ -596,6 +596,13 @@
       }
     },
     {
+      "PK": "cdn-exp-sg-recommend.pt.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cdn.exp.xiaomi.com",
       "action": {
         "do": 0,

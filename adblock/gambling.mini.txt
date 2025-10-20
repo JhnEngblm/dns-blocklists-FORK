@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Oct 2025 11:23 UTC
-! Version: 2025.1020.1123.19
+! Last modified: 20 Oct 2025 23:24 UTC
+! Version: 2025.1020.2324.23
 ! Syntax: AdBlock
-! Number of entries: 42872
+! Number of entries: 42863
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -260,7 +260,6 @@
 ||1400bets10.cc^
 ||1401bets10.cc^
 ||1401betsl0.com^
-||1402betsl0.com^
 ||140actu.com^
 ||1412betsl0.com^
 ||1413joycasino.com^
@@ -14756,7 +14755,6 @@
 ||chiamatemizia.com^
 ||chibabet.com^
 ||chibets.xyz^
-||chicagodruglaws.info^
 ||chicken.gg^
 ||chicken-road.net^
 ||chicken-road-official-go-to-play-casino.site^
@@ -16685,7 +16683,6 @@
 ||cosmoslotsgoldendust.com^
 ||costabingo.com^
 ||costagames.com^
-||costtransfer.info^
 ||countbets.xyz^
 ||countcasino.xyz^
 ||counterbets.xyz^
@@ -19882,7 +19879,6 @@
 ||fusototo.com^
 ||futarchycasino.com^
 ||futdados.com^
-||futsalmagazin.com^
 ||futureplay.com^
 ||futvale.com^
 ||fuwin.com^
@@ -20747,7 +20743,6 @@
 ||globalgamblingindustry.com^
 ||globallivecasino.com^
 ||globalpoker.com^
-||globalpokerapp.com^
 ||globalpride2020.org^
 ||globalrifasvzla.com^
 ||globalslots.xyz^
@@ -22487,7 +22482,6 @@
 ||indocasinoservices.com^
 ||indogamblerscasino.com^
 ||indohoki77.site^
-||indokoin.cloud^
 ||indomaret.click^
 ||indomaret88.store^
 ||indonesia86a.click^
@@ -24957,7 +24951,6 @@
 ||legendz.com^
 ||legiano.com^
 ||legiano-7651.com^
-||legiano-casino.net^
 ||legiano-casino.org^
 ||legiano-casino-hu.com^
 ||legiano10.com^
@@ -32848,7 +32841,6 @@
 ||pokerhatbar.com^
 ||pokerhausbrasil.com^
 ||pokerholes.com^
-||pokerhub.biz^
 ||pokerhub.ro^
 ||pokerhub.xyz^
 ||pokeriabynima.com^
@@ -42086,7 +42078,6 @@
 ||won789.com^
 ||won888.cn^
 ||won888casino.com^
-||wonaco-casino.net^
 ||wonaco3.com^
 ||wonacocasino-de.com^
 ||wonacocasinode.com^

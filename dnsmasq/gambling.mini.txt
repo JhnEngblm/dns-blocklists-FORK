@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 11:23 UTC
-# Version: 2025.1020.1123.19
+# Last modified: 20 Oct 2025 23:24 UTC
+# Version: 2025.1020.2324.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 42872
+# Number of entries: 42863
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -259,7 +259,6 @@ local=/13hellspin.com/
 local=/1400bets10.cc/
 local=/1401bets10.cc/
 local=/1401betsl0.com/
-local=/1402betsl0.com/
 local=/140actu.com/
 local=/1412betsl0.com/
 local=/1413joycasino.com/
@@ -14755,7 +14754,6 @@ local=/chezacash.com/
 local=/chiamatemizia.com/
 local=/chibabet.com/
 local=/chibets.xyz/
-local=/chicagodruglaws.info/
 local=/chicken.gg/
 local=/chicken-road.net/
 local=/chicken-road-official-go-to-play-casino.site/
@@ -16684,7 +16682,6 @@ local=/cosmoslots.tech/
 local=/cosmoslotsgoldendust.com/
 local=/costabingo.com/
 local=/costagames.com/
-local=/costtransfer.info/
 local=/countbets.xyz/
 local=/countcasino.xyz/
 local=/counterbets.xyz/
@@ -19881,7 +19878,6 @@ local=/fusionworldslots360.com/
 local=/fusototo.com/
 local=/futarchycasino.com/
 local=/futdados.com/
-local=/futsalmagazin.com/
 local=/futureplay.com/
 local=/futvale.com/
 local=/fuwin.com/
@@ -20746,7 +20742,6 @@ local=/globalcasinoslothouse.com/
 local=/globalgamblingindustry.com/
 local=/globallivecasino.com/
 local=/globalpoker.com/
-local=/globalpokerapp.com/
 local=/globalpride2020.org/
 local=/globalrifasvzla.com/
 local=/globalslots.xyz/
@@ -22486,7 +22481,6 @@ local=/indocasino88.com/
 local=/indocasinoservices.com/
 local=/indogamblerscasino.com/
 local=/indohoki77.site/
-local=/indokoin.cloud/
 local=/indomaret.click/
 local=/indomaret88.store/
 local=/indonesia86a.click/
@@ -24956,7 +24950,6 @@ local=/legendz.casino/
 local=/legendz.com/
 local=/legiano.com/
 local=/legiano-7651.com/
-local=/legiano-casino.net/
 local=/legiano-casino.org/
 local=/legiano-casino-hu.com/
 local=/legiano10.com/
@@ -32847,7 +32840,6 @@ local=/pokerguideai.com/
 local=/pokerhatbar.com/
 local=/pokerhausbrasil.com/
 local=/pokerholes.com/
-local=/pokerhub.biz/
 local=/pokerhub.ro/
 local=/pokerhub.xyz/
 local=/pokeriabynima.com/
@@ -42085,7 +42077,6 @@ local=/won66-casino.online/
 local=/won789.com/
 local=/won888.cn/
 local=/won888casino.com/
-local=/wonaco-casino.net/
 local=/wonaco3.com/
 local=/wonacocasino-de.com/
 local=/wonacocasinode.com/

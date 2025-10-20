@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 11:22 UTC
-# Version: 2025.1020.1122.47
+# Last modified: 20 Oct 2025 23:23 UTC
+# Version: 2025.1020.2323.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 80841
+# Number of entries: 80832
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -515,7 +515,6 @@ local=/13win5.casino/
 local=/1400bets10.cc/
 local=/1401bets10.cc/
 local=/1401betsl0.com/
-local=/1402betsl0.com/
 local=/140actu.com/
 local=/1412bets10.cc/
 local=/1412betsl0.com/
@@ -26760,7 +26759,6 @@ local=/chiamatemizia.com/
 local=/chibabet.com/
 local=/chibets.xyz/
 local=/chicagobets.xyz/
-local=/chicagodruglaws.info/
 local=/chick-road-casino.com/
 local=/chick-road-slots.com/
 local=/chickcasino.com/
@@ -29987,7 +29985,6 @@ local=/costagames.com/
 local=/costantincasino.com/
 local=/costar.casino/
 local=/costarcasino.com/
-local=/costtransfer.info/
 local=/cotibets.xyz/
 local=/coticasino.xyz/
 local=/coumadinp.com/
@@ -35842,7 +35839,6 @@ local=/fusototo.com/
 local=/futarchycasino.com/
 local=/futdados.com/
 local=/futsalclub.org/
-local=/futsalmagazin.com/
 local=/futureplay.com/
 local=/futurescasino.com/
 local=/futuriti.casino/
@@ -37311,7 +37307,6 @@ local=/globallivecasino.com/
 local=/globalpoker.com/
 local=/globalpoker.eu/
 local=/globalpoker.poker/
-local=/globalpokerapp.com/
 local=/globalpokeri.com/
 local=/globalpride2020.org/
 local=/globalrifasvzla.com/
@@ -40412,7 +40407,6 @@ local=/indoharden.xyz/
 local=/indohoki77.site/
 local=/indoindex.id/
 local=/indokareem.xyz/
-local=/indokoin.cloud/
 local=/indoliana.xyz/
 local=/indolive.xyz/
 local=/indoluckybet.com/
@@ -45720,7 +45714,6 @@ local=/legendzcasino.club/
 local=/legiano.com/
 local=/legiano-7651.com/
 local=/legiano-casino.com/
-local=/legiano-casino.net/
 local=/legiano-casino.org/
 local=/legiano-casino-hu.com/
 local=/legiano10.com/
@@ -61225,7 +61218,6 @@ local=/pokerhokibet88b.online/
 local=/pokerholes.com/
 local=/pokerhood.jp/
 local=/pokerhoodteam.com/
-local=/pokerhub.biz/
 local=/pokerhub.ro/
 local=/pokerhub.xyz/
 local=/pokeriabynima.com/
@@ -79241,7 +79233,6 @@ local=/won789.com/
 local=/won888.cn/
 local=/won888casino.com/
 local=/wonaco-casino.com/
-local=/wonaco-casino.net/
 local=/wonaco-casinoo.com/
 local=/wonaco-casinos.com/
 local=/wonaco3.com/

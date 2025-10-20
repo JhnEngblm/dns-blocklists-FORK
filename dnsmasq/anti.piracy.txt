@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 11:23 UTC
-# Version: 2025.1020.1123.40
+# Last modified: 20 Oct 2025 23:24 UTC
+# Version: 2025.1020.2324.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11279
+# Number of entries: 11280
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1981,6 +1981,7 @@ local=/cmovieshd.com/
 local=/cmovieshd.net/
 local=/cmovieshd.vip/
 local=/cnetworkbd.net/
+local=/cny.fan/
 local=/321movies.co.uk/
 local=/althub.co.za/
 local=/an1.co.in/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 10:24 UTC
-# Version: 2025.1020.1024.07
+# Last modified: 20 Oct 2025 22:25 UTC
+# Version: 2025.1020.2225.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14183
+# Number of entries: 14191
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -930,6 +930,7 @@ local=/avasuite.com/
 local=/avatradeshow.com/
 local=/avaxmarkets.com/
 local=/avelu.de/
+local=/avemiosolutions.com/
 local=/avenexco.com/
 local=/avengeapollo.com/
 local=/avenly.de/
@@ -7888,6 +7889,7 @@ local=/luzern-mode.ch/
 local=/luzuna.com/
 local=/lvm-capital.com/
 local=/lwex02.com/
+local=/lxcvt.shop/
 local=/lynch-care.com/
 local=/lynx-ai.pro/
 local=/lypgm.com/
@@ -8090,6 +8092,7 @@ local=/massimolutti.de/
 local=/massive-deals.com/
 local=/masterbaushop.de/
 local=/mastercareerlink.online/
+local=/masterofmalteu.shop/
 local=/masti.store/
 local=/mataporkoz.com/
 local=/matcha-sllim.cc/
@@ -10169,6 +10172,7 @@ local=/pro-ben.de/
 local=/pro-binary.com/
 local=/pro-containers.de/
 local=/pro-kreditfinanz.de/
+local=/pro-radler.de/
 local=/pro-talentsycner.online/
 local=/pro-trends.co/
 local=/proactiveping.com/
@@ -12112,6 +12116,7 @@ local=/surfside-summer.store/
 local=/susansboutique-naples.com/
 local=/sute-tech.de/
 local=/suuio.top/
+local=/suveneoutlet.com/
 local=/svartaeu.shop/
 local=/svelton.com/
 local=/sveni.shop/
@@ -13609,6 +13614,7 @@ local=/watersportsgalaxy.com/
 local=/watson-manchester.com/
 local=/wattcafe.fr/
 local=/waxify.de/
+local=/waxmk.com/
 local=/wayfairwebsite.pro/
 local=/waykitchenette.com/
 local=/wayofwadeshoesuk.com/
@@ -13848,6 +13854,7 @@ local=/wohnideebilder.shop/
 local=/wohnkuchede.com/
 local=/wohnungdirekt.com/
 local=/wohnungen-wohnen.de/
+local=/wohnweltmarkt.com/
 local=/woin8.com/
 local=/wojas.top/
 local=/wolant.com/
@@ -14127,6 +14134,7 @@ local=/zentempel.com/
 local=/zentiv.de/
 local=/zentrumeinkauf.com/
 local=/zeppeespadrillas.com/
+local=/zeppelindao.com/
 local=/zeradaoautopecas.com/
 local=/zeroceann.com/
 local=/zeroplay.de/

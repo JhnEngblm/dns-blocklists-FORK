@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 11:22 UTC
-# Version: 2025.1020.1122.47
+# Last modified: 20 Oct 2025 23:23 UTC
+# Version: 2025.1020.2323.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 80841
+# Number of entries: 80832
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -515,7 +515,6 @@
 *.1400bets10.cc
 *.1401bets10.cc
 *.1401betsl0.com
-*.1402betsl0.com
 *.140actu.com
 *.1412bets10.cc
 *.1412betsl0.com
@@ -26760,7 +26759,6 @@
 *.chibabet.com
 *.chibets.xyz
 *.chicagobets.xyz
-*.chicagodruglaws.info
 *.chick-road-casino.com
 *.chick-road-slots.com
 *.chickcasino.com
@@ -29987,7 +29985,6 @@
 *.costantincasino.com
 *.costar.casino
 *.costarcasino.com
-*.costtransfer.info
 *.cotibets.xyz
 *.coticasino.xyz
 *.coumadinp.com
@@ -35842,7 +35839,6 @@
 *.futarchycasino.com
 *.futdados.com
 *.futsalclub.org
-*.futsalmagazin.com
 *.futureplay.com
 *.futurescasino.com
 *.futuriti.casino
@@ -37311,7 +37307,6 @@
 *.globalpoker.com
 *.globalpoker.eu
 *.globalpoker.poker
-*.globalpokerapp.com
 *.globalpokeri.com
 *.globalpride2020.org
 *.globalrifasvzla.com
@@ -40412,7 +40407,6 @@
 *.indohoki77.site
 *.indoindex.id
 *.indokareem.xyz
-*.indokoin.cloud
 *.indoliana.xyz
 *.indolive.xyz
 *.indoluckybet.com
@@ -45720,7 +45714,6 @@
 *.legiano.com
 *.legiano-7651.com
 *.legiano-casino.com
-*.legiano-casino.net
 *.legiano-casino.org
 *.legiano-casino-hu.com
 *.legiano10.com
@@ -61225,7 +61218,6 @@
 *.pokerholes.com
 *.pokerhood.jp
 *.pokerhoodteam.com
-*.pokerhub.biz
 *.pokerhub.ro
 *.pokerhub.xyz
 *.pokeriabynima.com
@@ -79241,7 +79233,6 @@
 *.won888.cn
 *.won888casino.com
 *.wonaco-casino.com
-*.wonaco-casino.net
 *.wonaco-casinoo.com
 *.wonaco-casinos.com
 *.wonaco3.com

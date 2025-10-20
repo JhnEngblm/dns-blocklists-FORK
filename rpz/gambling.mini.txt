@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760959380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761002640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Oct 2025 11:23 UTC
-; Version: 2025.1020.1123.19
+; Last modified: 20 Oct 2025 23:24 UTC
+; Version: 2025.1020.2324.23
 ; Syntax: RPZ
-; Number of entries: 85744
+; Number of entries: 85726
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2704,8 +2704,6 @@ playzillacasino.biz CNAME .
 *.playzillacasino.biz CNAME .
 pobeda-casino.biz CNAME .
 *.pobeda-casino.biz CNAME .
-pokerhub.biz CNAME .
-*.pokerhub.biz CNAME .
 pokeronlinerus.biz CNAME .
 *.pokeronlinerus.biz CNAME .
 popup-casinoparty.biz CNAME .
@@ -8964,8 +8962,6 @@ hot51.cloud CNAME .
 *.hot51.cloud CNAME .
 huuuge.cloud CNAME .
 *.huuuge.cloud CNAME .
-indokoin.cloud CNAME .
-*.indokoin.cloud CNAME .
 jilivs.cloud CNAME .
 *.jilivs.cloud CNAME .
 ktvc4casino.cloud CNAME .
@@ -10232,8 +10228,6 @@ sweepstakescasinopromo.codes CNAME .
 *.13hellspin.com CNAME .
 1401betsl0.com CNAME .
 *.1401betsl0.com CNAME .
-1402betsl0.com CNAME .
-*.1402betsl0.com CNAME .
 140actu.com CNAME .
 *.140actu.com CNAME .
 1412betsl0.com CNAME .
@@ -26452,8 +26446,6 @@ futarchycasino.com CNAME .
 *.futarchycasino.com CNAME .
 futdados.com CNAME .
 *.futdados.com CNAME .
-futsalmagazin.com CNAME .
-*.futsalmagazin.com CNAME .
 futureplay.com CNAME .
 *.futureplay.com CNAME .
 futvale.com CNAME .
@@ -27206,8 +27198,6 @@ globallivecasino.com CNAME .
 *.globallivecasino.com CNAME .
 globalpoker.com CNAME .
 *.globalpoker.com CNAME .
-globalpokerapp.com CNAME .
-*.globalpokerapp.com CNAME .
 globalrifasvzla.com CNAME .
 *.globalrifasvzla.com CNAME .
 globalspinscasino.com CNAME .
@@ -52008,8 +51998,6 @@ ceria777pulsa.info CNAME .
 *.ceria777pulsa.info CNAME .
 chemdat.info CNAME .
 *.chemdat.info CNAME .
-chicagodruglaws.info CNAME .
-*.chicagodruglaws.info CNAME .
 chosen-onlinecasinos-sites.info CNAME .
 *.chosen-onlinecasinos-sites.info CNAME .
 classicyacht.info CNAME .
@@ -52022,8 +52010,6 @@ combatcasino.info CNAME .
 *.combatcasino.info CNAME .
 conexihon.info CNAME .
 *.conexihon.info CNAME .
-costtransfer.info CNAME .
-*.costtransfer.info CNAME .
 crocoslots.info CNAME .
 *.crocoslots.info CNAME .
 crownresources.info CNAME .
@@ -57582,8 +57568,6 @@ leatoto.net CNAME .
 *.leatoto.net CNAME .
 legal-casino.net CNAME .
 *.legal-casino.net CNAME .
-legiano-casino.net CNAME .
-*.legiano-casino.net CNAME .
 legianocasinofrance.net CNAME .
 *.legianocasinofrance.net CNAME .
 legzocasino-de.net CNAME .
@@ -58864,8 +58848,6 @@ wolfverrin88.net CNAME .
 *.wolfverrin88.net CNAME .
 wolfwinner.net CNAME .
 *.wolfwinner.net CNAME .
-wonaco-casino.net CNAME .
-*.wonaco-casino.net CNAME .
 woocasino6.net CNAME .
 *.woocasino6.net CNAME .
 woopwincasino.net CNAME .
