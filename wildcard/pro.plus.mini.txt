@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 11:13 UTC
-# Version: 2025.1021.1113.22
+# Last modified: 21 Oct 2025 15:05 UTC
+# Version: 2025.1021.1505.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 60141
+# Number of entries: 60114
 #
 *.00055edc1917.com
 *.0007999ab0.shop
@@ -727,7 +727,6 @@
 *.1a60fbdc71edd5f89643ab649de8b867.com
 *.1a640fbdd1016.beer
 *.1a671b39633f00bd.com
-*.1aa811a337.com
 *.1aab715d01015.beer
 *.1aacb6bb9f.com
 *.1aadecf351015.beer
@@ -1216,7 +1215,6 @@
 *.2afb54c491015.beer
 *.2annalea.com
 *.2b051f0641014.beer
-*.2b178ee32a.com
 *.2b17f204420b76b09b1a71533a5179b8.com
 *.2b1eeae89165.top
 *.2b2fe49da7741c0a491eec6a610e7de9.com
@@ -1444,6 +1442,7 @@
 *.340ea1254ab5.top
 *.3412f7771a82.top
 *.34139368e1019.beer
+*.342923568289.sbs
 *.342f163721019.beer
 *.344422cad1013.beer
 *.344d623b6061211f98139844d18f2a5f.com
@@ -3188,7 +3187,6 @@
 *.84ce5b9e31013.beer
 *.84d8388721016.beer
 *.84dwl4bbq.com
-*.84ec0c734f.com
 *.84f7a67041015.beer
 *.850-google.com
 *.8515ad73b1016.beer
@@ -4271,6 +4269,7 @@
 *.aboardstepbugs.com
 *.abonnement-iptvfrance.fr
 *.abonnementtripleexplore.com
+*.aboostt.lat
 *.track.aboutabsorb.com
 *.aboutads.info
 *.aboutads.net
@@ -6340,6 +6339,7 @@
 *.afgnckn.com
 *.afgr1.com
 *.afi-b.com
+*.afile2.com
 *.afiliapub.click
 *.afilo.pl
 *.analytics.afirstsoft.cn
@@ -7302,7 +7302,6 @@
 *.alpixtrack.com
 *.alqjtrpypwxg.com
 *.alright.network
-*.alsafwa-delivery.online
 *.exponea-api.alshaya.com
 *.alsmdb.com
 *.alsowhirl.com
@@ -8841,6 +8840,7 @@
 *.arminius.io
 *.armoniacenter.com
 *.p.armorgames.net
+*.armour-inc-down.net
 *.rpbpo.armra.com
 *.sst.armra.com
 *.armra-colostrums.site
@@ -9336,6 +9336,7 @@
 *.augustads.com
 *.augustboyby.com
 *.analytics-api.augustinusbader.com
+*.aukcja-8fg2lf458h5gg12xys9.org
 *.aumago.com
 *.aumentalioraapp.com
 *.aumtoubsoas.com
@@ -10403,6 +10404,7 @@
 *.analytics.us.access.barracuda.com
 *.barrasdockage.com
 *.barrierinterest.com
+*.barrimetal.shop
 *.tags.barrons.com
 *.barsshrug.com
 *.tao.barstoolsports.com
@@ -10659,6 +10661,7 @@
 *.bcgame.top
 *.bchhd.shop
 *.bchsx.shop
+*.bchun.cyou
 *.bcibf.top
 *.tracking.bciplus.cl
 *.bcjjf.club
@@ -11731,6 +11734,7 @@
 *.bloatingexpectantretinal.com
 *.bloblohub.com
 *.blobspot.com
+*.blochworld-eu.com
 *.log.block.si
 *.blockadsnot.com
 *.blockboardtech.com
@@ -12027,7 +12031,6 @@
 *.bongocat.top
 *.bonguides.com
 *.bonitrust.de
-*.bonkscapta.space
 *.bonksmooth.cyou
 *.bonne-terre-data-layer.com
 *.bonnettaking.com
@@ -12596,6 +12599,7 @@
 *.bu1jw93q1l.com
 *.buae.shop
 *.buballmighty.com
+*.bubbi.ai
 *.bubblesmedia.net
 *.bubblessudsman.com
 *.bubblyzucchini.com
@@ -15223,38 +15227,7 @@
 *.cnet-kaiyun.com
 *.cnetcontentsolutions.com
 *.cnhv.co
-*.cnic-probe-aws-asia-tokyo-live-1760833502.online
-*.cnic-probe-aws-asia-tokyo-live-1760835001.online
-*.cnic-probe-aws-asia-tokyo-live-1760917501.xyz
-*.cnic-probe-aws-eu-frankfurt-live-1760831101.online
-*.cnic-probe-aws-eu-frankfurt-live-1760831701.online
-*.cnic-probe-aws-eu-frankfurt-live-1760832001.online
-*.cnic-probe-aws-eu-frankfurt-live-1760833801.online
-*.cnic-probe-aws-eu-frankfurt-live-1760834701.online
-*.cnic-probe-aws-eu-frankfurt-live-1760835601.online
-*.cnic-probe-aws-eu-frankfurt-live-1760915401.xyz
-*.cnic-probe-aws-eu-frankfurt-live-1760915701.xyz
-*.cnic-probe-aws-eu-frankfurt-live-1760916902.xyz
-*.cnic-probe-aws-eu-frankfurt-live-1760918101.xyz
-*.cnic-probe-aws-north-america-oregon-live-1760833201.online
-*.cnic-probe-aws-north-america-oregon-live-1760835301.online
-*.cnic-probe-aws-north-america-oregon-live-1760913901.xyz
-*.cnic-probe-aws-north-america-oregon-live-1760914501.xyz
-*.cnic-probe-aws-north-america-oregon-live-1760916601.xyz
-*.cnic-probe-aws-north-america-vir-live-1760832301.online
-*.cnic-probe-aws-north-america-vir-live-1760834101.online
-*.cnic-probe-aws-north-america-vir-live-1760834401.online
-*.cnic-probe-aws-north-america-vir-live-1760914201.xyz
-*.cnic-probe-aws-north-america-vir-live-1760914801.xyz
-*.cnic-probe-aws-north-america-vir-live-1760915101.xyz
-*.cnic-probe-aws-north-america-vir-live-1760916001.xyz
-*.cnic-probe-aws-north-america-vir-live-1760916301.xyz
-*.cnic-probe-aws-north-america-vir-live-1760917801.xyz
-*.cnic-probe-aws-oceania-sydney-live-1760831401.online
-*.cnic-probe-aws-oceania-sydney-live-1760832601.online
-*.cnic-probe-aws-oceania-sydney-live-1760832901.online
-*.cnic-probe-aws-oceania-sydney-live-1760913601.xyz
-*.cnic-probe-aws-oceania-sydney-live-1760917201.xyz
+*.cnierscmi.pro
 *.cnitblog.com
 *.cnk3jdjtk.com
 *.ad.cnki.net
@@ -15294,7 +15267,6 @@
 *.cntxcdm.com
 *.cnvlink.com
 *.cnvr.net
-*.cnwucnf.top
 *.cnzz.cn
 *.cnzz.com
 *.cnzz.net
@@ -17056,6 +17028,7 @@
 *.consultane.com
 *.banner.consultant.ru
 *.track.consultant360.com
+*.consultingpage2025.cfd
 *.consultsystems.ru
 *.consultwebs.com
 *.consumable.com
@@ -17343,6 +17316,7 @@
 *.costaction.com
 *.smetrics.costco.com
 *.costco-adbutler.com
+*.costlyshare.pro
 *.costutopdr.news
 *.costwinner.com
 *.cosubjecunvine.com
@@ -19688,7 +19662,6 @@
 *.djxtphppxkzkx.website
 *.djxvcxcynqbn.com
 *.delivery-ci360.infos.dkb.de
-*.dkbtan-check.online
 *.dkcadaku.com
 *.dkdipktuh.com
 *.dkf201.com
@@ -20180,6 +20153,7 @@
 *.dratetillage.com
 *.dravexolyapp.com
 *.dravexolyapp.net
+*.dravionperalis.cyou
 *.dravixen-invest.com
 *.dravixenapp.net
 *.drawntightlymuxulx.sbs
@@ -20454,6 +20428,7 @@
 *.durchsichtig.xyz
 *.duregqgfvravp.space
 *.duringcereal.com
+*.duringcscreen.icu
 *.analytics.durst-group.com
 *.tracking.dusk.com
 *.dustinga.com
@@ -22000,12 +21975,8 @@
 *.esigningapp.com
 *.esjoeuuzfgzsi.website
 *.eskimi.com
-*.esl-org-fraud-review.cfd
-*.esl-org-fraud-review.sbs
 *.esl-org-fraudalerts.click
 *.esl-org-fraudalerts.sbs
-*.esl-org-verify-now.cfd
-*.esl-org-verify-now.sbs
 *.esm1.net
 *.ad.esmplus.com
 *.account.esms.vn
@@ -22551,7 +22522,6 @@
 *.f-fri.net
 *.sentry.f-i.de
 *.f-tra.com
-*.f00e5af405.com
 *.f015b4d44a.com
 *.f03f.com
 *.f07a170bf1015.beer
@@ -22785,7 +22755,6 @@
 *.dns.facebook.com
 *.pixel.facebook.com
 *.facebook-ad.app
-*.facebook-gift.info
 *.facebook-growth-hub.com
 *.facebook-page.top
 *.facebook-websites.nl
@@ -22867,6 +22836,7 @@
 *.fallaciousfifth.com
 *.fallenminer.com
 *.fallguysmobile.com
+*.falriondemetra.icu
 *.falsenight.com
 *.falsifyprobable.com
 *.falugyw.com
@@ -23335,7 +23305,6 @@
 *.fibra.sbs
 *.ficca2021.com
 *.ficohsa-hn.com
-*.ficohsa-hnd.xyz
 *.fid-intl.com
 *.fidatmonvex.com
 *.fidele-fintrion.net
@@ -24144,8 +24113,6 @@
 *.frase.io
 *.fraud-chargea-esl-org.sbs
 *.fraud-online-esl-org.click
-*.fraud-review-esl-org.cfd
-*.fraud-review-esl-org.sbs
 *.fraud0.com
 *.fraud1-online-esl-org.click
 *.fraudalerts-esl-org.click
@@ -26253,7 +26220,6 @@
 *.gourdy-dandysworldplushie.com
 *.gourdydandysworld.com
 *.gourmetads.com
-*.gourn.agency
 *.stats.data.gouv.fr
 *.bmly.impots.gouv.fr
 *.gouwubang.com
@@ -27192,6 +27158,7 @@
 *.helpdesk-bov.com
 *.helpdesk-tech.com
 *.helpedmirth.com
+*.helpertesthome.com
 *.helpexamples.com
 *.helpful-web.com
 *.beacon-v2.helpscout.net
@@ -29674,6 +29641,7 @@
 *.inventorycache.com
 *.matomo.investagrams.com
 *.investalepregnancy.com
+*.investigationssix.click
 *.investinfo.net
 *.si.education.investing.com
 *.streamjs.investing.com
@@ -36278,6 +36246,7 @@
 *.beacon.myenovate.com
 *.telemetry-v2.myeverlights.com
 *.myfaktory.com
+*.myfecebokcircle.sbs
 *.myfidevs.io
 *.myfinance.com
 *.twart.myfirewall.org
@@ -36842,6 +36811,7 @@
 *.ne20.biz
 *.near-reward.com
 *.nearbyme.io
+*.neartho.click
 *.pub.neartonet.com
 *.nearvana.co
 *.nease.net
@@ -37304,6 +37274,7 @@
 *.nf-office.at
 *.nf2nfatrk.com
 *.nfcnlepm.shop
+*.nfdmnvero.pro
 *.nfis.com
 *.sedge.nfl.com
 *.smetrics.nfl.com
@@ -37386,6 +37357,7 @@
 *.nightsclotheshazardous.com
 *.nigrebritany.cyou
 *.nigrocosti.com
+*.nihaim.com
 *.nihain.com
 *.nihaodh.link
 *.track.nihaohd8.com
@@ -37650,7 +37622,6 @@
 *.notifia.io
 *.notificaciones-web.com
 *.notification-amazon-services.live
-*.notification-amazon-services.online
 *.notificationbutton.com
 *.notifications.ltd
 *.notifikuj.cz
@@ -37989,6 +37960,7 @@
 *.adtech-yahooinc-com.b2bmarketing-adtech-prod.aws.oath.cloud
 *.service.cmp.oath.com
 *.oathoolroo.net
+*.oathsupgrade.lat
 *.oatmealmontleymontleyremove.com
 *.oauth.digital
 *.oavurognaurd.net
@@ -41787,6 +41759,7 @@
 *.personyze.com
 *.persoo.cz
 *.analytics-js.perspective.co
+*.perspectivesmesh.site
 *.pertawee.net
 *.pertinentking.com
 *.pertlouv.com
@@ -42923,6 +42896,7 @@
 *.analytics-assets-cdk.powerdms.com
 *.poweredbyliquidfire.mobi
 *.powereditemart.shop
+*.powerfilter.lat
 *.powerful-poem.com
 *.powerfulcopper.com
 *.powergro.icu
@@ -43323,7 +43297,6 @@
 *.analytics.projectcarmen.com
 *.projectcen.com
 *.projectcounter.org
-*.projectnetworkchain.com
 *.sentry.projectorca.cloud
 *.sentry-input.projectplace.com
 *.projectwonderful.com
@@ -45816,7 +45789,6 @@
 *.reward-ray.network
 *.reward-zigchain.com
 *.rewardany.com
-*.rewards-pnut.xyz
 *.rewards-rare.xyz
 *.rewards-zeralabs.com
 *.rewardsaffiliates.com
@@ -47306,7 +47278,6 @@
 *.scurra.space
 *.scw.systems
 *.scwmllkshdfug.website
-*.scycl.lat
 *.scyphoserippleepidosite.com
 *.statscollector.sd-rtn.com
 *.sda.fyi
@@ -47461,6 +47432,7 @@
 *.secured-ad.com
 *.securedsmcd.com
 *.securedvisit.com
+*.securefile.cfd
 *.securegfm.com
 *.securehostdns.com
 *.telemetry.securelink.com
@@ -47683,6 +47655,7 @@
 *.seramundelithor.cyou
 *.collector.seranking.com
 *.seraphsklom.com
+*.seravendolient.cyou
 *.serch24.biz
 *.serch26.biz
 *.serci.info
@@ -47879,6 +47852,7 @@
 *.sgben.com
 *.t.sgc.io
 *.sgdmobile.com
+*.sgfinanceflow.com
 *.sgfsdvc.com
 *.sgiz.mobi
 *.t-log.sgmarkets.com
@@ -48014,7 +47988,6 @@
 *.sentry.offline.shelopes.com
 *.shemedia.com
 *.shempaurdou.net
-*.shemrec.cc
 *.shenajou.com
 *.shengfleming.com
 *.shengheimin.com
@@ -48380,6 +48353,7 @@
 *.analytics.silversea.com
 *.push.silversiri.com
 *.logs.silversky.com
+*.silverynode.site
 *.simanalytics.nl
 *.msg.simeji.me
 *.simejiglobal.com
@@ -49525,6 +49499,7 @@
 *.stat-04.sovos.com
 *.stat-06.sovos.com
 *.stat-web.sovos.com
+*.sovrasinsi.pro
 *.sovrn.com
 *.sovtrk.com
 *.sovuteka.info
@@ -49916,6 +49891,7 @@
 *.squirtdrsuccession.com
 *.sentry.sr-staging-1.com
 *.adserver.srafcloud.com
+*.sravionproapp.com
 *.srax.com
 *.srb-protect.pro
 *.srchelectronics.com
@@ -51117,6 +51093,7 @@
 *.analytics.tackle.io
 *.tacklesfilmdom.shop
 *.tackytrains.com
+*.tacticome.lat
 *.tacticrealtime.com
 *.analytics.tactilews.com
 *.analytics-eu.tactilews.com
@@ -52430,7 +52407,6 @@
 *.tiktok-mission.shop
 *.tiktok-open.com
 *.tiktok-open.info
-*.tiktok-open.store
 *.tiktok-r.com
 *.tiktok-shop.help
 *.tiktok-support.net
@@ -53798,7 +53774,6 @@
 *.trumantarnish.rest
 *.trumops.com
 *.trump-event.com
-*.trump-wallet.fun
 *.trumpcommunity.com
 *.analytics.trumpf.com
 *.trumpgorry.com
@@ -55317,6 +55292,7 @@
 *.app.velocitysitemetrics.com
 *.veloriantra.cyou
 *.veloriantraluminetra.cyou
+*.veloriantraluminetra.icu
 *.veloriantraluminetraq.icu
 *.veloriantraluminex.icu
 *.veloriantralumino.icu
@@ -55381,8 +55357,6 @@
 *.verification-order.com
 *.verifikasikeamananktp.com
 *.verify-github.com
-*.verify-now-esl-org.cfd
-*.verify-now-esl-org.sbs
 *.verifycertificate.site
 *.verifymyautocheck.com
 *.verifyprocess76351.com
@@ -57215,7 +57189,6 @@
 *.whatsapp-ehbn.ltd
 *.whatsapp-erdh.art
 *.whatsapp-fczo.top
-*.whatsapp-help.top
 *.whatsapp-hutg.bond
 *.whatsapp-hutg.fit
 *.whatsapp-hutg.wiki
@@ -58690,6 +58663,7 @@
 *.y-medialink.com
 *.y-track.com
 *.y1yun.shop
+*.y4euiy.lol
 *.y4n.cn
 *.track-config.y5kfpt.com
 *.track-gateway.y5kfpt.com
@@ -59367,6 +59341,7 @@
 *.yuga.ru
 *.yugbveou.top
 *.yugukj.com
+*.yuhuan.cc
 *.yuiiy.com
 *.yukanita.com
 *.yukclick.me
@@ -60010,7 +59985,6 @@
 *.zoomd--analyse.cyou
 *.zoomd--analytic.cyou
 *.zoomd--drive.cyou
-*.zoomd--program.cyou
 *.zoomd--ranks.cyou
 *.zoomd--scale.cyou
 *.zoomd-software.cyou
@@ -60056,7 +60030,6 @@
 *.zsa-kvis.com
 *.zsaiqrqhoqbdo.site
 *.zscewice.pl
-*.zscreamg.lat
 *.client.zspeed-cdn.com
 *.zsy10161yok.com
 *.zsy10170yok.com
