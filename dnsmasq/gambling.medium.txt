@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 11:24 UTC
-# Version: 2025.1021.1124.11
+# Last modified: 21 Oct 2025 23:24 UTC
+# Version: 2025.1021.2324.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 80347
+# Number of entries: 80345
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -30971,7 +30971,6 @@ local=/dealerscasino.com/
 local=/dealgamble.com/
 local=/dealing-blackjack.com/
 local=/dealornodeal.casino/
-local=/dealornodealcasino.com/
 local=/dealornodealcasino.mx/
 local=/deandeluca.com/
 local=/deay.xyz/
@@ -66139,7 +66138,6 @@ local=/selotgacorku.xyz/
 local=/selvaplus.com/
 local=/semanadelpintxodealava.com/
 local=/semangatbosku.click/
-local=/semangatcuan.online/
 local=/semangatjuang.com/
 local=/semar123.click/
 local=/semarjtugames.xyz/

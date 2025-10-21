@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 11:25 UTC
-# Version: 2025.1021.1125.04
+# Last modified: 21 Oct 2025 23:24 UTC
+# Version: 2025.1021.2324.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11282
+# Number of entries: 11284
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3103,7 +3103,6 @@ local=/torrentz.eu.com/
 local=/1.tracker.eu.org/
 local=/2.tracker.eu.org/
 local=/3.tracker.eu.org/
-local=/4.tracker.eu.org/
 local=/turiyabrucesta.eu.com/
 local=/euro2024direct.ru/
 local=/euroddl.com/
@@ -5280,6 +5279,7 @@ local=/kevinsports.top/
 local=/kevinsporttv.top/
 local=/keygen.name/
 local=/keygen.us/
+local=/keygenbox.ru/
 local=/keygenguru.com/
 local=/keygenninja.com/
 local=/keygens.nl/
@@ -7368,6 +7368,7 @@ local=/planete-bd.org/
 local=/planete-lolo.com/
 local=/planetgames.fr/
 local=/bt.planetq.net/
+local=/planetsoft.su/
 local=/platinmods.com/
 local=/playdede.tv/
 local=/playersklub.tv/
@@ -8968,6 +8969,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

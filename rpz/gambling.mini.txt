@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761045840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761089040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 11:24 UTC
-; Version: 2025.1021.1124.43
+; Last modified: 21 Oct 2025 23:24 UTC
+; Version: 2025.1021.2324.36
 ; Syntax: RPZ
-; Number of entries: 82546
+; Number of entries: 82542
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -23490,8 +23490,6 @@ dealerscasino.com CNAME .
 *.dealerscasino.com CNAME .
 dealgamble.com CNAME .
 *.dealgamble.com CNAME .
-dealornodealcasino.com CNAME .
-*.dealornodealcasino.com CNAME .
 deandeluca.com CNAME .
 *.deandeluca.com CNAME .
 debestecasinos.com CNAME .
@@ -59090,8 +59088,6 @@ sb99.online CNAME .
 *.sb99.online CNAME .
 sector-777-casino.online CNAME .
 *.sector-777-casino.online CNAME .
-semangatcuan.online CNAME .
-*.semangatcuan.online CNAME .
 sensasionalwslot188.online CNAME .
 *.sensasionalwslot188.online CNAME .
 sirajapoker.online CNAME .

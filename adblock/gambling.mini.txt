@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Oct 2025 11:24 UTC
-! Version: 2025.1021.1124.43
+! Last modified: 21 Oct 2025 23:24 UTC
+! Version: 2025.1021.2324.36
 ! Syntax: AdBlock
-! Number of entries: 41273
+! Number of entries: 41271
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -16409,7 +16409,6 @@
 ||dealers.casino^
 ||dealerscasino.com^
 ||dealgamble.com^
-||dealornodealcasino.com^
 ||deandeluca.com^
 ||deay.xyz^
 ||debestecasinos.com^
@@ -33981,7 +33980,6 @@
 ||selvaplus.com^
 ||semanadelpintxodealava.com^
 ||semangatbosku.click^
-||semangatcuan.online^
 ||semangatjuang.com^
 ||semar123.click^
 ||semarjtugames.xyz^

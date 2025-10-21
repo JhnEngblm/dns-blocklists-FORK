@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 11:30 UTC
-# Version: 2025.1021.1130.35
+# Last modified: 21 Oct 2025 23:30 UTC
+# Version: 2025.1021.2330.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3878
+# Number of entries: 3881
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3033,8 +3033,10 @@
 0.0.0.0 dot.qooqle.date
 0.0.0.0 dns.qpt.one
 0.0.0.0 dns2.qpt.one
+0.0.0.0 dns.qq.com
 0.0.0.0 httpdns.kg.qq.com
 0.0.0.0 dns.weixin.qq.com
+0.0.0.0 paydns.weixin.qq.com
 0.0.0.0 udns.weixin.qq.com
 0.0.0.0 ns1.qquack.org
 0.0.0.0 log.qrsoft.ru
@@ -3513,6 +3515,7 @@
 0.0.0.0 dns.titov.cz
 0.0.0.0 tk31z.com
 0.0.0.0 dns.tkhome.nl
+0.0.0.0 sdkconfig.tlivedns.com
 0.0.0.0 dns.tls-data.de
 0.0.0.0 tlz.asia
 0.0.0.0 adguard.tmdproject.nl

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761045900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761089040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 11:25 UTC
-; Version: 2025.1021.1125.04
+; Last modified: 21 Oct 2025 23:24 UTC
+; Version: 2025.1021.2324.57
 ; Syntax: RPZ
-; Number of entries: 22564
+; Number of entries: 22568
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -12140,6 +12140,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -15558,8 +15560,6 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
-4.tracker.eu.org CNAME .
-*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -18164,6 +18164,8 @@ retracker.joxnet.ru CNAME .
 *.retracker.joxnet.ru CNAME .
 jurnal-portal.ru CNAME .
 *.jurnal-portal.ru CNAME .
+keygenbox.ru CNAME .
+*.keygenbox.ru CNAME .
 kimanime.ru CNAME .
 *.kimanime.ru CNAME .
 kinomall.ru CNAME .
@@ -19290,6 +19292,8 @@ retracker.nts.su CNAME .
 *.retracker.nts.su CNAME .
 nzb.su CNAME .
 *.nzb.su CNAME .
+planetsoft.su CNAME .
+*.planetsoft.su CNAME .
 seez.su CNAME .
 *.seez.su CNAME .
 streamed.su CNAME .
