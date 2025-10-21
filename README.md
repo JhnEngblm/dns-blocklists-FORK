@@ -721,7 +721,10 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 ### :speech_balloon: **Social Networks - Blocks access to social networks!** <a name="social"></a>
 
 Blocks access to social networks (Facebook, Instagram, TikTok, X (formerly Twitter), Snapchat, ...).
-
+                  
+> [!NOTE]
+> This list does not block messaging services such as WhatsApp or streaming platforms like Twitch. The blocking is strictly limited to traditional social networking sites only.
+                 
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
 | Included in | :x:   | :x:    | :x: | :x:   | :x:      |
