@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 23:26 UTC
-# Version: 2025.1019.2326.37
+# Last modified: 21 Oct 2025 11:30 UTC
+# Version: 2025.1021.1130.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3394
+# Number of entries: 3400
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -227,6 +227,7 @@ local=/management.alexpollard.net/
 local=/httpdns.alicdn.com/
 local=/alidns.com/
 local=/dns.aliyun.com/
+local=/resolvers-cn.httpdns.aliyuncs.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/alleesph.online/
@@ -2082,6 +2083,8 @@ local=/dns.megaong.com/
 local=/v2202405224322270920.megasrv.de/
 local=/ovhcloud.mehmetarikan.tech/
 local=/httpdns.meituan.com/
+local=/httpdnsmultiapi.meituan.com/
+local=/httpdnsmultiapivip.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
 local=/meowless.club/
@@ -2629,6 +2632,7 @@ local=/dns.qpt.one/
 local=/dns2.qpt.one/
 local=/httpdns.kg.qq.com/
 local=/dns.weixin.qq.com/
+local=/udns.weixin.qq.com/
 local=/ns1.qquack.org/
 local=/log.qrsoft.ru/
 local=/dns.qrtz.club/
@@ -3243,6 +3247,7 @@ local=/doh.webnmail.de/
 local=/zuhause.webteufel.net/
 local=/webteufel-it.solutions/
 local=/dns.wechat.com/
+local=/paydns.wechatpay.cn/
 local=/resov.wehao.net/
 local=/dns.weibo.cn/
 local=/home.weisbrod.me/
@@ -3379,6 +3384,7 @@ local=/d.zhanchuraevv.ru/
 local=/zhengkaiyun.top/
 local=/dns140.zhhz.cc/
 local=/dns168.zhhz.cc/
+local=/httpdns.zhihu.com/
 local=/doh.zhongbr.uk/
 local=/res.zijji.com/
 local=/adguard01.zitronen-server.de/

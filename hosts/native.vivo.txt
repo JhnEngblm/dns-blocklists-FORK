@@ -5,17 +5,21 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:58 UTC
-# Version: 2025.1017.2258.57
+# Last modified: 21 Oct 2025 07:07 UTC
+# Version: 2025.1021.0707.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 212
+# Number of entries: 221
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
+0.0.0.0 appstore-trace-h5sdk.vivo.com.cn
 0.0.0.0 dsplog-adnet.vivo.com.cn
+0.0.0.0 trace-h5sdk.vivo.com.cn
 0.0.0.0 tracking-adnet.vivo.com.cn
 0.0.0.0 vhs.wwstat.com.ctdns.cn
+0.0.0.0 trackercollect.ddxq.mobi
+0.0.0.0 trackerfeed.ddxq.mobi
 0.0.0.0 vhs.wwstat.com.eo.dnse0.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
@@ -64,6 +68,7 @@
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 co-cota.vivoglobal.com
 0.0.0.0 co-domaincfg.vivoglobal.com
+0.0.0.0 co-err-up.vivoglobal.com
 0.0.0.0 co-onrt-stsdk.vivoglobal.com
 0.0.0.0 co-ort-stsdk.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
@@ -75,7 +80,9 @@
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 co-vcode-or.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
+0.0.0.0 de-gdpr-vcode-od.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
+0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
@@ -84,6 +91,7 @@
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
+0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
@@ -135,6 +143,7 @@
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
+0.0.0.0 kz-timesync.vivoglobal.com
 0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com

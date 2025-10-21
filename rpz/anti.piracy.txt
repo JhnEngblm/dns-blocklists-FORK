@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761002640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761045900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Oct 2025 23:24 UTC
-; Version: 2025.1020.2324.58
+; Last modified: 21 Oct 2025 11:25 UTC
+; Version: 2025.1021.1125.04
 ; Syntax: RPZ
-; Number of entries: 22560
+; Number of entries: 22564
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -18652,6 +18652,8 @@ dood.sh CNAME .
 *.dood.sh CNAME .
 filmstreaming.sh CNAME .
 *.filmstreaming.sh CNAME .
+flixer.sh CNAME .
+*.flixer.sh CNAME .
 hdmovie2.sh CNAME .
 *.hdmovie2.sh CNAME .
 t.jaekr.sh CNAME .
@@ -20426,6 +20428,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .

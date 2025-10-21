@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 11:29 UTC
-# Version: 2025.1020.1129.10
+# Last modified: 21 Oct 2025 11:31 UTC
+# Version: 2025.1021.1131.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6154
+# Number of entries: 6157
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -344,6 +344,7 @@ local=/alidns.com/
 local=/aliveproxies.com/
 local=/aliveproxy.com/
 local=/dns.aliyun.com/
+local=/resolvers-cn.httpdns.aliyuncs.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/alleesph.online/
@@ -3384,6 +3385,8 @@ local=/mehmetarikan.tech/
 local=/www-admin.mehtionthebeat.com/
 local=/peepod.meicosoft.com/
 local=/httpdns.meituan.com/
+local=/httpdnsmultiapi.meituan.com/
+local=/httpdnsmultiapivip.meituan.com/
 local=/httpdnsvip.meituan.com/
 local=/dns.melvin2204.nl/
 local=/membean.cf/
@@ -4981,8 +4984,6 @@ local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
-local=/proxy1.startpage.com/
-local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/
@@ -5898,6 +5899,7 @@ local=/webtunnelx.com/
 local=/webxify.com/
 local=/webypass.info/
 local=/dns.wechat.com/
+local=/paydns.wechatpay.cn/
 local=/wedding-present.us/
 local=/resov.wehao.net/
 local=/dns.weibo.cn/
@@ -6128,6 +6130,7 @@ local=/d.zhanchuraevv.ru/
 local=/zhengkaiyun.top/
 local=/dns140.zhhz.cc/
 local=/dns168.zhhz.cc/
+local=/httpdns.zhihu.com/
 local=/doh.zhongbr.uk/
 local=/res.zijji.com/
 local=/zippyproxy.com/

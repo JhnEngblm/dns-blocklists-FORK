@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 23:26 UTC
-# Version: 2025.1019.2326.37
+# Last modified: 21 Oct 2025 11:30 UTC
+# Version: 2025.1021.1130.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3872
+# Number of entries: 3878
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -274,6 +274,7 @@
 0.0.0.0 public254.alidns.com
 0.0.0.0 public99.alidns.com
 0.0.0.0 dns.aliyun.com
+0.0.0.0 resolvers-cn.httpdns.aliyuncs.com
 0.0.0.0 httpdns-api.aliyuncs.com
 0.0.0.0 httpdns-sc.aliyuncs.com
 0.0.0.0 alleesph.online
@@ -2410,6 +2411,8 @@
 0.0.0.0 v2202405224322270920.megasrv.de
 0.0.0.0 ovhcloud.mehmetarikan.tech
 0.0.0.0 httpdns.meituan.com
+0.0.0.0 httpdnsmultiapi.meituan.com
+0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 meowless.club
@@ -3032,6 +3035,7 @@
 0.0.0.0 dns2.qpt.one
 0.0.0.0 httpdns.kg.qq.com
 0.0.0.0 dns.weixin.qq.com
+0.0.0.0 udns.weixin.qq.com
 0.0.0.0 ns1.qquack.org
 0.0.0.0 log.qrsoft.ru
 0.0.0.0 dns.qrtz.club
@@ -3708,6 +3712,7 @@
 0.0.0.0 webteufel-it.solutions
 0.0.0.0 nyx.webteufel-it.solutions
 0.0.0.0 dns.wechat.com
+0.0.0.0 paydns.wechatpay.cn
 0.0.0.0 resov.wehao.net
 0.0.0.0 dns.weibo.cn
 0.0.0.0 home.weisbrod.me
@@ -3857,6 +3862,7 @@
 0.0.0.0 zhengkaiyun.top
 0.0.0.0 dns140.zhhz.cc
 0.0.0.0 dns168.zhhz.cc
+0.0.0.0 httpdns.zhihu.com
 0.0.0.0 doh.zhongbr.uk
 0.0.0.0 res.zijji.com
 0.0.0.0 adguard01.zitronen-server.de

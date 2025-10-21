@@ -31,17 +31,18 @@ If you like the project and you can benefit from it, leave a :star: (top right) 
 17. [DNS Rebind Protection](#dnsrebind) - Prevents attackers from resolving domains to local IPs!
 18. [Anti Piracy](#piracy) - Protects against piracy!
 19. [Gambling](#gambling) - Protects against gambling content! : [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
-20. [NSFW](#nsfw) - Protects against adult content!
-21. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
-22. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
-23. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
-24. [Online DNS Services](#dnsservices)
-25. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
-26. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
-27. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
-28. [Sources](sources.md)
-29. [Disclaimer](#disclaimer)
-30. [Contact](#contact)
+20. [Social Networks](#social) - Blocks access to social networks!
+21. [NSFW](#nsfw) - Protects against adult content!
+22. [Native Tracker](#native) - Broadband tracker of devices, services and operating systems
+23. [Supporter](https://github.com/hagezi/dns-blocklists/stargazers) - Leave a star (top right)!
+24. [Recommendation](#recommendation) - [Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)
+25. [Online DNS Services](#dnsservices)
+26. [About](#about) : [Repository](#repository) - [Referral Domains](#referral) - [Support Me](#support) - [Sponsor Me](https://github.com/sponsors/hagezi)
+27. [FAQ](https://github.com/hagezi/dns-blocklists/wiki/FAQ) - Frequently Asked Questions
+28. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
+29. [Sources](sources.md)
+30. [Disclaimer](#disclaimer)
+31. [Contact](#contact)
 
 ### :books: **Multi - Cleans the Internet and protects your privacy!** <a name="overview"></a>
 
@@ -714,6 +715,28 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 | Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.mini.txt) [M1](lnkgl_w/gambling.mini.txt) [M2](lnkjd_w/gambling.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/gambling.mini-onlydomains.txt) [M1](lnkgl_w/gambling.mini-onlydomains.txt) [M2](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.mini.txt) [M1](lnkgl_r/gambling.mini.txt) [M2](lnkjd_r/gambling.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+
+---
+
+### :speech_balloon: **Social Networks - Blocks access to social networks!** <a name="social"></a>
+
+Blocks access to social networks (Facebook, Instagram, TikTok, X (formerly Twitter), Snapchat, ...).
+
+|             | Light | Normal | Pro | Pro++ | Ultimate |
+|:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
+| Included in | :x:   | :x:    | :x: | :x:   | :x:      |
+
+:green_circle: yes :yellow_square: partially :x: no
+
+**Entries:** social_cp compressed domains
+
+| Format | Links | Should be used for |
+|:-------|:-----|:----------------|
+| Adblock | [Link](lnkgh_a/social.txt) [M1](lnkgl_a/social.txt) [M2](lnkjd_a/social.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
+| DNSMasq | [Link](lnkgh_m/social.txt) [M1](lnkgl_m/social.txt) [M2](lnkjd_m/social.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [Link](lnkgh_w/social.txt) [M1](lnkgl_w/social.txt) [M2](lnkjd_w/social.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [Link](lnkgh_w/social-onlydomains.txt) [M1](lnkgl_w/social-onlydomains.txt) [M2](lnkjd_w/social-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
+| RPZ | [Link](lnkgh_r/social.txt) [M1](lnkgl_r/social.txt) [M2](lnkjd_r/social.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
 

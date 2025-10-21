@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 23:01 UTC
-# Version: 2025.1017.2301.20
+# Last modified: 21 Oct 2025 06:33 UTC
+# Version: 2025.1021.0633.09
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 197
+# Number of entries: 200
 #
 *.samsung-com.112.2o7.net
 *.metric.account-samsung.com
@@ -113,6 +113,8 @@
 *.nmetrics.samsung.com
 *.images.partnersupport.samsung.com
 *.plbusiness.samsung.com
+*.api.runestone.samsung.com
+*.di.runestone.samsung.com
 *.sca.samsung.com
 *.lp.smartbusiness.samsung.com
 *.tracking.smartbusiness.samsung.com
@@ -123,6 +125,7 @@
 *.samsungacr.com
 *.samsungads.com
 *.samsungallstore.com
+*.ureca.samsungapps.com
 *.acr-au-prd.samsungcloud.tv
 *.acr-br-prd.samsungcloud.tv
 *.acr-ca-prd.samsungcloud.tv

@@ -5,17 +5,21 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:58 UTC
-# Version: 2025.1017.2258.57
+# Last modified: 21 Oct 2025 07:07 UTC
+# Version: 2025.1021.0707.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 208
+# Number of entries: 217
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
 local=/az.appstore.vivo.com.cn/
+local=/appstore-trace-h5sdk.vivo.com.cn/
 local=/dsplog-adnet.vivo.com.cn/
+local=/trace-h5sdk.vivo.com.cn/
 local=/tracking-adnet.vivo.com.cn/
 local=/vhs.wwstat.com.ctdns.cn/
+local=/trackercollect.ddxq.mobi/
+local=/trackerfeed.ddxq.mobi/
 local=/vhs.wwstat.com.eo.dnse0.com/
 local=/asia-abeacdataonrt-stsdk.vivoglobal.com/
 local=/asia-abeacdataort-stsdk.vivoglobal.com/
@@ -64,6 +68,7 @@ local=/cname-in-ctdbonrt-stsdk.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
 local=/co-cota.vivoglobal.com/
 local=/co-domaincfg.vivoglobal.com/
+local=/co-err-up.vivoglobal.com/
 local=/co-onrt-stsdk.vivoglobal.com/
 local=/co-ort-stsdk.vivoglobal.com/
 local=/co-pnrt-stsdk.vivoglobal.com/
@@ -75,7 +80,9 @@ local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/co-vcode-or.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
+local=/de-gdpr-vcode-od.vivoglobal.com/
 local=/err-up.vivoglobal.com/
+local=/eu-album-api.vivoglobal.com/
 local=/eu-domaincfg.vivoglobal.com/
 local=/eu-errup.vivoglobal.com/
 local=/eu-onrt-stsdk.vivoglobal.com/
@@ -84,6 +91,7 @@ local=/eu-p.vivoglobal.com/
 local=/eu-pnrt-stsdk.vivoglobal.com/
 local=/eu-romsp-unifyconfig.vivoglobal.com/
 local=/eu-st-sl.vivoglobal.com/
+local=/eu-stsdk.vivoglobal.com/
 local=/eu-timesync.vivoglobal.com/
 local=/eu-vcode-api.vivoglobal.com/
 local=/eu-vcode-od.vivoglobal.com/
@@ -135,6 +143,7 @@ local=/kz-st-exappupgrade.vivoglobal.com/
 local=/kz-st-sl.vivoglobal.com/
 local=/kz-st-sysupgrade.vivoglobal.com/
 local=/kz-stsdk.vivoglobal.com/
+local=/kz-timesync.vivoglobal.com/
 local=/kz-vcode-api.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/kz-vcode-or.vivoglobal.com/

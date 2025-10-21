@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760742060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761028380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 23:01 UTC
-; Version: 2025.1017.2301.20
+; Last modified: 21 Oct 2025 06:33 UTC
+; Version: 2025.1021.0633.09
 ; Syntax: RPZ
-; Number of entries: 394
+; Number of entries: 400
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -116,6 +116,10 @@ images.partnersupport.samsung.com CNAME .
 *.images.partnersupport.samsung.com CNAME .
 plbusiness.samsung.com CNAME .
 *.plbusiness.samsung.com CNAME .
+api.runestone.samsung.com CNAME .
+*.api.runestone.samsung.com CNAME .
+di.runestone.samsung.com CNAME .
+*.di.runestone.samsung.com CNAME .
 sca.samsung.com CNAME .
 *.sca.samsung.com CNAME .
 lp.smartbusiness.samsung.com CNAME .
@@ -136,6 +140,8 @@ samsungads.com CNAME .
 *.samsungads.com CNAME .
 samsungallstore.com CNAME .
 *.samsungallstore.com CNAME .
+ureca.samsungapps.com CNAME .
+*.ureca.samsungapps.com CNAME .
 acr0.samsungcloudsolution.com CNAME .
 *.acr0.samsungcloudsolution.com CNAME .
 prderrordumphsm.samsungcloudsolution.com CNAME .

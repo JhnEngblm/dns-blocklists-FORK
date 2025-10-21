@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760959740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761046260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Oct 2025 11:29 UTC
-; Version: 2025.1020.1129.10
+; Last modified: 21 Oct 2025 11:31 UTC
+; Version: 2025.1021.1131.01
 ; Syntax: RPZ
-; Number of entries: 12308
+; Number of entries: 12314
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -927,6 +927,8 @@ us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 dns.tefuir0829.cn CNAME .
 *.dns.tefuir0829.cn CNAME .
+paydns.wechatpay.cn CNAME .
+*.paydns.wechatpay.cn CNAME .
 dns.weibo.cn CNAME .
 *.dns.weibo.cn CNAME .
 xiaoxinhui.cn CNAME .
@@ -1201,6 +1203,8 @@ aliveproxy.com CNAME .
 *.aliveproxy.com CNAME .
 dns.aliyun.com CNAME .
 *.dns.aliyun.com CNAME .
+resolvers-cn.httpdns.aliyuncs.com CNAME .
+*.resolvers-cn.httpdns.aliyuncs.com CNAME .
 httpdns-api.aliyuncs.com CNAME .
 *.httpdns-api.aliyuncs.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
@@ -2917,6 +2921,10 @@ peepod.meicosoft.com CNAME .
 *.peepod.meicosoft.com CNAME .
 httpdns.meituan.com CNAME .
 *.httpdns.meituan.com CNAME .
+httpdnsmultiapi.meituan.com CNAME .
+*.httpdnsmultiapi.meituan.com CNAME .
+httpdnsmultiapivip.meituan.com CNAME .
+*.httpdnsmultiapivip.meituan.com CNAME .
 httpdnsvip.meituan.com CNAME .
 *.httpdnsvip.meituan.com CNAME .
 ss.microbaidu.com CNAME .
@@ -3873,10 +3881,6 @@ eu1-browse.startpage.com CNAME .
 *.eu1-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-proxy1.startpage.com CNAME .
-*.proxy1.startpage.com CNAME .
-proxy3.startpage.com CNAME .
-*.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
@@ -4639,6 +4643,8 @@ oraclejp01.zerotorez.com CNAME .
 *.oraclejp01.zerotorez.com CNAME .
 zerovpn-app.com CNAME .
 *.zerovpn-app.com CNAME .
+httpdns.zhihu.com CNAME .
+*.httpdns.zhihu.com CNAME .
 res.zijji.com CNAME .
 *.res.zijji.com CNAME .
 zippyproxy.com CNAME .

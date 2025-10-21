@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 23:01 UTC
-# Version: 2025.1017.2301.20
+# Last modified: 21 Oct 2025 06:33 UTC
+# Version: 2025.1021.0633.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 256
+# Number of entries: 266
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -142,6 +142,15 @@ analytics.mpay.samsung.com
 nmetrics.samsung.com
 images.partnersupport.samsung.com
 plbusiness.samsung.com
+api.runestone.samsung.com
+di.runestone.samsung.com
+cc.di.runestone.samsung.com
+dc.di.runestone.samsung.com
+dls.di.runestone.samsung.com
+lcs.di.runestone.samsung.com
+orsdls.di.runestone.samsung.com
+orsfs.di.runestone.samsung.com
+orsplc.di.runestone.samsung.com
 sca.samsung.com
 gear.sca.samsung.com
 prd.sca.samsung.com
@@ -179,6 +188,7 @@ samsungallstore.com
 egs.samsungallstore.com
 routing.egs.samsungallstore.com
 www.samsungallstore.com
+ureca.samsungapps.com
 acr-au-prd.samsungcloud.tv
 acr-br-prd.samsungcloud.tv
 acr-ca-prd.samsungcloud.tv

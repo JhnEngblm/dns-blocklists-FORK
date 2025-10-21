@@ -15,6 +15,13 @@
       }
     },
     {
+      "PK": "appstore-trace-h5sdk.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-abeacdataonrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -351,6 +358,13 @@
       }
     },
     {
+      "PK": "co-err-up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "co-onrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -428,6 +442,13 @@
       }
     },
     {
+      "PK": "de-gdpr-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dsplog-adnet.vivo.com.cn",
       "action": {
         "do": 0,
@@ -443,6 +464,13 @@
     },
     {
       "PK": "err.up.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-album-api.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -492,6 +520,13 @@
     },
     {
       "PK": "eu-romsp-unifyconfig.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eu-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -863,6 +898,13 @@
     },
     {
       "PK": "kz-st-sysupgrade.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kz-timesync.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1297,6 +1339,27 @@
     },
     {
       "PK": "stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "trace-h5sdk.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "trackercollect.ddxq.mobi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "trackerfeed.ddxq.mobi",
       "action": {
         "do": 0,
         "status": 1

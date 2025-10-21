@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 22:25 UTC
-# Version: 2025.1020.2225.53
+# Last modified: 21 Oct 2025 10:24 UTC
+# Version: 2025.1021.1024.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14191
+# Number of entries: 14205
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -931,6 +931,7 @@ local=/avatradeshow.com/
 local=/avaxmarkets.com/
 local=/avelu.de/
 local=/avemiosolutions.com/
+local=/avenes.at/
 local=/avenexco.com/
 local=/avengeapollo.com/
 local=/avenly.de/
@@ -1152,6 +1153,7 @@ local=/bau-profis24.de/
 local=/bauen-shop-de.com/
 local=/bauer-parndorf.at/
 local=/bauer-wien.at/
+local=/bauergraz.com/
 local=/bauernhofspiele.com/
 local=/baufahrzeugeausholz.com/
 local=/baugerateprofi.com/
@@ -2413,6 +2415,7 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
+local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -3534,6 +3537,7 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
+local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -4552,6 +4556,7 @@ local=/flanneltoss.com/
 local=/flarepath-future.online/
 local=/flash-light.at/
 local=/flashangebote.com/
+local=/flashsalefiesta.com/
 local=/flashum.com/
 local=/flashy-tech.de/
 local=/flaviorossi.de/
@@ -4560,6 +4565,7 @@ local=/flawlessshoes.com/
 local=/fleetcargodirect.com/
 local=/fleischwolfprada.de/
 local=/fleshjacket.com/
+local=/fleurop-german.com/
 local=/fleurops.com/
 local=/flex-house.de/
 local=/flexarbeit.com/
@@ -6056,6 +6062,7 @@ local=/hoffmannwelpen.de/
 local=/hofinger-modehaus.com/
 local=/hofmann23.de/
 local=/hofmannmode.de/
+local=/hofnergraz.at/
 local=/hofsicherung.com/
 local=/hoganaustria.at/
 local=/hoiyon.com/
@@ -6176,6 +6183,7 @@ local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
+local=/hotelinphuket.net/
 local=/hotels-colombo.com/
 local=/hotels-colorado.net/
 local=/hotels-in-tyrol.com/
@@ -6443,6 +6451,7 @@ local=/indicativet.com/
 local=/indigo-investissement.com/
 local=/individualm.com/
 local=/individualw.com/
+local=/indonesiahotel24.com/
 local=/indoorecofarm.com/
 local=/industrie-moebel.eu/
 local=/industriebauladen.com/
@@ -7355,6 +7364,7 @@ local=/lanetech.de/
 local=/langguthdeava.shop/
 local=/langlebigwerkzeug.com/
 local=/lantana24.de/
+local=/lanternfestosterreich.com/
 local=/lanzonia.com/
 local=/laptop-akkus.de/
 local=/laptop-akkus.eu/
@@ -8939,6 +8949,7 @@ local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
 local=/nchen.de/
+local=/ndfinitee.com/
 local=/nealinastore.shop/
 local=/near-on-chain.de/
 local=/neary.de/
@@ -11389,6 +11400,7 @@ local=/shopservy.com/
 local=/shopskisnowboard.com/
 local=/shopstables.com/
 local=/shoptee.de/
+local=/shopunivers.de/
 local=/shopuru.de/
 local=/shopvalentira.com/
 local=/shopvaley.com/
@@ -11669,6 +11681,7 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
+local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
 local=/specialtytraderssale.shop/
@@ -13354,6 +13367,7 @@ local=/vidmason.com/
 local=/vidxe.pro/
 local=/vienna-modehaus.at/
 local=/viennaapartments.org/
+local=/viennaaustrohotel.com/
 local=/viennameerschaum.com/
 local=/viennamodehaus.at/
 local=/viennastil.at/

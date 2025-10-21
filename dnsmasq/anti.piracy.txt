@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Oct 2025 23:24 UTC
-# Version: 2025.1020.2324.58
+# Last modified: 21 Oct 2025 11:25 UTC
+# Version: 2025.1021.1125.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11280
+# Number of entries: 11282
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3644,6 +3644,7 @@ local=/flibustier64.com/
 local=/flixanity.site/
 local=/flixanity.xyz/
 local=/flixdump.com/
+local=/flixer.sh/
 local=/flixgo.biz/
 local=/flixgo.net/
 local=/flixhd.cc/
@@ -10938,6 +10939,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

@@ -2318,6 +2318,13 @@
       }
     },
     {
+      "PK": "bplaced.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bplaced.net",
       "action": {
         "do": 0,

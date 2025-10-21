@@ -141,6 +141,13 @@
       }
     },
     {
+      "PK": "api.runestone.samsung.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "api-samsung.swypeconnect.com",
       "action": {
         "do": 0,
@@ -261,6 +268,13 @@
     },
     {
       "PK": "diagmon-serviceapi.samsungdm.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "di.runestone.samsung.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1325,6 +1339,13 @@
     },
     {
       "PK": "upu.samsungelectronics.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ureca.samsungapps.com",
       "action": {
         "do": 0,
         "status": 1

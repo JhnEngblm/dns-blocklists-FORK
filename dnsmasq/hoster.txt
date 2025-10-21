@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Oct 2025 14:22 UTC
-# Version: 2025.1019.1422.20
+# Last modified: 21 Oct 2025 10:54 UTC
+# Version: 2025.1021.1054.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1380
+# Number of entries: 1381
 #
 local=/000a.de/
 local=/000space.com/
@@ -314,6 +314,7 @@ local=/boundpeter.shop/
 local=/boutiqueond.shop/
 local=/boxmail.biz/
 local=/boxmode.io/
+local=/bplaced.de/
 local=/bplaced.net/
 local=/br.gp/
 local=/bravehost.com/
