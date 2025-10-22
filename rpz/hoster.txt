@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761130500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761173700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Oct 2025 10:55 UTC
-; Version: 2025.1022.1055.24
+; Last modified: 22 Oct 2025 22:55 UTC
+; Version: 2025.1022.2255.24
 ; Syntax: RPZ
-; Number of entries: 2762
+; Number of entries: 2754
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -234,8 +234,6 @@ ru.cm CNAME .
 *.ru.cm CNAME .
 duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
-guzhibo.cn CNAME .
-*.guzhibo.cn CNAME .
 webnode.cn CNAME .
 *.webnode.cn CNAME .
 2fh.co CNAME .
@@ -868,8 +866,6 @@ sophiashantidaniel.com CNAME .
 *.sophiashantidaniel.com CNAME .
 spruz.com CNAME .
 *.spruz.com CNAME .
-standardseoservices.com CNAME .
-*.standardseoservices.com CNAME .
 stormloader.com CNAME .
 *.stormloader.com CNAME .
 stormpages.com CNAME .
@@ -882,8 +878,6 @@ teamzonesports.com CNAME .
 *.teamzonesports.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
-the-finance-world.com CNAME .
-*.the-finance-world.com CNAME .
 thisistap.com CNAME .
 *.thisistap.com CNAME .
 timeforchangecounselling.com CNAME .
@@ -2216,8 +2210,6 @@ fun.pe CNAME .
 *.fun.pe CNAME .
 web.pe CNAME .
 *.web.pe CNAME .
-freeweb.pk CNAME .
-*.freeweb.pk CNAME .
 5v.pl CNAME .
 *.5v.pl CNAME .
 7m.pl CNAME .

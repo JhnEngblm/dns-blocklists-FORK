@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 11:49 UTC
-# Version: 2025.1010.1149.32
+# Last modified: 22 Oct 2025 23:29 UTC
+# Version: 2025.1022.2329.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1472
+# Number of entries: 1468
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -159,7 +159,6 @@ local=/brweb.org/
 local=/bsn2bsn.com/
 local=/bumbleshrimp.com/
 local=/burlingtondrywall.com/
-local=/buys.ru/
 local=/buyshouses.net/
 local=/byte4byte.com/
 local=/cable-modem.org/
@@ -169,7 +168,6 @@ local=/casacam.net/
 local=/cashit.info/
 local=/cbopelousas.com/
 local=/cbu.net/
-local=/ccmissoula.com/
 local=/cechire.com/
 local=/celebsplay.com/
 local=/celltrak.mobi/
@@ -928,7 +926,6 @@ local=/mh-it.com/
 local=/midjava.com/
 local=/migibts.net/
 local=/mikata.ru/
-local=/mikecartwright.net/
 local=/mil.nf/
 local=/mindhackers.org/
 local=/mine.bz/
@@ -1466,7 +1463,6 @@ local=/yiff.fi/
 local=/yngling.com/
 local=/youdontcare.com/
 local=/youpc.ro/
-local=/yourspecialtee.com/
 local=/yourtrap.com/
 local=/z0d.eu/
 local=/z86.ru/

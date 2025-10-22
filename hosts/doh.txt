@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 23:30 UTC
-# Version: 2025.1021.2330.34
+# Last modified: 22 Oct 2025 23:30 UTC
+# Version: 2025.1022.2330.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3881
+# Number of entries: 3875
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -811,7 +811,6 @@
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
 0.0.0.0 dns.consoro.eu
-0.0.0.0 dns.containerpi.com
 0.0.0.0 dns.controld.com
 0.0.0.0 doh.controld.com
 0.0.0.0 freedns.controld.com
@@ -1360,7 +1359,6 @@
 0.0.0.0 ldaman.duckdns.org
 0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 nas1403.duckdns.org
-0.0.0.0 nqh-dns.duckdns.org
 0.0.0.0 o--o.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
@@ -1398,7 +1396,6 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -2628,7 +2625,6 @@
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 dns.neeb.it
-0.0.0.0 dns.nefret.net
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nelsonleung.org
 0.0.0.0 adguard.neotix.net
@@ -2898,8 +2894,6 @@
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
-0.0.0.0 doh.pi-dns.com
-0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 adg.pidns.de
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl

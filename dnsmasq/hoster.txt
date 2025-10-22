@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 10:55 UTC
-# Version: 2025.1022.1055.24
+# Last modified: 22 Oct 2025 22:55 UTC
+# Version: 2025.1022.2255.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1381
+# Number of entries: 1377
 #
 local=/000a.de/
 local=/000space.com/
@@ -659,7 +659,6 @@ local=/freesite.org/
 local=/freetzi.com/
 local=/freevar.com/
 local=/freeweb.me/
-local=/freeweb.pk/
 local=/freewebhosting4u.com/
 local=/freewebhostingarea.com/
 local=/freewebhostmost.com/
@@ -717,7 +716,6 @@ local=/grwebsite.com/
 local=/gtempurl.com/
 local=/guest.de/
 local=/guide.lc/
-local=/guzhibo.cn/
 local=/gymsharkitaliaofficial.it/
 local=/h.gp/
 local=/hanefra7bikiemta.com/
@@ -1148,7 +1146,6 @@ local=/spruz.com/
 local=/square.site/
 local=/square7.ch/
 local=/srv1.org/
-local=/standardseoservices.com/
 local=/start.lc/
 local=/stormloader.com/
 local=/stormpages.com/
@@ -1185,7 +1182,6 @@ local=/testingnow.me/
 local=/tggame.xyz/
 local=/tgpropower.top/
 local=/th.gp/
-local=/the-finance-world.com/
 local=/thisistap.com/
 local=/tiiny.host/
 local=/tilda.ws/
