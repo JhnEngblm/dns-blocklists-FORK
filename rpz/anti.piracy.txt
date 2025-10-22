@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761089040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761132360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 23:24 UTC
-; Version: 2025.1021.2324.57
+; Last modified: 22 Oct 2025 11:26 UTC
+; Version: 2025.1022.1126.25
 ; Syntax: RPZ
-; Number of entries: 22568
+; Number of entries: 22584
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -932,6 +932,8 @@ hdmovie2.blog CNAME .
 *.hdmovie2.blog CNAME .
 kinox.blog CNAME .
 *.kinox.blog CNAME .
+nossoplayeronlinehd.blog CNAME .
+*.nossoplayeronlinehd.blog CNAME .
 pelisplus.blog CNAME .
 *.pelisplus.blog CNAME .
 streamingcommunity.blog CNAME .
@@ -4038,6 +4040,8 @@ dodear.com CNAME .
 *.dodear.com CNAME .
 doile378vtt.com CNAME .
 *.doile378vtt.com CNAME .
+dolwiz.com CNAME .
+*.dolwiz.com CNAME .
 domahatv.com CNAME .
 *.domahatv.com CNAME .
 domahi.com CNAME .
@@ -5730,6 +5734,8 @@ multiapkclub.com CNAME .
 *.multiapkclub.com CNAME .
 multicanais.com CNAME .
 *.multicanais.com CNAME .
+multticanais.com CNAME .
+*.multticanais.com CNAME .
 murmurs.com CNAME .
 *.murmurs.com CNAME .
 musgle.com CNAME .
@@ -6048,6 +6054,8 @@ omegastresser.com CNAME .
 *.omegastresser.com CNAME .
 omgtorrent.com CNAME .
 *.omgtorrent.com CNAME .
+tv.onefootball.com CNAME .
+*.tv.onefootball.com CNAME .
 onegaistudios.com CNAME .
 *.onegaistudios.com CNAME .
 onejav.com CNAME .
@@ -8426,6 +8434,8 @@ ilgeniodellostreaming.day CNAME .
 *.ilgeniodellostreaming.day CNAME .
 kinox.day CNAME .
 *.kinox.day CNAME .
+popcdn.day CNAME .
+*.popcdn.day CNAME .
 shaid4u.day CNAME .
 *.shaid4u.day CNAME .
 shhahid4u.day CNAME .
@@ -11126,6 +11136,8 @@ ilgeniodellostreaming.lat CNAME .
 *.ilgeniodellostreaming.lat CNAME .
 kinox.lat CNAME .
 *.kinox.lat CNAME .
+nossoplayeronlinehd.lat CNAME .
+*.nossoplayeronlinehd.lat CNAME .
 pelisflix20.lat CNAME .
 *.pelisflix20.lat CNAME .
 pirateproxy.lat CNAME .
@@ -12140,8 +12152,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -13242,6 +13252,8 @@ furk.net CNAME .
 *.furk.net CNAME .
 futebolgratis.net CNAME .
 *.futebolgratis.net CNAME .
+futemais.net CNAME .
+*.futemais.net CNAME .
 futplayhd.net CNAME .
 *.futplayhd.net CNAME .
 future.net CNAME .
@@ -15560,6 +15572,8 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
+4.tracker.eu.org CNAME .
+*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -18802,6 +18816,8 @@ dramaqu.site CNAME .
 *.dramaqu.site CNAME .
 elamigos.site CNAME .
 *.elamigos.site CNAME .
+embedcanais.site CNAME .
+*.embedcanais.site CNAME .
 europixhd.site CNAME .
 *.europixhd.site CNAME .
 eurostreaming.site CNAME .
@@ -20428,12 +20444,12 @@ veranime.top CNAME .
 *.veranime.top CNAME .
 we-lib.top CNAME .
 *.we-lib.top CNAME .
+wideiptv.top CNAME .
+*.wideiptv.top CNAME .
 share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .

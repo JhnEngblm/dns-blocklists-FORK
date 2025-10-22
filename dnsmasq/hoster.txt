@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 10:54 UTC
-# Version: 2025.1021.1054.37
+# Last modified: 22 Oct 2025 10:55 UTC
+# Version: 2025.1022.1055.24
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1381
 #
@@ -188,6 +188,7 @@ local=/at.st/
 local=/atsnx.com/
 local=/atspace.biz/
 local=/atspace.com/
+local=/atspace.org/
 local=/atwebpages.com/
 local=/au.gp/
 local=/aufbauend.de/
@@ -354,6 +355,7 @@ local=/byethost8.com/
 local=/byethost9.com/
 local=/byto.de/
 local=/bz.tc/
+local=/c.la/
 local=/c.pl/
 local=/c0.pl/
 local=/ca.gp/
@@ -1303,14 +1305,12 @@ local=/webnode.fi/
 local=/webnode.fr/
 local=/webnode.gr/
 local=/webnode.it/
-local=/webnode.jp/
 local=/webnode.mx/
 local=/webnode.nl/
 local=/webnode.page/
 local=/webnode.pt/
 local=/webnode.ro/
 local=/webnode.ru/
-local=/webnode.se/
 local=/webnode.sk/
 local=/webnode.tw/
 local=/webnode.vn/

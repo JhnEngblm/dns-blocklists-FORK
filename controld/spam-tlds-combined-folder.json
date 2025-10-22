@@ -686,6 +686,13 @@
       }
     },
     {
+      "PK": "breeze.dating",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "browser.lol",
       "action": {
         "do": 1,

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 11:31 UTC
-# Version: 2025.1021.1131.01
+# Last modified: 22 Oct 2025 11:32 UTC
+# Version: 2025.1022.1132.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6157
+# Number of entries: 6160
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2415,6 +2415,7 @@ local=/grammarhelpers.com/
 local=/adguard.grantbruneau.com/
 local=/granules.us/
 local=/cloud.graphicpoint.pl/
+local=/grass.io/
 local=/gratisproxy.nl/
 local=/gratisvpn.com/
 local=/graveofhope.ru/
@@ -2434,6 +2435,7 @@ local=/grunwald-marc.de/
 local=/vps.grussenmeyer.com/
 local=/gamgasyoppakuteri-zenttodabi.gslb.info/
 local=/dns.gsmseti.net/
+local=/gsocket.io/
 local=/ms.gswsfh2021.site/
 local=/bigseal1.gu-natee.uk/
 local=/guanmengkai.com/
@@ -5871,6 +5873,7 @@ local=/webbrowser.live/
 local=/quadrogramma.vps.webdock.cloud/
 local=/webevade.com/
 local=/dns.webfork.in/
+local=/webhook.site/
 local=/weblockapp.com/
 local=/doh.webnmail.de/
 local=/weboproxy.com/

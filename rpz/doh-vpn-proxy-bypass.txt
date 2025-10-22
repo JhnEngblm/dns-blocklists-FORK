@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761046260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761132720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 11:31 UTC
-; Version: 2025.1021.1131.01
+; Last modified: 22 Oct 2025 11:32 UTC
+; Version: 2025.1022.1132.14
 ; Syntax: RPZ
-; Number of entries: 12314
+; Number of entries: 12320
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -6433,6 +6433,10 @@ proxybrowser.github.io CNAME .
 *.proxybrowser.github.io CNAME .
 shadowsocks5.github.io CNAME .
 *.shadowsocks5.github.io CNAME .
+grass.io CNAME .
+*.grass.io CNAME .
+gsocket.io CNAME .
+*.gsocket.io CNAME .
 dns.guard.io CNAME .
 *.dns.guard.io CNAME .
 cn-dns.hashtable.io CNAME .
@@ -10983,6 +10987,8 @@ vtcuong.site CNAME .
 *.vtcuong.site CNAME .
 vuivn.site CNAME .
 *.vuivn.site CNAME .
+webhook.site CNAME .
+*.webhook.site CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 dns.p3k.sk CNAME .

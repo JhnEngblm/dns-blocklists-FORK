@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Oct 2025 22:24 UTC
-! Version: 2025.1021.2224.18
+! Last modified: 22 Oct 2025 10:24 UTC
+! Version: 2025.1022.1024.09
 ! Syntax: AdBlock
-! Number of entries: 14210
+! Number of entries: 14231
 !
 ||01broker.com^
 ||01crypto.com^
@@ -85,6 +85,7 @@
 ||abbiattiuk.com^
 ||abbigliamentoscarpe.com^
 ||abcbinaire.com^
+||abdeckplanenmotor.com^
 ||abeautybuffet.com^
 ||abelia-tech.de^
 ||abercrombierabatt.de^
@@ -270,6 +271,7 @@
 ||airoil.de^
 ||airpurifieroutlet.com^
 ||airyclub.com^
+||airyixe.com^
 ||aisope.at^
 ||aix-investments.com^
 ||ajmaltours.com^
@@ -512,6 +514,7 @@
 ||amundiaicrypto.com^
 ||amuseliebe.at^
 ||amuseliebe.com^
+||amuseliebedirndl.com^
 ||amxtoken.cz^
 ||amxwallet.cz^
 ||amznde.com^
@@ -1131,6 +1134,7 @@
 ||barnierboutique.com^
 ||barracudca.com^
 ||barrelcraft.store^
+||barrelecraft.store^
 ||bartiesers.de^
 ||baruttibikes.com^
 ||baryman.com^
@@ -2340,6 +2344,7 @@
 ||cielie.com^
 ||cigarettescigs.com^
 ||cilera.de^
+||cimga.ltd^
 ||cine-flix.co^
 ||cint.pro^
 ||cintra.group^
@@ -2694,6 +2699,7 @@
 ||congresshotelamsguestsportalarriva.com^
 ||connecting-trade.com^
 ||connectioy.com^
+||conrad-brennstoffe.de^
 ||conrads-elektro.de^
 ||conradthimm.de^
 ||consap.cz^
@@ -3111,7 +3117,6 @@
 ||dein-gartenmarkt.de^
 ||dein-modehaus.de^
 ||dein-rundfunkbeitrag.de^
-||dein-traumbrautkleid.de^
 ||deinbikeprofi.de^
 ||deinegartenprofis.de^
 ||deinemoebelpacker24.at^
@@ -3647,6 +3652,7 @@
 ||ecogisolaire.com^
 ||ecomaher.com^
 ||econoechomart.com^
+||econoessencemart.com^
 ||economicp.com^
 ||economicq.com^
 ||economix.io^
@@ -3850,6 +3856,7 @@
 ||elrey-heizoel.de^
 ||elsas-schmuckatelier.com^
 ||elsgroup.net^
+||elternundkinderfreude.de^
 ||elureea.de^
 ||eluxuryonline.com^
 ||elwods.store^
@@ -4067,6 +4074,7 @@
 ||eumeds.net^
 ||eumeds24.com^
 ||eumedz.com^
+||euortovox.shop^
 ||eupills.com^
 ||euprofits.com^
 ||euregiobiomasse.com^
@@ -4113,6 +4121,7 @@
 ||euroyalexpress.com^
 ||eurshopping.com^
 ||eurtrans.com^
+||eurvipsale.shop^
 ||eushop247.com^
 ||euskirossignol.de^
 ||eustiefel.de^
@@ -4169,6 +4178,7 @@
 ||exotekracingparts.com^
 ||exotic-kiss.com^
 ||exoticappearance.com^
+||exotischereptilien.eu^
 ||expeditionm.com^
 ||expensiveg.com^
 ||expert-re.com^
@@ -5366,6 +5376,7 @@
 ||goodpinky.com^
 ||goodpricedrugs.com^
 ||goodshoppin.top^
+||lahop.goodstill.rest^
 ||goodstuffsport.com^
 ||goodstufftool.com^
 ||googoshopping.com^
@@ -5435,6 +5446,7 @@
 ||greentec-handel.de^
 ||greenthin.net^
 ||greenwichwelpen.de^
+||greenwichwelpenhaus.de^
 ||greenyi24.de^
 ||greermy.com^
 ||greesioun.com^
@@ -5495,6 +5507,7 @@
 ||gruene-strategie.de^
 ||grueneshandelzhaus.de^
 ||gruenland-shop.de^
+||gruenstein.inc^
 ||grund-markt.de^
 ||grundfosdistribution.com^
 ||grundstoffde.com^
@@ -7136,7 +7149,6 @@
 ||knivebestech.com^
 ||knivescondor.com^
 ||knivesesee.com^
-||knobloch-energie.de^
 ||knoblochholzhandel.de^
 ||knoopfashion.com^
 ||knuddelkind.com^
@@ -7308,6 +7320,7 @@
 ||labelyourlife.shop^
 ||labexholz.com^
 ||labq22.in^
+||labubu-box.com^
 ||labubu-lounge.de^
 ||labubu-popmart.de^
 ||labububox.store^
@@ -7958,6 +7971,7 @@
 ||maherprofi.com^
 ||mahertech24.com^
 ||maiermodehaus.de^
+||eldraw.mailplus.baby^
 ||main-btc.com^
 ||main-garten.at^
 ||main-mokassin.de^
@@ -8496,6 +8510,7 @@
 ||mobilihomedecor.com^
 ||mobilizex.com^
 ||mobilmitkids.de^
+||mobivita.de^
 ||mocvienhomestay.com^
 ||moda-monica.de^
 ||moda-villa.com^
@@ -9495,6 +9510,7 @@
 ||operar.xyz^
 ||operate-handel.de^
 ||operatork.com^
+||opholzimpexgmbh.com^
 ||opholzimpexgmbh.shop^
 ||opitz-handel24.de^
 ||opongo.shop^
@@ -10866,6 +10882,7 @@
 ||ruthmode.de^
 ||rutlsganicr.com^
 ||ruvello.de^
+||ruytior.shop^
 ||rvcajapan.net^
 ||rvfrance.com^
 ||rvs-versand.de^
@@ -11892,6 +11909,7 @@
 ||stilvollberlin.de^
 ||stilvollemebel.com^
 ||stilvollherr.de^
+||sting-ring.de^
 ||stitchcompagnon.store^
 ||stitchfia.com^
 ||stk-elektronik.de^
@@ -13796,6 +13814,7 @@
 ||wiener-install.at^
 ||wienschmidt.at^
 ||wiesmann-mode.de^
+||adl.wiksh.shop^
 ||wilax.de^
 ||wildanimal.shop^
 ||wildflowercasesphilippines.com^
@@ -14005,6 +14024,7 @@
 ||xohapro.com^
 ||shop.xotufh.top^
 ||xpertmarket.com^
+||xperttrekking.com^
 ||xpmarkets.com^
 ||fr.xpoken.com^
 ||xportal-management.com^
@@ -14194,6 +14214,7 @@
 ||zollernalb-film.de^
 ||zoneautopro.com^
 ||zonebabyware.com^
+||zonnishop.com^
 ||zookatzeshop.com^
 ||zoomoption.com^
 ||zooroyalde.com^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761044040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761130500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 10:54 UTC
-; Version: 2025.1021.1054.37
+; Last modified: 22 Oct 2025 10:55 UTC
+; Version: 2025.1022.1055.24
 ; Syntax: RPZ
 ; Number of entries: 2762
 ;
@@ -1726,8 +1726,6 @@ nobody.jp CNAME .
 *.nobody.jp CNAME .
 shop-pro.jp CNAME .
 *.shop-pro.jp CNAME .
-webnode.jp CNAME .
-*.webnode.jp CNAME .
 xxxxxxxx.jp CNAME .
 *.xxxxxxxx.jp CNAME .
 blogspot.co.ke CNAME .
@@ -1758,6 +1756,8 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 dothome.co.kr CNAME .
 *.dothome.co.kr CNAME .
+c.la CNAME .
+*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
@@ -2120,6 +2120,8 @@ blogspot.co.nz CNAME .
 *.22web.org CNAME .
 altervista.org CNAME .
 *.altervista.org CNAME .
+atspace.org CNAME .
+*.atspace.org CNAME .
 betrunken.org CNAME .
 *.betrunken.org CNAME .
 blackblogs.org CNAME .
@@ -2350,8 +2352,6 @@ blogspot.se CNAME .
 *.blogspot.se CNAME .
 comhem.se CNAME .
 *.comhem.se CNAME .
-webnode.se CNAME .
-*.webnode.se CNAME .
 blogspot.sg CNAME .
 *.blogspot.sg CNAME .
 download.sh CNAME .

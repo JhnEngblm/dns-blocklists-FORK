@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 10:54 UTC
-# Version: 2025.1021.1054.37
+# Last modified: 22 Oct 2025 10:55 UTC
+# Version: 2025.1022.1055.24
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 1381
 #
@@ -188,6 +188,7 @@
 *.atsnx.com
 *.atspace.biz
 *.atspace.com
+*.atspace.org
 *.atwebpages.com
 *.au.gp
 *.aufbauend.de
@@ -354,6 +355,7 @@
 *.byethost9.com
 *.byto.de
 *.bz.tc
+*.c.la
 *.c.pl
 *.c0.pl
 *.ca.gp
@@ -1303,14 +1305,12 @@
 *.webnode.fr
 *.webnode.gr
 *.webnode.it
-*.webnode.jp
 *.webnode.mx
 *.webnode.nl
 *.webnode.page
 *.webnode.pt
 *.webnode.ro
 *.webnode.ru
-*.webnode.se
 *.webnode.sk
 *.webnode.tw
 *.webnode.vn
