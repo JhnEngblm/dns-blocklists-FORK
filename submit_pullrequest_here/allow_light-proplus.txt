@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7796
+optout.aboutads.info
+
 # Queries device coverage and guarantee data to assist support teams
 supportmetrics.apple.com
 

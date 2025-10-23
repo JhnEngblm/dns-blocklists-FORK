@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 09:55 UTC
-# Version: 2025.1023.0955.10
+# Last modified: 23 Oct 2025 21:25 UTC
+# Version: 2025.1023.2125.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 44287
+# Number of entries: 44272
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -294,7 +294,6 @@
 *.13hellspin.com
 *.13win-casino.com
 *.13win-casino.net
-*.1401bets10.top
 *.1401betsl0.com
 *.1402bets10.top
 *.1403bets10.top
@@ -3319,7 +3318,6 @@
 *.7k-slots460.casino
 *.7k0.casino
 *.7k0130.casino
-*.7k0201.casino
 *.7k0207.casino
 *.7k0777.casino
 *.7k1319.casino
@@ -4516,7 +4514,6 @@
 *.adrianbets.xyz
 *.adrianobets.xyz
 *.ads508viral.com
-*.adsbets.com
 *.adscool.net
 *.adslot.vip
 *.adssistem.com
@@ -4827,7 +4824,6 @@
 *.allinbetcasino.com
 *.allinbetcasino.org
 *.allincasinobet.com
-*.allinsonpoker.com
 *.allintair.com
 *.alljackpotscasino.com
 *.alljackpotscasino.net
@@ -5517,7 +5513,6 @@
 *.arkada-casino-zsp.top
 *.arkada-casino18.fun
 *.arkada-casino763.sbs
-*.arkada-casino84.com
 *.arkada-casino888.kz
 *.arkada-casinoru.ru
 *.arkada-fan.casino
@@ -8094,7 +8089,6 @@
 *.betsoftgaming.com
 *.betsoftq.com
 *.betsoftwarej.com
-*.betsoh.com
 *.betsolo.net
 *.betsolo.org
 *.betsolutionplatform.com
@@ -8152,6 +8146,7 @@
 *.betsson.life
 *.betsson.pe
 *.betsson.sport
+*.www2.betsson.mx
 *.betsson-dar-palo.com
 *.betsson-gr.org
 *.betsson1001.com
@@ -8213,7 +8208,6 @@
 *.betstrocasino.net
 *.betstronda.bet
 *.betstrong.baby
-*.betstx.com
 *.betsudoeste.com
 *.betsuites.com
 *.betsul.com
@@ -9025,6 +9019,7 @@
 *.blog-casino1.fun
 *.blogfb88.com
 *.blogonlinecasinos.com
+*.hipicasenvivo.blogspot.com
 *.siempreenlapomada.blogspot.com
 *.bloodmoon-casino.org
 *.bloodmooncasino.co
@@ -12233,7 +12228,6 @@
 *.casinomillioner.fr
 *.casinomilyon.org
 *.casinomilyon1000.com
-*.casinomilyon842.com
 *.casinominiapps.com
 *.casinominimitalletus5e.fi
 *.casinominimitalletus5e.net
@@ -13587,7 +13581,6 @@
 *.casinoways-gb.uk
 *.casinoweb.bet
 *.casinoweb.org
-*.casinowebtv.net
 *.casinowed.com
 *.casinowhat.net
 *.casinowhat.org
@@ -16808,7 +16801,6 @@
 *.daddy23.casino
 *.daddy24.casino
 *.daddy25.casino
-*.daddy254.casino
 *.daddy26.casino
 *.daddy27.casino
 *.daddy31.casino
@@ -17452,6 +17444,7 @@
 *.digitsbets.xyz
 *.dilayar.xyz
 *.dim7pokerdom.com
+*.dimensionhipica.net
 *.dinamitasik.com
 *.dinamitgass.com
 *.dinamitghost.xyz
@@ -17633,7 +17626,6 @@
 *.donbets.net
 *.donbets.xyz
 *.doncasino.live
-*.doncasino365.com
 *.dondejugarcasino.com
 *.donebets.xyz
 *.donfranciscocasino.lat
@@ -17805,7 +17797,6 @@
 *.drgnkkkkk.casino
 *.drgnmn070.casino
 *.drgnmn1.casino
-*.drgnmn129.casino
 *.drgnmn168.casino
 *.drgnmn328.casino
 *.drgnmn561.casino
@@ -19899,7 +19890,6 @@
 *.fusototo.com
 *.futarchycasino.com
 *.futdados.com
-*.futebolbets.com
 *.futureplay.com
 *.futurepoker.online
 *.futvale.com
@@ -21860,7 +21850,6 @@
 *.hcm2222.com
 *.hcm2233.com
 *.hcm2244.com
-*.hcmuseum.org
 *.hd555win1.com
 *.hd555win2.com
 *.hd555win5.com
@@ -24339,7 +24328,6 @@
 *.kent-casino-yoh.top
 *.kent-casino-zhb.top
 *.kent-casino48.com
-*.kent-casino56.com
 *.kent-casino99.casino
 *.kent-online-casino-z.top
 *.kent015.casino
@@ -24453,7 +24441,6 @@
 *.kentcasino-sfx.top
 *.kentcasino-twb.top
 *.kentcasino213.buzz
-*.kentcasino36.com
 *.kentcasinoofc.top
 *.kentcasinoofficialsite505.ru
 *.kentcasinotop.pw
@@ -24472,7 +24459,6 @@
 *.ketopremiere.info
 *.kewbets.com
 *.key-drop.com
-*.keychaincasinos.com
 *.keystoneuniformcap.com
 *.kf388.com
 *.kf639.com
@@ -25454,6 +25440,7 @@
 *.legzocasinologin135.com
 *.legzocasinologin136.com
 *.legzocasinologin137.com
+*.leidsa.com
 *.leisurevip.com
 *.lekkirepublic.com
 *.lelang.site
@@ -26808,7 +26795,6 @@
 *.m-vaycasino1041.com
 *.m-vaycasino1043.com
 *.m-vaycasino1143.com
-*.m-vaycasino1144.com
 *.m13win.casino
 *.m13wincasino.com
 *.m167cw.com
@@ -27232,6 +27218,7 @@
 *.marcaapuestas.es
 *.marcaapuestas-casino.org
 *.marcaapuestascasino.net
+*.marcadoresonline.com
 *.mardibets.world
 *.mari777win.bet
 *.maria.com
@@ -27333,6 +27320,7 @@
 *.master365.site
 *.master777.life
 *.masterbets365.com
+*.masterbets365.net
 *.masterbobaindonesia.com
 *.mastercardcasino.in
 *.mastercasino168.com
@@ -31202,7 +31190,6 @@
 *.ourbit.com
 *.ourcasinosites.com
 *.ourdreamplayground.org
-*.ourlightinside.com
 *.outlookindia.com
 *.outmedia.org
 *.outsourceaccess.com
@@ -33799,7 +33786,6 @@
 *.pokertimefrance.poker
 *.pokertitanclub.com
 *.pokertnt.com
-*.pokertour.online
 *.pokertower.net
 *.pokertrainer.net
 *.pokertraining.us
@@ -34147,6 +34133,7 @@
 *.promotionslots.xyz
 *.pronecasino.com
 *.pronosoft.com
+*.pronosports.net
 *.prontobet.com
 *.prontobet-casino.net
 *.prontocasino.com
@@ -34488,7 +34475,6 @@
 *.r7-casino-zrb.top
 *.r7-casino001.top
 *.r7-casino002.top
-*.r7-casino19.com
 *.r7-casino495.top
 *.r7-casino531.top
 *.r7-casino55.store
@@ -36141,6 +36127,7 @@
 *.salonexquisite.net
 *.saltcoldstudio.com
 *.sambabetslot.com
+*.sambafoot.com
 *.sambaplaycasino.com
 *.sambaslotcasino.com
 *.sambaslots.com
@@ -40826,7 +40813,6 @@
 *.vavada-casino-reviews-uk.space
 *.vavada-casino-slots.online
 *.vavada-casino029a.sbs
-*.vavada-casino03.com
 *.vavada-casino123.fun
 *.vavada-casino25.info
 *.vavada-casino41.online
@@ -44083,7 +44069,6 @@
 *.zerkalo-leonbets-zchf2.top
 *.zerkalo-leonbets-zdx9.buzz
 *.zerkalo-leonbets-zg1w.buzz
-*.zerkalo-leonbetss-pvif.buzz
 *.zerkalo-vodka.casino
 *.zerkalocasino9.ru
 *.zeroum.bet

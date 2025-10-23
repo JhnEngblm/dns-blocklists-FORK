@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 23:30 UTC
-# Version: 2025.1022.2330.43
+# Last modified: 23 Oct 2025 21:31 UTC
+# Version: 2025.1023.2131.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6130
+# Number of entries: 6131
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3593,6 +3593,7 @@ local=/de-fsn-w-p-1.nashkan.net/
 local=/fi-hel-w-f-2.nashkan.net/
 local=/fi-hel-w-p-1.nashkan.net/
 local=/fr-gra-w-p-1.nashkan.net/
+local=/gb-cov-w-f-1.nashkan.net/
 local=/gb-cov-w-f-2.nashkan.net/
 local=/gb-cov-w-p-1.nashkan.net/
 local=/gb-lon-w-f-1.nashkan.net/

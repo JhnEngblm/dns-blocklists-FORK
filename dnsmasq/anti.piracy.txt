@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 09:55 UTC
-# Version: 2025.1023.0955.32
+# Last modified: 23 Oct 2025 21:25 UTC
+# Version: 2025.1023.2125.46
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11153
 #
@@ -7590,6 +7590,7 @@ local=/puzo.org/
 local=/pwtorrents.net/
 local=/qatarstreams.me/
 local=/qbittorrent.org/
+local=/tracker.qingwa.pro/
 local=/qiq.ws/
 local=/musicmania.ql.lt/
 local=/qoob.name/
@@ -10812,7 +10813,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
