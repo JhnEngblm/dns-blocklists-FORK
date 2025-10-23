@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 23:24 UTC
-# Version: 2025.1022.2324.54
+# Last modified: 23 Oct 2025 09:55 UTC
+# Version: 2025.1023.0955.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11149
+# Number of entries: 11153
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -175,6 +175,7 @@ local=/1fichier.com/
 local=/1flix.to/
 local=/1gabba.net/
 local=/1gabba.pw/
+local=/tracker.1h.is/
 local=/1hd.to/
 local=/1jour1film.online/
 local=/1jour1film.website/
@@ -3726,6 +3727,7 @@ local=/warez-mania.fr.nf/
 local=/warez-wawa.fr.nf/
 local=/frboard.com/
 local=/frdl.io/
+local=/frdl.my/
 local=/naruto.a.free.fr/
 local=/biloutman24.free.fr/
 local=/cdie.cdie.free.fr/
@@ -9230,6 +9232,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10809,6 +10812,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

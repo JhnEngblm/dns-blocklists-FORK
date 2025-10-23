@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Oct 2025 22:25 UTC
-! Version: 2025.1022.2225.44
+! Last modified: 23 Oct 2025 08:56 UTC
+! Version: 2025.1023.0856.00
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3950,7 +3950,6 @@
 @@||marveliness.com^
 @@||mas.si^
 @@||mas.so^
-@@||masduz.so^
 @@||masklink.org^
 @@||masl.to^
 @@||masterlink.dev^
@@ -4446,7 +4445,6 @@
 @@||njx.me^
 @@||nkbp.jp^
 @@||nkf.re^
-@@||nkisa.link^
 @@||nks.li^
 @@||nlab.cg^
 @@||nlc.mobi^

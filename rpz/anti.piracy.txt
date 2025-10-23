@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761175440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761213300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Oct 2025 23:24 UTC
-; Version: 2025.1022.2324.54
+; Last modified: 23 Oct 2025 09:55 UTC
+; Version: 2025.1023.0955.32
 ; Syntax: RPZ
-; Number of entries: 22298
+; Number of entries: 22306
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10688,6 +10688,8 @@ hdmovie2.irish CNAME .
 *.1337x.is CNAME .
 1377x.is CNAME .
 *.1377x.is CNAME .
+tracker.1h.is CNAME .
+*.tracker.1h.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
 open.8a.is CNAME .
@@ -12378,6 +12380,8 @@ wiflix.mx CNAME .
 *.wiflix.mx CNAME .
 yts.mx CNAME .
 *.yts.mx CNAME .
+frdl.my CNAME .
+*.frdl.my CNAME .
 hdfilme-to.my CNAME .
 *.hdfilme-to.my CNAME .
 ll1.my CNAME .
@@ -14636,6 +14640,8 @@ streamflix.one CNAME .
 *.streamflix.one CNAME .
 streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -20196,6 +20202,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .

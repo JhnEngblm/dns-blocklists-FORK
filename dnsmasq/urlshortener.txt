@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 22:25 UTC
-# Version: 2025.1022.2225.44
+# Last modified: 23 Oct 2025 08:56 UTC
+# Version: 2025.1023.0856.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8273
+# Number of entries: 8271
 #
 local=/0.gp/
 local=/00m.in/
@@ -4079,7 +4079,6 @@ local=/dl.marloth.tech/
 local=/marveliness.com/
 local=/mas.si/
 local=/mas.so/
-local=/masduz.so/
 local=/masklink.org/
 local=/masl.to/
 local=/masterlink.dev/
@@ -4588,7 +4587,6 @@ local=/njqeooqq.fun/
 local=/njx.me/
 local=/nkbp.jp/
 local=/nkf.re/
-local=/nkisa.link/
 local=/nks.li/
 local=/nlab.cg/
 local=/nlc.mobi/
