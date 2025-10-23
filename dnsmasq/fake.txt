@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 08:54 UTC
-# Version: 2025.1023.0854.24
+# Last modified: 23 Oct 2025 15:31 UTC
+# Version: 2025.1023.1531.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13954
+# Number of entries: 13959
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -858,6 +858,7 @@ local=/auspitz-shop.com/
 local=/aussiecarsupplies.com/
 local=/austria-deals.com/
 local=/austria-myhermes.cc/
+local=/austriafinanzhaus.com/
 local=/austrialpinverkaufe.com/
 local=/austriaroad.shop/
 local=/austrittausderkirche.de/
@@ -4404,6 +4405,7 @@ local=/finanzexpress-online.com/
 local=/finanzportalonline.com/
 local=/finanzwelt.pro/
 local=/finaxanlage.de/
+local=/fincapitus.com/
 local=/fincas-und-villen.com/
 local=/finchmarkets.com/
 local=/findedeinrad.de/
@@ -5308,6 +5310,7 @@ local=/gpt-definity.com/
 local=/gpt-immediate.com/
 local=/gpt55x.io/
 local=/grablee.store/
+local=/gracesboutiquecalifornia.com/
 local=/graciousk.com/
 local=/graenergie.com/
 local=/grafwerkzeug.com/
@@ -12835,6 +12838,7 @@ local=/stylenest.urbanmart.top/
 local=/urbanoutletstores.com/
 local=/urbanstepzone.cfd/
 local=/urbmale.cc/
+local=/urbradeln.de/
 local=/urdotx.com/
 local=/urgalaxy.com/
 local=/urnsey.shop/
@@ -13254,6 +13258,7 @@ local=/volex.io/
 local=/volina.de/
 local=/volini.de/
 local=/volkmann-kanzlei.de/
+local=/volkskuchen.com/
 local=/volksraiffkredit.org/
 local=/vollebude.de/
 local=/vollkommen-heit.de/
