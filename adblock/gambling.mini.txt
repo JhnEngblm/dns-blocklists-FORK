@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Oct 2025 08:52 UTC
-! Version: 2025.1024.0852.04
+! Last modified: 24 Oct 2025 21:26 UTC
+! Version: 2025.1024.2126.29
 ! Syntax: AdBlock
-! Number of entries: 42276
+! Number of entries: 42265
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -7101,7 +7101,6 @@
 ||bet999.io^
 ||bet999i.bet^
 ||bet9ja.com^
-||beta69.net^
 ||beta888.me^
 ||betadonis.com^
 ||betadria.com^
@@ -7504,7 +7503,6 @@
 ||betonline.ag^
 ||betonline.com^
 ||betonlinecasino.win^
-||betonlive24-eu.com^
 ||betonmobile.ru^
 ||betonred.com^
 ||betonred.one^
@@ -18152,7 +18150,6 @@
 ||firebetcasino.com^
 ||firebolt.space^
 ||firecasino.online^
-||firefighters-memorial.com^
 ||fireflybets.xyz^
 ||firefoxcasino.bet^
 ||firehopperslots.ru^
@@ -31539,7 +31536,6 @@
 ||pokerclubpro.com^
 ||pokercoach.site^
 ||pokercrafters.com^
-||pokercuan.net^
 ||pokerd.shop^
 ||pokerdangaly.com^
 ||pokerdealertools.com^
@@ -34324,7 +34320,6 @@
 ||salesbetsevents.com^
 ||salesbetsmusic.com^
 ||salesbetsthedarkages.com^
-||salju303.com^
 ||salju777-rtp.live^
 ||salkjfds54dsfsjlkn.com^
 ||salonexquisite.net^
@@ -34961,7 +34956,6 @@
 ||slot024.casino^
 ||slot077.casino^
 ||slot155h.xyz^
-||slot16ku.com^
 ||slot42.casino^
 ||slot45.bio^
 ||slot5gcasino.vip^
@@ -35015,7 +35009,6 @@
 ||slotexo860508.com^
 ||slotexpress.com^
 ||slotforum.xyz^
-||slotgacorlink.net^
 ||slotgamecasinouz.site^
 ||slotgem-casino.com^
 ||slothino.com^
@@ -35723,7 +35716,6 @@
 ||soccasino.lol^
 ||soccerbet.rs^
 ||soccershop.bet^
-||social77.net^
 ||socialcasino.eu^
 ||socialcasinos.casino^
 ||socialcasinowinners.com^
@@ -36410,7 +36402,6 @@
 ||stake7.com^
 ||stake786.site^
 ||stakecanadacasino.com^
-||stakecasino.club^
 ||stakecasino.is^
 ||stakecasino.nl^
 ||stakecasino.space^
@@ -36971,7 +36962,6 @@
 ||sustainable-news.com^
 ||sustainablefleets.org^
 ||sustainablewnc.org^
-||suster188.com^
 ||sut88.com^
 ||sutbong123.com^
 ||sutra888.org^
@@ -42016,7 +42006,6 @@
 ||zerkalo-leonbets-6j54.buzz^
 ||zerkalo-leonbets-6jpx2.xyz^
 ||zerkalo-leonbets-6n8e.buzz^
-||zerkalo-leonbets-6npo.buzz^
 ||zerkalo-leonbets-6x9p.buzz^
 ||zerkalo-leonbets-84u8.buzz^
 ||zerkalo-leonbets-8nn7.buzz^

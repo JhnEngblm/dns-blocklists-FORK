@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761295680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761341160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 08:48 UTC
-; Version: 2025.1024.0848.13
+; Last modified: 24 Oct 2025 21:26 UTC
+; Version: 2025.1024.2126.53
 ; Syntax: RPZ
-; Number of entries: 22320
+; Number of entries: 22324
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8340,8 +8340,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -12022,6 +12020,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -18538,6 +18538,8 @@ megakino.show CNAME .
 *.megakino.show CNAME .
 real-fmovies.show CNAME .
 *.real-fmovies.show CNAME .
+shhahid4u.show CNAME .
+*.shhahid4u.show CNAME .
 yesmovies.show CNAME .
 *.yesmovies.show CNAME .
 animepace.si CNAME .
@@ -18882,6 +18884,8 @@ tracker-de.ololosh.space CNAME .
 *.tracker-de.ololosh.space CNAME .
 pirateproxy.space CNAME .
 *.pirateproxy.space CNAME .
+sjglrzaelbfyk.space CNAME .
+*.sjglrzaelbfyk.space CNAME .
 soundpark.space CNAME .
 *.soundpark.space CNAME .
 streamflix.space CNAME .

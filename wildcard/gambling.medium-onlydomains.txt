@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 08:51 UTC
-# Version: 2025.1024.0851.32
+# Last modified: 24 Oct 2025 21:25 UTC
+# Version: 2025.1024.2125.58
 # Syntax: Domains (without subdomains)
-# Number of entries: 83539
+# Number of entries: 83529
 #
 0-casino.info
 000-online-casino.com
@@ -12514,7 +12514,6 @@ bet9jacasino.bet
 bet9jalogin.casino
 bet9jamobile.casino
 beta123.xyz
-beta69.net
 beta888.me
 betadisini.xyz
 betadonis.com
@@ -13094,7 +13093,6 @@ betonecasino.org
 betonline.ag
 betonline.com
 betonlinecasino.win
-betonlive24-eu.com
 betonmobile.ru
 betonpoker.biz
 betonred.com
@@ -35563,7 +35561,6 @@ firebetcasino.com
 firebolt.space
 firebro.xyz
 firecasino.online
-firefighters-memorial.com
 fireflybets.xyz
 firefoxcasino.bet
 firegacor.xyz
@@ -62238,7 +62235,6 @@ pokercomps.com
 pokercortex.com
 pokercouncil.com
 pokercrafters.com
-pokercuan.net
 pokercup.hair
 pokercursos.com
 pokerd.shop
@@ -68133,7 +68129,6 @@ salesbetsevents.com
 salesbetsmusic.com
 salesbetsthedarkages.com
 salisburymacasino.com
-salju303.com
 salju777-rtp.live
 salkjfds54dsfsjlkn.com
 salmon78.vip
@@ -69477,7 +69472,6 @@ slot024.casino
 slot077.casino
 slot100.casino
 slot155h.xyz
-slot16ku.com
 slot202.com
 slot2025.casino
 slot20t.bet
@@ -69583,7 +69577,6 @@ slotforum.xyz
 slotfreebet.org
 slotfruity.casino
 slotgacor-idn.com
-slotgacorlink.net
 slotgamecasinouz.site
 slotgamesatcasino.com
 slotgamesincasino.com
@@ -71291,7 +71284,6 @@ soccerbets.vip
 soccerbetsoccer.com
 soccershop.bet
 socerway.net
-social77.net
 socialcasino.eu
 socialcasino-mx.com
 socialcasinogame.online
@@ -72521,7 +72513,6 @@ stake786.site
 stakebet99.casino
 stakeblackjack.com
 stakecanadacasino.com
-stakecasino.club
 stakecasino.is
 stakecasino.nl
 stakecasino.promo
@@ -73526,7 +73517,6 @@ susjourney.xyz
 sustainable-news.com
 sustainablefleets.org
 sustainablewnc.org
-suster188.com
 susterok.com
 susu-rtp.site
 susu4dkeren.com
@@ -82352,6 +82342,7 @@ xin88.asia
 xin88.co
 xin88a.casino
 xingjicasino.com
+xiq18pqr547.com
 xixbet.casino
 xixbets.net
 xixbets.org
@@ -83040,7 +83031,6 @@ zerkalo-leonbets-69mi.xyz
 zerkalo-leonbets-6j54.buzz
 zerkalo-leonbets-6jpx2.xyz
 zerkalo-leonbets-6n8e.buzz
-zerkalo-leonbets-6npo.buzz
 zerkalo-leonbets-6x9p.buzz
 zerkalo-leonbets-84u8.buzz
 zerkalo-leonbets-8nn7.buzz

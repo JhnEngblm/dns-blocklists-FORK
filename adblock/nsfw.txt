@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Oct 2025 10:02 UTC
-! Version: 2025.1024.1002.19
+! Last modified: 24 Oct 2025 21:29 UTC
+! Version: 2025.1024.2129.09
 ! Syntax: AdBlock
-! Number of entries: 79867
+! Number of entries: 79886
 !
 ||0000xxxx.com^
 ||001-adult-toys-n-sex-dolls.com^
@@ -196,6 +196,7 @@
 ||1787xxx.com^
 ||17adulttoys.shop^
 ||18-sex-teen.com^
+||18-teen-porn.com^
 ||18-teen-tube.com^
 ||18-videos.com^
 ||18-xx.com^
@@ -1455,6 +1456,7 @@
 ||92porn.space^
 ||941-hd.com^
 ||94hg.cc^
+||94hs.cc^
 ||94mt.cc^
 ||951yu.com^
 ||9527xxx.sbs^
@@ -2627,7 +2629,6 @@
 ||adultmdt.xyz^
 ||adultme.org^
 ||adultmediaentertainment.com^
-||adultmedicalcarepllc.com^
 ||adultmembersclub.com^
 ||adultmeritbadges.org^
 ||adultmina.xyz^
@@ -4402,6 +4403,7 @@
 ||alxxnxxxxsex.beauty^
 ||alxxnxxxxsex.bond^
 ||alxxnxxxxsex.cam^
+||alxxnxxxxsex.digital^
 ||alxxnxxxxsex.fun^
 ||alxxnxxxxsex.ink^
 ||alxxnxxxxsex.life^
@@ -8736,6 +8738,7 @@
 ||besthookupwebsites.net^
 ||besthookupwebsites.org^
 ||besthotporn.info^
+||besthotporn.net^
 ||bestialica.com^
 ||bestiality.guru^
 ||bestiality.party^
@@ -10835,6 +10838,7 @@
 ||bravomilf.com^
 ||bravonude.com^
 ||bravoporn.com^
+||bravopornos.com^
 ||bravopornrus.com^
 ||bravopost.com^
 ||bravopussy.com^
@@ -12416,7 +12420,6 @@
 ||carnalcash.com^
 ||carnalplus.com^
 ||carneargenta.com^
-||carnesexpress.com^
 ||carnivalofflesh.com^
 ||caro-cream.org^
 ||carolinafriends.com^
@@ -18703,6 +18706,7 @@
 ||deutscheladies.de^
 ||deutscheporn.pro^
 ||deutschepornos.icu^
+||deutschepornos-kostenlos.org^
 ||deutschepornos-tube.org^
 ||deutschetitten.net^
 ||deutschewebcams.net^
@@ -23106,6 +23110,7 @@
 ||fadadosexo.com^
 ||fadnf.gay^
 ||fadultimate.com^
+||faekalien-channel.com^
 ||fafbook.com^
 ||fagalicious.com^
 ||fagsare.gay^
@@ -23651,7 +23656,6 @@
 ||fazendopornecessidade.shop^
 ||fazersexo.com^
 ||fb-one.com^
-||fbapp.xyz^
 ||fbdown2.net^
 ||fbe-sussex.space^
 ||fbiporn.xyz^
@@ -26549,6 +26553,7 @@
 ||gaichanh.co^
 ||gaidam18.com^
 ||gaidam181.store^
+||gaidamdanglux.store^
 ||gaidamdangpro18.store^
 ||gaidibar.shop^
 ||gaidibar.store^
@@ -26849,7 +26854,6 @@
 ||gay-chat.gay^
 ||gay-chat.world^
 ||gay-chat-dating.com^
-||gay-cierge.com^
 ||gay-classifieds.com^
 ||gay-comics.net^
 ||gay-daddy.com^
@@ -27065,7 +27069,6 @@
 ||gayasianporn.me^
 ||gayasianporn.xyz^
 ||gayasianxxx.com^
-||gayasihat.com^
 ||gayaslot.org^
 ||gayassets.xyz^
 ||gayassnigger.com^
@@ -33595,6 +33598,7 @@
 ||ichbindein.com^
 ||ichhier.de^
 ||ichigocandy.com^
+||ichmussmalpipi.com^
 ||ickkoo.com^
 ||icnsexchange.xyz^
 ||icnsexchanger.xyz^
@@ -35044,6 +35048,7 @@
 ||dirtysockgames.itch.io^
 ||dominateddev.itch.io^
 ||dragons-bondage.itch.io^
+||dudebulge.itch.io^
 ||edmango.itch.io^
 ||emberushi.itch.io^
 ||ero-games.itch.io^
@@ -35060,6 +35065,7 @@
 ||futadomworld.itch.io^
 ||gabeinhalls.itch.io^
 ||games-im-ashamed-of.itch.io^
+||grizzly-gamer-studio.itch.io^
 ||hatchet-games.itch.io^
 ||hentaigamesdev.itch.io^
 ||hentairoom.itch.io^
@@ -35072,6 +35078,7 @@
 ||kana-sensei.itch.io^
 ||kenningsly.itch.io^
 ||kerni.itch.io^
+||ki-mochi.itch.io^
 ||kink-master-studios.itch.io^
 ||kraguto.itch.io^
 ||lascivity.itch.io^
@@ -35085,15 +35092,19 @@
 ||medibang-manga.itch.io^
 ||mefistofeles.itch.io^
 ||melieconiek.itch.io^
+||mggedev.itch.io^
 ||milkyhoneysoft.itch.io^
 ||missfit.itch.io^
 ||monsterboxgames.itch.io^
+||morgangavin.itch.io^
 ||mrcreep-games.itch.io^
 ||mrheisenbergo.itch.io^
 ||muller247.itch.io^
 ||mystery-zone-games.itch.io^
 ||nadianova.itch.io^
+||naughty-underworld.itch.io^
 ||newwestgames.itch.io^
+||nlt.itch.io^
 ||nowajoestar.itch.io^
 ||nsfwclubgames.itch.io^
 ||nyxgaming.itch.io^
@@ -35756,7 +35767,6 @@
 ||javerotic.com^
 ||javextreme.net^
 ||javfactory.net^
-||javfamilysex.xyz^
 ||javfan.com^
 ||javfan.one^
 ||javfas.com^
@@ -36638,7 +36648,6 @@
 ||juicexxx.com^
 ||juicy-adult.com^
 ||juicy-ai.com^
-||juicy-matures.com^
 ||juicyads.sexy^
 ||juicyadultvideos.com^
 ||juicychat.ai^
@@ -37128,6 +37137,7 @@
 ||kavasex.xyz^
 ||kaviar-pornos.net^
 ||kaviarpornos.com^
+||kaviarsexfilme.com^
 ||kavitabatra.com^
 ||kavitachauhan.in^
 ||kavitachoudhary.com^
@@ -38343,6 +38353,7 @@
 ||laosiji123.com^
 ||lap.hu^
 ||lapdanceteens.com^
+||lapippa.com^
 ||lapisexoticcars.com^
 ||lapisexotics.com^
 ||lapkjogos.com^
@@ -40272,6 +40283,7 @@
 ||madrasexpresscargo.com^
 ||madreehija.xyz^
 ||madsexx.com^
+||madsock.ru^
 ||madthumbs.com^
 ||madtomy.com^
 ||madtubesex.com^
@@ -44188,6 +44200,7 @@
 ||mzlisa.com^
 ||mzporn.com^
 ||n1fat.com^
+||n2tt.vip^
 ||n43project.com^
 ||n8ked.app^
 ||n8ked.pro^
@@ -44729,6 +44742,7 @@
 ||yupdates.neocities.org^
 ||neogay.com^
 ||neogays.com^
+||neona.tech^
 ||neonostalgia.com^
 ||neonpussy.com^
 ||neonsignsexpress.net^
@@ -47130,7 +47144,6 @@
 ||orgasmicdiscourses.com^
 ||orgasmicheart.com^
 ||orgasmix.es^
-||orgasmosexshop.com^
 ||orgasmsoundlibrary.com^
 ||orgasmusporn.net^
 ||orgasmxxx.net^
@@ -47995,6 +48008,7 @@
 ||penthousemagazine.com^
 ||penthousepets.net^
 ||penthouseprivat.de^
+||penthousetv.video^
 ||peoplebdsm.com^
 ||peopleenespanol.com^
 ||peopleokwithmurderingassange.com^
@@ -49902,7 +49916,6 @@
 ||porn4days.space^
 ||porn4e.com^
 ||porn4f.org^
-||porn4fan.com^
 ||porn4fans.com^
 ||porn4fap.com^
 ||porn4free.net^
@@ -51056,7 +51069,6 @@
 ||pornhub.co^
 ||pornhub.com^
 ||pornhub.es^
-||pornhub.fan^
 ||pornhub.fr^
 ||pornhub.net^
 ||pornhub.org^
@@ -52864,7 +52876,6 @@
 ||pornomarket9.store^
 ||pornomarketing.space^
 ||pornomarketing.store^
-||pornomaster.com^
 ||pornomay.com^
 ||pornomeda.store^
 ||pornomedia.com^
@@ -55665,6 +55676,7 @@
 ||putinpussyxx1.shop^
 ||putinpussyxx1.store^
 ||putitas69.com^
+||putitin1.store^
 ||putizorras.com^
 ||putlocker.gay^
 ||putlocker.gy^
@@ -57852,6 +57864,7 @@
 ||sanalsexshop.com^
 ||sanapatel.com^
 ||sanayadelhi.com^
+||sanbacao.buzz^
 ||sanctam.su^
 ||sanctifyfitness.com^
 ||sanctuarylax.com^
@@ -58107,6 +58120,7 @@
 ||scatvipfile.com^
 ||scatxtube.com^
 ||scatxxxporn.com^
+||scatxxxporntube.com^
 ||scatxxxvideos.com^
 ||sccb.us^
 ||scenefox.gay^
@@ -63691,7 +63705,6 @@
 ||sexynightgowns.org^
 ||sexynikkei.xyz^
 ||sexynisha.com^
-||sexynlazy.com^
 ||sexynmr.xyz^
 ||sexynude.pics^
 ||sexynudeart.com^
@@ -67121,6 +67134,7 @@
 ||suzannevonborsody.de^
 ||suze.net^
 ||suzenkhan.com^
+||suzuhonjo.com^
 ||suzycams.com^
 ||suzymovs.com^
 ||suzzi.net^
@@ -67693,6 +67707,7 @@
 ||tapintoessexfells.net^
 ||tapky.info^
 ||tappulsex.store^
+||tappytoon.com^
 ||taptolove.com^
 ||taragayan.music^
 ||taragupta.in^
@@ -67751,6 +67766,7 @@
 ||tayalsirvod.com^
 ||taylorjohnson.life^
 ||taylormadeclips.com^
+||taystevens.com^
 ||tayweeporn.website^
 ||tazfin.ru^
 ||tazzporn.com^
@@ -68806,7 +68822,6 @@
 ||thegayporn.pro^
 ||thegaypornlist.com^
 ||thegayrobot.com^
-||thegaysalon.com^
 ||thegaysexhot.com^
 ||thegaysian.com^
 ||thegaysuspend.click^
@@ -69397,6 +69412,7 @@
 ||thudam69pro.shop^
 ||thudam69pro1.shop^
 ||thudamlux.shop^
+||thudamlux.store^
 ||thudamlux1.shop^
 ||thudammoe1.store^
 ||thudamorg.shop^
@@ -71743,6 +71759,7 @@
 ||umraniyeli11.com^
 ||umraniyescort.com^
 ||umraniyescort.net^
+||umraniyespotcu.com^
 ||umulan.com^
 ||umwthinklab.com^
 ||unadult.cc^
@@ -72658,6 +72675,7 @@
 ||video-one-porn.com^
 ||video-roulette.online^
 ||video-roulette24.ru^
+||video-scat.com^
 ||video-sex.org^
 ||video-sex-xxx.cc^
 ||video-tube-hd.com^
@@ -73218,6 +73236,7 @@
 ||vitamingai1.shop^
 ||vitamingailux.shop^
 ||vitamingailux.store^
+||vitamingaiplus.shop^
 ||vitamingaiplus1.shop^
 ||vitamingaipro.store^
 ||vitaminkuofc.com^

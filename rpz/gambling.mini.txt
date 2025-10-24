@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761295920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761341160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 08:52 UTC
-; Version: 2025.1024.0852.04
+; Last modified: 24 Oct 2025 21:26 UTC
+; Version: 2025.1024.2126.29
 ; Syntax: RPZ
-; Number of entries: 84552
+; Number of entries: 84530
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -3956,8 +3956,6 @@ zerkalo-leonbets-6j54.buzz CNAME .
 *.zerkalo-leonbets-6j54.buzz CNAME .
 zerkalo-leonbets-6n8e.buzz CNAME .
 *.zerkalo-leonbets-6n8e.buzz CNAME .
-zerkalo-leonbets-6npo.buzz CNAME .
-*.zerkalo-leonbets-6npo.buzz CNAME .
 zerkalo-leonbets-6x9p.buzz CNAME .
 *.zerkalo-leonbets-6x9p.buzz CNAME .
 zerkalo-leonbets-84u8.buzz CNAME .
@@ -9768,8 +9766,6 @@ snus1.club CNAME .
 *.snus1.club CNAME .
 sodo66casino.club CNAME .
 *.sodo66casino.club CNAME .
-stakecasino.club CNAME .
-*.stakecasino.club CNAME .
 sunwinvn.club CNAME .
 *.sunwinvn.club CNAME .
 swcpoker.club CNAME .
@@ -17996,8 +17992,6 @@ betoncasinolegends.com CNAME .
 *.betoncasinolegends.com CNAME .
 betonline.com CNAME .
 *.betonline.com CNAME .
-betonlive24-eu.com CNAME .
-*.betonlive24-eu.com CNAME .
 betonred.com CNAME .
 *.betonred.com CNAME .
 betonred-casinobet.com CNAME .
@@ -26952,8 +26946,6 @@ firebet-casino.com CNAME .
 *.firebet-casino.com CNAME .
 firebetcasino.com CNAME .
 *.firebetcasino.com CNAME .
-firefighters-memorial.com CNAME .
-*.firefighters-memorial.com CNAME .
 firekeepcasino.com CNAME .
 *.firekeepcasino.com CNAME .
 firekeeperscasino.com CNAME .
@@ -42024,8 +42016,6 @@ salesbetsmusic.com CNAME .
 *.salesbetsmusic.com CNAME .
 salesbetsthedarkages.com CNAME .
 *.salesbetsthedarkages.com CNAME .
-salju303.com CNAME .
-*.salju303.com CNAME .
 salkjfds54dsfsjlkn.com CNAME .
 *.salkjfds54dsfsjlkn.com CNAME .
 saltcoldstudio.com CNAME .
@@ -42702,8 +42692,6 @@ slingoslotsu.com CNAME .
 *.slingoslotsu.com CNAME .
 slippagebets.com CNAME .
 *.slippagebets.com CNAME .
-slot16ku.com CNAME .
-*.slot16ku.com CNAME .
 slot666wallet.com CNAME .
 *.slot666wallet.com CNAME .
 slot78.com CNAME .
@@ -44744,8 +44732,6 @@ sushicasino.com CNAME .
 *.sushicasino.com CNAME .
 sustainable-news.com CNAME .
 *.sustainable-news.com CNAME .
-suster188.com CNAME .
-*.suster188.com CNAME .
 sut88.com CNAME .
 *.sut88.com CNAME .
 sutbong123.com CNAME .
@@ -57736,8 +57722,6 @@ bet90casino.net CNAME .
 *.bet90casino.net CNAME .
 bet942.net CNAME .
 *.bet942.net CNAME .
-beta69.net CNAME .
-*.beta69.net CNAME .
 betandreasuz.net CNAME .
 *.betandreasuz.net CNAME .
 betandyou-casino.net CNAME .
@@ -59500,8 +59484,6 @@ pokerclub777.net CNAME .
 *.pokerclub777.net CNAME .
 pokerclub89.net CNAME .
 *.pokerclub89.net CNAME .
-pokercuan.net CNAME .
-*.pokercuan.net CNAME .
 pokerdom-casino.net CNAME .
 *.pokerdom-casino.net CNAME .
 pokerenchile.net CNAME .
@@ -59740,8 +59722,6 @@ slotbetmaster.net CNAME .
 *.slotbetmaster.net CNAME .
 slotbunny-casino.net CNAME .
 *.slotbunny-casino.net CNAME .
-slotgacorlink.net CNAME .
-*.slotgacorlink.net CNAME .
 slotiercasino-nl.net CNAME .
 *.slotiercasino-nl.net CNAME .
 slotjoss.net CNAME .
@@ -59780,8 +59760,6 @@ snaicasino.net CNAME .
 *.snaicasino.net CNAME .
 snatchcasino-de.net CNAME .
 *.snatchcasino-de.net CNAME .
-social77.net CNAME .
-*.social77.net CNAME .
 sodo668.net CNAME .
 *.sodo668.net CNAME .
 sorteesportiva.net CNAME .

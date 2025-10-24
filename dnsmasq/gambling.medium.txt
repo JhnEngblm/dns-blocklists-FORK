@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 08:51 UTC
-# Version: 2025.1024.0851.32
+# Last modified: 24 Oct 2025 21:25 UTC
+# Version: 2025.1024.2125.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 83539
+# Number of entries: 83529
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -12514,7 +12514,6 @@ local=/bet9jacasino.bet/
 local=/bet9jalogin.casino/
 local=/bet9jamobile.casino/
 local=/beta123.xyz/
-local=/beta69.net/
 local=/beta888.me/
 local=/betadisini.xyz/
 local=/betadonis.com/
@@ -13094,7 +13093,6 @@ local=/betonecasino.org/
 local=/betonline.ag/
 local=/betonline.com/
 local=/betonlinecasino.win/
-local=/betonlive24-eu.com/
 local=/betonmobile.ru/
 local=/betonpoker.biz/
 local=/betonred.com/
@@ -35563,7 +35561,6 @@ local=/firebetcasino.com/
 local=/firebolt.space/
 local=/firebro.xyz/
 local=/firecasino.online/
-local=/firefighters-memorial.com/
 local=/fireflybets.xyz/
 local=/firefoxcasino.bet/
 local=/firegacor.xyz/
@@ -62238,7 +62235,6 @@ local=/pokercomps.com/
 local=/pokercortex.com/
 local=/pokercouncil.com/
 local=/pokercrafters.com/
-local=/pokercuan.net/
 local=/pokercup.hair/
 local=/pokercursos.com/
 local=/pokerd.shop/
@@ -68133,7 +68129,6 @@ local=/salesbetsevents.com/
 local=/salesbetsmusic.com/
 local=/salesbetsthedarkages.com/
 local=/salisburymacasino.com/
-local=/salju303.com/
 local=/salju777-rtp.live/
 local=/salkjfds54dsfsjlkn.com/
 local=/salmon78.vip/
@@ -69477,7 +69472,6 @@ local=/slot024.casino/
 local=/slot077.casino/
 local=/slot100.casino/
 local=/slot155h.xyz/
-local=/slot16ku.com/
 local=/slot202.com/
 local=/slot2025.casino/
 local=/slot20t.bet/
@@ -69583,7 +69577,6 @@ local=/slotforum.xyz/
 local=/slotfreebet.org/
 local=/slotfruity.casino/
 local=/slotgacor-idn.com/
-local=/slotgacorlink.net/
 local=/slotgamecasinouz.site/
 local=/slotgamesatcasino.com/
 local=/slotgamesincasino.com/
@@ -71291,7 +71284,6 @@ local=/soccerbets.vip/
 local=/soccerbetsoccer.com/
 local=/soccershop.bet/
 local=/socerway.net/
-local=/social77.net/
 local=/socialcasino.eu/
 local=/socialcasino-mx.com/
 local=/socialcasinogame.online/
@@ -72521,7 +72513,6 @@ local=/stake786.site/
 local=/stakebet99.casino/
 local=/stakeblackjack.com/
 local=/stakecanadacasino.com/
-local=/stakecasino.club/
 local=/stakecasino.is/
 local=/stakecasino.nl/
 local=/stakecasino.promo/
@@ -73526,7 +73517,6 @@ local=/susjourney.xyz/
 local=/sustainable-news.com/
 local=/sustainablefleets.org/
 local=/sustainablewnc.org/
-local=/suster188.com/
 local=/susterok.com/
 local=/susu-rtp.site/
 local=/susu4dkeren.com/
@@ -82352,6 +82342,7 @@ local=/xin88.asia/
 local=/xin88.co/
 local=/xin88a.casino/
 local=/xingjicasino.com/
+local=/xiq18pqr547.com/
 local=/xixbet.casino/
 local=/xixbets.net/
 local=/xixbets.org/
@@ -83040,7 +83031,6 @@ local=/zerkalo-leonbets-69mi.xyz/
 local=/zerkalo-leonbets-6j54.buzz/
 local=/zerkalo-leonbets-6jpx2.xyz/
 local=/zerkalo-leonbets-6n8e.buzz/
-local=/zerkalo-leonbets-6npo.buzz/
 local=/zerkalo-leonbets-6x9p.buzz/
 local=/zerkalo-leonbets-84u8.buzz/
 local=/zerkalo-leonbets-8nn7.buzz/
