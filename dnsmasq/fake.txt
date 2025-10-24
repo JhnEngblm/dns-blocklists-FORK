@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 20:24 UTC
-# Version: 2025.1023.2024.52
+# Last modified: 24 Oct 2025 09:01 UTC
+# Version: 2025.1024.0901.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13958
+# Number of entries: 13962
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4347,6 +4347,7 @@ local=/fermonnvertrieb.com/
 local=/fernandesequipamentos.com/
 local=/fernbedienung-schalter.de/
 local=/ferne-schied.de/
+local=/fernholz-handel.de/
 local=/ferplastdeutschland.shop/
 local=/ferplastverkaufe.com/
 local=/ferragensmineira.com/
@@ -5779,6 +5780,7 @@ local=/heizoelmax.de/
 local=/heizoelnow.de/
 local=/heizoelonline24.com/
 local=/heizoelport.de/
+local=/heizoelpreise-region.de/
 local=/heizoelpro.de/
 local=/heizoelprofi.de/
 local=/heizoelprofit.de/
@@ -13544,9 +13546,11 @@ local=/whiskysorten.com/
 local=/whiteboxgarten.com/
 local=/whlshop.com/
 local=/wholesalefactory.ru/
+local=/wieburg-handel.de/
 local=/wiener-install.at/
 local=/wienschmidt.at/
 local=/wiesmann-mode.de/
+local=/wika-shop.de/
 local=/adl.wiksh.shop/
 local=/wilax.de/
 local=/wildanimal.shop/

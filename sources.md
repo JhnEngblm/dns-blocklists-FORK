@@ -265,6 +265,7 @@ https://secure.fanboy.co.nz/fanboy-social.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://trends.netcraft.com/cybercrime/tlds
+https://ubo-et.lepik.io/list.txt
 https://urlhaus.abuse.ch/downloads/hostfile
 https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
 https://vn-badsite-filter.pages.dev/vn-badsite-filter-hosts.txt

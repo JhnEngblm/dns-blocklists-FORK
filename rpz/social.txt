@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761040920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761286140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Oct 2025 10:02 UTC
-; Version: 2025.1021.1002.22
+; Last modified: 24 Oct 2025 06:09 UTC
+; Version: 2025.1024.0609.02
 ; Syntax: RPZ
-; Number of entries: 1722
+; Number of entries: 1762
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -70,6 +70,10 @@ facebookhome.cc CNAME .
 *.facebookhome.cc CNAME .
 fasttext.cc CNAME .
 *.fasttext.cc CNAME .
+joyreactor.cc CNAME .
+*.joyreactor.cc CNAME .
+reactor.cc CNAME .
+*.reactor.cc CNAME .
 vk.cc CNAME .
 *.vk.cc CNAME .
 fbwat.ch CNAME .
@@ -738,10 +742,10 @@ gcld-line.com CNAME .
 *.gcld-line.com CNAME .
 gfacecbook.com CNAME .
 *.gfacecbook.com CNAME .
-snap-storage-cdn.l.google.com CNAME .
-*.snap-storage-cdn.l.google.com CNAME .
 groups.com CNAME .
 *.groups.com CNAME .
+habr.com CNAME .
+*.habr.com CNAME .
 hackerfacebook.com CNAME .
 *.hackerfacebook.com CNAME .
 hackfacebook.com CNAME .
@@ -904,6 +908,8 @@ liverail.com CNAME .
 *.liverail.com CNAME .
 lnstagram-help.com CNAME .
 *.lnstagram-help.com CNAME .
+looky.com CNAME .
+*.looky.com CNAME .
 makeitopen.com CNAME .
 *.makeitopen.com CNAME .
 markzuckerberg.com CNAME .
@@ -1080,6 +1086,8 @@ wwwmfacebook.com CNAME .
 *.wwwmfacebook.com CNAME .
 x.com CNAME .
 *.x.com CNAME .
+yaplakal.com CNAME .
+*.yaplakal.com CNAME .
 yogalayout.com CNAME .
 *.yogalayout.com CNAME .
 mastodon.zaclys.com CNAME .
@@ -1290,6 +1298,8 @@ vk-cdn.me CNAME .
 *.vk-cdn.me CNAME .
 discord.media CNAME .
 *.discord.media CNAME .
+yappy.media CNAME .
+*.yappy.media CNAME .
 wxw.moe CNAME .
 *.wxw.moe CNAME .
 pinterest.com.mx CNAME .
@@ -1354,6 +1364,8 @@ fbsbx.net CNAME .
 *.fbsbx.net CNAME .
 fecebook.net CNAME .
 *.fecebook.net CNAME .
+fishki.net CNAME .
+*.fishki.net CNAME .
 freebasics.net CNAME .
 *.freebasics.net CNAME .
 freefacebook.net CNAME .
@@ -1452,6 +1464,8 @@ tkz.one CNAME .
 *.tkz.one CNAME .
 mastodon.online CNAME .
 *.mastodon.online CNAME .
+2ch.org CNAME .
+*.2ch.org CNAME .
 4cdn.org CNAME .
 *.4cdn.org CNAME .
 4chan.org CNAME .
@@ -1566,24 +1580,48 @@ pinterest.com.py CNAME .
 *.pinterest.com.py CNAME .
 wien.rocks CNAME .
 *.wien.rocks CNAME .
+anekdot.ru CNAME .
+*.anekdot.ru CNAME .
+dtf.ru CNAME .
+*.dtf.ru CNAME .
+dzen.ru CNAME .
+*.dzen.ru CNAME .
+fotostrana.ru CNAME .
+*.fotostrana.ru CNAME .
 imgsmail.ru CNAME .
 *.imgsmail.ru CNAME .
 insideok.ru CNAME .
 *.insideok.ru CNAME .
 mail.ru CNAME .
 *.mail.ru CNAME .
+mamba.ru CNAME .
+*.mamba.ru CNAME .
+mirtesen.ru CNAME .
+*.mirtesen.ru CNAME .
+mt.ru CNAME .
+*.mt.ru CNAME .
 ok.ru CNAME .
 *.ok.ru CNAME .
 okcdn.ru CNAME .
 *.okcdn.ru CNAME .
 oktech.ru CNAME .
 *.oktech.ru CNAME .
+pikabu.ru CNAME .
+*.pikabu.ru CNAME .
 pinterest.ru CNAME .
 *.pinterest.ru CNAME .
+planetaoz.ru CNAME .
+*.planetaoz.ru CNAME .
+rossgram.ru CNAME .
+*.rossgram.ru CNAME .
 vk.ru CNAME .
 *.vk.ru CNAME .
 vkontakte.ru CNAME .
 *.vkontakte.ru CNAME .
+wibes.ru CNAME .
+*.wibes.ru CNAME .
+woman.ru CNAME .
+*.woman.ru CNAME .
 mastodon.scot CNAME .
 *.mastodon.scot CNAME .
 facebook.se CNAME .
@@ -1690,6 +1728,8 @@ odysee.tv CNAME .
 *.odysee.tv CNAME .
 periscope.tv CNAME .
 *.periscope.tv CNAME .
+pressa.tv CNAME .
+*.pressa.tv CNAME .
 pscp.tv CNAME .
 *.pscp.tv CNAME .
 linefriends.com.tw CNAME .

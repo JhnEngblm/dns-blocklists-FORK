@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 21:03 UTC
-# Version: 2025.1023.2103.11
+# Last modified: 24 Oct 2025 08:47 UTC
+# Version: 2025.1024.0847.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8314
+# Number of entries: 8313
 #
 local=/0.gp/
 local=/00m.in/
@@ -7163,7 +7163,6 @@ local=/uminify.com/
 local=/umlib.us/
 local=/umper.co/
 local=/umuly.com/
-local=/un.ir/
 local=/unand.net/
 local=/unc.live/
 local=/unclic.info/

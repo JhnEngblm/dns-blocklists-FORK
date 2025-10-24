@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:56 UTC
-# Version: 2025.1017.2256.50
+# Last modified: 24 Oct 2025 08:56 UTC
+# Version: 2025.1024.0856.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 423
+# Number of entries: 426
 #
 *.frontier.byteoversea.com
 *.gplog-sg.byteoversea.com
@@ -96,6 +96,7 @@
 *.ads.tiktok.tv
 *.ads-api.tiktok.com
 *.ads-frontier.tiktok.com
+*.ads-service.tiktok.com
 *.ads-sg.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
@@ -153,6 +154,7 @@
 *.location-v6-ttp2.tiktokv.us
 *.location-v6-va.tiktokv.com
 *.location-va.tiktokv.com
+*.locationv16-normal-useastred.tiktokv.eu
 *.log.tiktokv.com
 *.log.tiktokv.us
 *.log-i18n.tiktokv.com
@@ -305,6 +307,7 @@
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
 *.rtc-logger-va.tiktokv.com
+*.rtc-logger16-normal-useastred.tiktokv.eu
 *.rtlog.tiktokv.com
 *.rtlog-i18n.tiktokv.com
 *.rtlog-phx.tiktokv.com

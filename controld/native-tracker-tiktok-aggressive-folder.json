@@ -78,6 +78,13 @@
       }
     },
     {
+      "PK": "ads-service.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-sg.tiktok.com",
       "action": {
         "do": 0,
@@ -464,6 +471,13 @@
     },
     {
       "PK": "location.us.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "locationv16-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -1997,6 +2011,13 @@
     },
     {
       "PK": "pc-mon-va.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtc-logger16-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761254700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761295680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Oct 2025 21:25 UTC
-; Version: 2025.1023.2125.46
+; Last modified: 24 Oct 2025 08:48 UTC
+; Version: 2025.1024.0848.13
 ; Syntax: RPZ
-; Number of entries: 22306
+; Number of entries: 22320
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1474,6 +1474,8 @@ net20.cc CNAME .
 *.net20.cc CNAME .
 net2025.cc CNAME .
 *.net2025.cc CNAME .
+net51.cc CNAME .
+*.net51.cc CNAME .
 nkiri.cc CNAME .
 *.nkiri.cc CNAME .
 nmovies.cc CNAME .
@@ -4390,6 +4392,8 @@ flextorrents.com CNAME .
 *.flextorrents.com CNAME .
 flibustier64.com CNAME .
 *.flibustier64.com CNAME .
+flimmerstube.com CNAME .
+*.flimmerstube.com CNAME .
 flixdump.com CNAME .
 *.flixdump.com CNAME .
 flixjar.com CNAME .
@@ -7642,6 +7646,8 @@ vide0.com CNAME .
 *.vide0.com CNAME .
 vide10.com CNAME .
 *.vide10.com CNAME .
+videeq.com CNAME .
+*.videeq.com CNAME .
 videocop.com CNAME .
 *.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
@@ -14640,8 +14646,6 @@ streamflix.one CNAME .
 *.streamflix.one CNAME .
 streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -18190,6 +18194,8 @@ utorrento.ru CNAME .
 *.utorrento.ru CNAME .
 vce-besplatno.ru CNAME .
 *.vce-besplatno.ru CNAME .
+vidsrc-embed.ru CNAME .
+*.vidsrc-embed.ru CNAME .
 vigorish.ru CNAME .
 *.vigorish.ru CNAME .
 vinema.ru CNAME .
@@ -19088,6 +19094,12 @@ torrents.su CNAME .
 *.torrents.su CNAME .
 vegamovies.su CNAME .
 *.vegamovies.su CNAME .
+vidsrc-embed.su CNAME .
+*.vidsrc-embed.su CNAME .
+vidsrcme.su CNAME .
+*.vidsrcme.su CNAME .
+vsrc.su CNAME .
+*.vsrc.su CNAME .
 wawacity.su CNAME .
 *.wawacity.su CNAME .
 vegamovies.supplies CNAME .
@@ -20090,6 +20102,8 @@ kinorun.top CNAME .
 *.kinorun.top CNAME .
 kinotron.top CNAME .
 *.kinotron.top CNAME .
+kkiste-io.top CNAME .
+*.kkiste-io.top CNAME .
 tracker.kmzs123.top CNAME .
 *.tracker.kmzs123.top CNAME .
 lhbooks.top CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:56 UTC
-# Version: 2025.1017.2256.50
+# Last modified: 24 Oct 2025 08:56 UTC
+# Version: 2025.1024.0856.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 425
+# Number of entries: 428
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -98,6 +98,7 @@
 0.0.0.0 url2696.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
+0.0.0.0 ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
@@ -155,6 +156,7 @@
 0.0.0.0 location-v6-ttp2.tiktokv.us
 0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-va.tiktokv.com
+0.0.0.0 locationv16-normal-useastred.tiktokv.eu
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.us
 0.0.0.0 log-i18n.tiktokv.com
@@ -307,6 +309,7 @@
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
 0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtc-logger16-normal-useastred.tiktokv.eu
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtlog-i18n.tiktokv.com
 0.0.0.0 rtlog-phx.tiktokv.com

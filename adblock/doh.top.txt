@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Oct 2025 18:33 UTC
-! Version: 2025.1023.1833.02
+! Last modified: 24 Oct 2025 08:47 UTC
+! Version: 2025.1024.0847.10
 ! Syntax: AdBlock
-! Number of entries: 261
+! Number of entries: 288
 !
 ||httpdns.music.163.com^
 ||1and1-dns.de^
@@ -35,6 +35,7 @@
 ||andrewnw.xyz^
 ||doh.dns.apple.com^
 ||applied-privacy.net^
+||doh.appliedprivacy.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -55,6 +56,7 @@
 ||bluemood.me^
 ||dns.brahma.world^
 ||bravedns.com^
+||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
 ||doh.captnemo.in^
@@ -96,6 +98,13 @@
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
+||sin03.dnscry.pt^
+||sof01.dnscry.pt^
+||syd02.dnscry.pt^
+||tbs01.dnscry.pt^
+||tlv01.dnscry.pt^
+||tpa01.dnscry.pt^
+||tpe01.dnscry.pt^
 ||dns1.dnscrypt.ca^
 ||dnsforfamily.com^
 ||dnsforge.de^
@@ -109,8 +118,11 @@
 ||doh.lv^
 ||doh.pub^
 ||doh.sb^
+||takhtakh.domyah.net^
 ||dot.pub^
 ||dotserver.douyucdn.cn^
+||tuandns.duckdns.org^
+||tungdnsne.duckdns.org^
 ||dupatruwi22.fun^
 ||eth.link^
 ||ns1.fdn.fr^
@@ -147,6 +159,7 @@
 ||jackyes.ovh^
 ||jcdns.fun^
 ||dns.jd.com^
+||protective.joindns4.eu^
 ||opencdn.jomodns.com^
 ||joouddo.ru^
 ||korzhov.dev^
@@ -159,15 +172,18 @@
 ||loadlow.me^
 ||maqgie.xyz^
 ||masters-of-cloud.de^
+||testguard.meexx.de^
 ||meganerd.nl^
 ||httpdns.meituan.com^
 ||httpdnsmultiapi.meituan.com^
 ||httpdnsmultiapivip.meituan.com^
+||testaghome.meshkov.info^
 ||morbitzer.de^
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||muxyuji.ru^
 ||myadg.ru^
+||chungocoai.name.vn^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
@@ -179,11 +195,13 @@
 ||nickcan.xyz^
 ||nicsezcheckfbi.gov^
 ||dns.njal.la^
+||sink.nolo.ltd^
 ||ns3.com^
 ||ns3.link^
 ||ntwrkh.pro^
 ||o1.lt^
 ||one.one.one.one^
+||tw2.ooroot.com^
 ||openbld.net^
 ||dns.opendns.com^
 ||doh.opendns.com^
@@ -198,6 +216,8 @@
 ||pluton.plan9-dns.com^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
+||sundalandia.pp.ua^
+||sweden.privacy-dns.pw^
 ||project-evoex.de^
 ||puredns.org^
 ||dns.qq.com^
@@ -217,12 +237,15 @@
 ||revelio.top^
 ||ricko.is^
 ||dns.rubyfish.cn^
+||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||safeservedns.com^
 ||schimtar.com^
 ||doh-2.seby.io^
 ||shalenkov.dev^
 ||sitdns.com^
+||solaxy.live^
+||spacedns.org^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
 ||squidmall.vip^
@@ -239,10 +262,14 @@
 ||jp.tiar.app^
 ||doh.tiarap.org^
 ||jp.tiarap.org^
+||timedns.net^
+||timmes.nl^
+||tk31z.com^
 ||sdkconfig.tlivedns.com^
 ||tlz.asia^
 ||toaster.lol^
 ||tri-dns.net^
+||tributh.net^
 ||tujenasnaszato.xyz^
 ||tuskythehusky.tech^
 ||dns.twnic.tw^

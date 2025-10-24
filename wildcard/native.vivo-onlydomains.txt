@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Oct 2025 07:07 UTC
-# Version: 2025.1021.0707.33
+# Last modified: 24 Oct 2025 08:58 UTC
+# Version: 2025.1024.0858.42
 # Syntax: Domains (without subdomains)
-# Number of entries: 217
+# Number of entries: 218
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
 adxlog-adnet.vivo.com.cn
@@ -83,6 +83,7 @@ de-gdpr-err-up.vivoglobal.com
 de-gdpr-vcode-od.vivoglobal.com
 err-up.vivoglobal.com
 eu-album-api.vivoglobal.com
+eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com

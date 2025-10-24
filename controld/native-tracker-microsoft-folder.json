@@ -1156,13 +1156,6 @@
       }
     },
     {
-      "PK": "fsad.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "g00.msn.com",
       "action": {
         "do": 0,
@@ -2249,6 +2242,13 @@
     },
     {
       "PK": "stjjp.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "swiftanalyticsprod.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1

@@ -6,11 +6,12 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 21 Oct 2025 10:02 UTC
-! Version: 2025.1021.1002.22
+! Last modified: 24 Oct 2025 06:09 UTC
+! Version: 2025.1024.0609.02
 ! Syntax: AdBlock
-! Number of entries: 861
+! Number of entries: 881
 !
+||2ch.org^
 ||4cdn.org^
 ||4chan.org^
 ||4channel.org^
@@ -34,6 +35,7 @@
 ||airhornbot.com^
 ||amemv.com^
 ||aminoapps.com^
+||anekdot.ru^
 ||askfacebook.net^
 ||askfacebook.org^
 ||atdmt2.com^
@@ -110,6 +112,8 @@
 ||douyinstatic.com^
 ||douyinvod.com^
 ||draftjs.org^
+||dtf.ru^
+||dzen.ru^
 ||expresswifi.com^
 ||f8.com^
 ||faacebok.com^
@@ -413,12 +417,14 @@
 ||ffacebook.com^
 ||fgacebook.com^
 ||ficeboock.com^
+||fishki.net^
 ||flow.dev^
 ||flow.org^
 ||flowtype.org^
 ||fmcebook.com^
 ||fnacebook.com^
 ||fosebook.com^
+||fotostrana.ru^
 ||fpacebook.com^
 ||fqcebook.com^
 ||fracebook.com^
@@ -451,6 +457,7 @@
 ||groups.com^
 ||h4.io^
 ||h4g3z1-social.web.app^
+||habr.com^
 ||hachyderm.io^
 ||hackerfacebook.com^
 ||hackfacebook.com^
@@ -531,6 +538,7 @@
 ||internet.org^
 ||intgram.com^
 ||ioc.exchange^
+||joyreactor.cc^
 ||kaiheila.cn^
 ||kingstagram.com^
 ||klik.me^
@@ -576,12 +584,14 @@
 ||lnkd.in^
 ||lnstagram-help.com^
 ||login-account.net^
+||looky.com^
 ||lor.sh^
 ||lou.lt^
 ||m.cmx.im^
 ||m.me^
 ||mail.ru^
 ||makeitopen.com^
+||mamba.ru^
 ||markzuckerberg.com^
 ||mas.to^
 ||masto.ai^
@@ -619,6 +629,7 @@
 ||metalhead.club^
 ||midentsolutions.com^
 ||mindly.social^
+||mirtesen.ru^
 ||misskey.io^
 ||mobilefacebook.com^
 ||moneywithfacebook.com^
@@ -627,6 +638,7 @@
 ||mstdn.party^
 ||mstdn.plus^
 ||mstdn.social^
+||mt.ru^
 ||muenchen.social^
 ||muenster.im^
 ||muscdn.com^
@@ -672,6 +684,7 @@
 ||parse.com^
 ||periscope.tv^
 ||piaille.fr^
+||pikabu.ru^
 ||pin.it^
 ||pinimg.com^
 ||pinterest.at^
@@ -721,7 +734,9 @@
 ||pinterest.uk^
 ||pinterest.vn^
 ||pinterestmail.com^
+||planetaoz.ru^
 ||pol.social^
+||pressa.tv^
 ||pscp.tv^
 ||pstatp.com^
 ||pyrobot.org^
@@ -730,6 +745,7 @@
 ||react.com^
 ||reactjs.com^
 ||reactjs.org^
+||reactor.cc^
 ||recoiljs.org^
 ||redd.it^
 ||reddit.com^
@@ -741,6 +757,7 @@
 ||rocksdb.net^
 ||rocksdb.org^
 ||rollenspiel.social^
+||rossgram.ru^
 ||ruby.social^
 ||ruhr.social^
 ||sc-cdn.net^
@@ -752,7 +769,6 @@
 ||sfba.social^
 ||shopfacebook.com^
 ||snap-dev.net^
-||snap-storage-cdn.l.google.com^
 ||snapads.com^
 ||snapchat.com^
 ||snapkit.com^
@@ -855,7 +871,9 @@
 ||watchanimeattheoffice.com^
 ||web-instagram.net^
 ||whyfacebook.com^
+||wibes.ru^
 ||wien.rocks^
+||woman.ru^
 ||workplace.com^
 ||workplaceusecases.com^
 ||worldhack.com^
@@ -866,6 +884,8 @@
 ||wwwmfacebook.com^
 ||wxw.moe^
 ||x.com^
+||yaplakal.com^
+||yappy.media^
 ||yogalayout.com^
 ||zhihu.com^
 ||zhimg.com^

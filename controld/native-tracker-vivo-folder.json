@@ -477,6 +477,13 @@
       }
     },
     {
+      "PK": "eu-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eu-domaincfg.vivoglobal.com",
       "action": {
         "do": 0,

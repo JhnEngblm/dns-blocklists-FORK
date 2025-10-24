@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 21:25 UTC
-# Version: 2025.1023.2125.46
+# Last modified: 24 Oct 2025 08:48 UTC
+# Version: 2025.1024.0848.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11153
+# Number of entries: 11160
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3599,6 +3599,7 @@ local=/flemmix.sbs/
 local=/flenix.net/
 local=/flextorrents.com/
 local=/flibustier64.com/
+local=/flimmerstube.com/
 local=/flixanity.site/
 local=/flixanity.xyz/
 local=/flixdump.com/
@@ -5432,6 +5433,7 @@ local=/kiwi-ip.tv/
 local=/kkiste.autos/
 local=/kkiste.boats/
 local=/kkiste.club/
+local=/kkiste-io.top/
 local=/kkooralives.com/
 local=/kleanstorage.store/
 local=/kleverig.eu/
@@ -6547,6 +6549,7 @@ local=/net20.cc/
 local=/net2025.cc/
 local=/net3lix.com/
 local=/net3lix.world/
+local=/net51.cc/
 local=/netanime.tv/
 local=/netathomebd.com/
 local=/netcine.biz/
@@ -9233,7 +9236,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
@@ -10309,6 +10311,7 @@ local=/vide0.net/
 local=/vide0.pro/
 local=/vide10.com/
 local=/videe.vip/
+local=/videeq.com/
 local=/vidembed.net/
 local=/videobin.co/
 local=/videocop.com/
@@ -10356,6 +10359,9 @@ local=/vidplay.org/
 local=/vidplay.tv/
 local=/vidspot.net/
 local=/vidsrc.me/
+local=/vidsrc-embed.ru/
+local=/vidsrc-embed.su/
+local=/vidsrcme.su/
 local=/vidstream.to/
 local=/vidstreaming.io/
 local=/vidto.me/
@@ -10460,6 +10466,7 @@ local=/vrcarena.com/
 local=/vrpirates.club/
 local=/vrpirates.wiki/
 local=/vrtor.ru/
+local=/vsrc.su/
 local=/vstorrent.org/
 local=/vudeo.io/
 local=/vudiy.fun/
