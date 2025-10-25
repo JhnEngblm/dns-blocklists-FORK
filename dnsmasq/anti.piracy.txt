@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 09:27 UTC
-# Version: 2025.1025.0927.43
+# Last modified: 25 Oct 2025 16:28 UTC
+# Version: 2025.1025.1628.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11162
+# Number of entries: 11177
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -38,6 +38,7 @@ local=/0mag.net/
 local=/0magnet.com/
 local=/0second.com/
 local=/0vg9r.com/
+local=/tracker.0x7c0.com/
 local=/0xffff.icu/
 local=/weedy.1.vg/
 local=/1-2-3movies.com/
@@ -1204,6 +1205,7 @@ local=/bitcine.app/
 local=/bitcity.hu/
 local=/tracker.bitcoinindia.space/
 local=/bitcomet.com/
+local=/tracker.bitcomet.net/
 local=/bitcorea.org/
 local=/bitcountry.com/
 local=/bitcq.com/
@@ -1274,6 +1276,7 @@ local=/blacktiesports.net/
 local=/blacktorrent.ru/
 local=/tracker.blackunicorn.xyz/
 local=/blackz.ro/
+local=/tracker.blazing.de/
 local=/block908.ru/
 local=/blockbuster.to/
 local=/100-postal2.blogspot.com/
@@ -1740,6 +1743,7 @@ local=/cestpasbien.org/
 local=/cestrm.xyz/
 local=/cg-gamespc.com/
 local=/cgpeers.com/
+local=/tracker.cgpeers.to/
 local=/ch3oh.ru/
 local=/chainco.beer/
 local=/changhong.life/
@@ -2272,6 +2276,7 @@ local=/ctgtel.net/
 local=/tracker1.ctix.cn/
 local=/tracker2.ctix.cn/
 local=/tracker3.ctix.cn/
+local=/tracker.cubonegro.lol/
 local=/tracker.cubonegro.xyz/
 local=/cuevana.is/
 local=/cuevana.nu/
@@ -2493,6 +2498,7 @@ local=/srv5.digiboy.ir/
 local=/diginetbd.net/
 local=/digital-eliteboard.com/
 local=/digitalboots.net/
+local=/tracker.digitalcore.club/
 local=/www2.digitaldistractions.org/
 local=/digitalduniya.net/
 local=/digitalhive.org/
@@ -3981,6 +3987,7 @@ local=/garageforum.org/
 local=/gatachannel.com/
 local=/gay-area.org/
 local=/gay-torrents.net/
+local=/tracker.gaytor.rent/
 local=/gaytorrent.ru/
 local=/gazellegames.net/
 local=/gazipurns.com/
@@ -4791,6 +4798,7 @@ local=/retracker.hotplug.ru/
 local=/booter-sales.hourb.com/
 local=/house-of-usenet.com/
 local=/housemovie.to/
+local=/tracker.hownetwork.xyz/
 local=/howtechismade.com/
 local=/hpav.tv/
 local=/hpjav.tv/
@@ -5679,6 +5687,8 @@ local=/lmp3.org/
 local=/lnx-bbc.org/
 local=/load.to/
 local=/loadbaba.com/
+local=/tracker.loadbt.com/
+local=/tracker.loadpeers.org/
 local=/tracker.logirl.moe/
 local=/lolfile.xyz/
 local=/open.lolicon.eu/
@@ -6092,6 +6102,7 @@ local=/mobtvseries.net/
 local=/mod-yolo.com/
 local=/modapkcloud.com/
 local=/modapkdown.com/
+local=/tracker.modarchive.org/
 local=/modcombo.com/
 local=/modded-1.com/
 local=/moddedguru.com/
@@ -7167,6 +7178,7 @@ local=/phook.org/
 local=/pianosheets.org/
 local=/picktorrent.com/
 local=/picotorrent.org/
+local=/tracker.picotorrent.one/
 local=/pie321.tv/
 local=/piecejointe.net/
 local=/pig2pig.com/
@@ -7336,6 +7348,7 @@ local=/polskie-torrenty.eu/
 local=/polskitorrent.pl/
 local=/polstacja.tv/
 local=/polycracks.com/
+local=/sugoi.pomf.se/
 local=/tracker.pomf.se/
 local=/popcdn.day/
 local=/popcorn-time.ch/
@@ -7504,6 +7517,7 @@ local=/old.pubfilms.club/
 local=/publicdomaintorrents.com/
 local=/publicdomaintorrents.info/
 local=/publichd.se/
+local=/tracker.publichd.eu/
 local=/publictorrent.net/
 local=/publictracker.ch/
 local=/publictracker.xyz/
@@ -9314,6 +9328,7 @@ local=/torlock.live/
 local=/torlock2.com/
 local=/torlook.info/
 local=/tormac.org/
+local=/tracker.tornevall.net/
 local=/toromod.com/
 local=/toros.co/
 local=/torproxy.org/

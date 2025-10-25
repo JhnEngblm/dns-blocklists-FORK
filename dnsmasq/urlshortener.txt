@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 08:27 UTC
-# Version: 2025.1025.0827.57
+# Last modified: 25 Oct 2025 16:45 UTC
+# Version: 2025.1025.1645.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8370
+# Number of entries: 8389
 #
 local=/0.gp/
 local=/00m.in/
@@ -1228,6 +1228,7 @@ local=/bung.ie/
 local=/buomto.life/
 local=/burl.me/
 local=/burnurl.com/
+local=/buu.lat/
 local=/buybitcoinsworldwide.com/
 local=/bw.care/
 local=/bwlf.us/
@@ -1579,6 +1580,7 @@ local=/by.com.vn/
 local=/go.ceesti.com.br/
 local=/url.click2go.com.br/
 local=/ekg.com.np/
+local=/url.elmark.com.pl/
 local=/encurtador.com.br/
 local=/shortener.entrade.com.vn/
 local=/brochure.wp.exo.com.ar/
@@ -1609,6 +1611,7 @@ local=/kutt.comodo.com/
 local=/s.compass.com/
 local=/compatha.com/
 local=/comphi.st/
+local=/conify.cc/
 local=/conns.life/
 local=/consiseurl.com/
 local=/conta.cc/
@@ -2816,6 +2819,7 @@ local=/shorrtener.herokuapp.com/
 local=/hex.io/
 local=/link.hexlet.io/
 local=/heybit.link/
+local=/heykamu.com/
 local=/heylink.me/
 local=/heyyyl.ink/
 local=/hf.co/
@@ -3817,6 +3821,7 @@ local=/links2.me/
 local=/linksable.to/
 local=/linksdr.com/
 local=/linksehat.net/
+local=/linksero.com/
 local=/linksfire.net/
 local=/linksfly.net/
 local=/linkshare.pro/
@@ -4268,6 +4273,7 @@ local=/min.bz/
 local=/min-url.com/
 local=/minecraftparodileri.com/
 local=/mineurl.top/
+local=/minfier.com/
 local=/minggu.cfd/
 local=/mini-url.in/
 local=/mini-url.net/
@@ -4710,6 +4716,7 @@ local=/nxb.tw/
 local=/nxdr.co/
 local=/nxm.us/
 local=/nxsg.us/
+local=/nxss.link/
 local=/nxturl.com/
 local=/nxy.in/
 local=/on.ny.gov/
@@ -5956,6 +5963,7 @@ local=/shorterit.com/
 local=/shorterurl.net/
 local=/shortest.link/
 local=/shortfake.com/
+local=/shortfree.link/
 local=/shortfy.pro/
 local=/shortgo.me/
 local=/shorti.me/
@@ -6069,6 +6077,15 @@ local=/shorturl.ws/
 local=/shorturl88.com/
 local=/shorturlapp.com/
 local=/shorturlbot.com/
+local=/shorturls.asia/
+local=/shorturls.at/
+local=/shorturls.click/
+local=/shorturls.fr/
+local=/shorturls.fyi/
+local=/shorturls.in/
+local=/shorturls.my/
+local=/shorturls.one/
+local=/shorturls.pro/
 local=/shorturls.us/
 local=/shorturlss.com/
 local=/shorturlx.com/
@@ -6467,6 +6484,7 @@ local=/st3.pro/
 local=/st8.fm/
 local=/stack.im/
 local=/y.stadtfabrikanten.org/
+local=/stalk.cc/
 local=/stanford.io/
 local=/direct.starbets.academy/
 local=/starkho.me/
@@ -6726,6 +6744,7 @@ local=/thefp.pub/
 local=/thefunkymonkey.lu/
 local=/thein.fo/
 local=/thejoekuskie.com/
+local=/chat.thekphub.com/
 local=/thelegends.land/
 local=/thelinkmaster.com/
 local=/themestub.com/

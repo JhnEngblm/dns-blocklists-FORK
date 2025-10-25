@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 09:33 UTC
-# Version: 2025.1025.0933.37
+# Last modified: 25 Oct 2025 16:47 UTC
+# Version: 2025.1025.1647.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6135
+# Number of entries: 6134
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -918,7 +918,6 @@ local=/cloudbenders.fun/
 local=/dns.cloudfiction.eu/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
-local=/ada.ns.cloudflare.com/
 local=/cloudflare-dns.com/
 local=/cloudflare-gateway.com/
 local=/api.cloudflareclient.com/

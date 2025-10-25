@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761380820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761410700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Oct 2025 08:27 UTC
-; Version: 2025.1025.0827.57
+; Last modified: 25 Oct 2025 16:45 UTC
+; Version: 2025.1025.1645.10
 ; Syntax: RPZ
-; Number of entries: 16740
+; Number of entries: 16778
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -629,6 +629,8 @@ shortuel.asia CNAME .
 *.shortuel.asia CNAME .
 shorturl.asia CNAME .
 *.shorturl.asia CNAME .
+shorturls.asia CNAME .
+*.shorturls.asia CNAME .
 u-link.asia CNAME .
 *.u-link.asia CNAME .
 010.at CNAME .
@@ -681,6 +683,8 @@ shortly.at CNAME .
 *.shortly.at CNAME .
 shorturl.at CNAME .
 *.shorturl.at CNAME .
+shorturls.at CNAME .
+*.shorturls.at CNAME .
 smallurl.at CNAME .
 *.smallurl.at CNAME .
 tatt.at CNAME .
@@ -1327,6 +1331,8 @@ ccits.cc CNAME .
 *.ccits.cc CNAME .
 clickhub.cc CNAME .
 *.clickhub.cc CNAME .
+conify.cc CNAME .
+*.conify.cc CNAME .
 conta.cc CNAME .
 *.conta.cc CNAME .
 covgo.cc CNAME .
@@ -1461,6 +1467,8 @@ srv.cc CNAME .
 *.srv.cc CNAME .
 ssur.cc CNAME .
 *.ssur.cc CNAME .
+stalk.cc CNAME .
+*.stalk.cc CNAME .
 swr1.cc CNAME .
 *.swr1.cc CNAME .
 swtt.cc CNAME .
@@ -1707,6 +1715,8 @@ shortly.click CNAME .
 *.shortly.click CNAME .
 shorturl.click CNAME .
 *.shorturl.click CNAME .
+shorturls.click CNAME .
+*.shorturls.click CNAME .
 shrinkme.click CNAME .
 *.shrinkme.click CNAME .
 shrtlk.click CNAME .
@@ -3783,6 +3793,8 @@ hereoo.com CNAME .
 *.hereoo.com CNAME .
 shorrtener.herokuapp.com CNAME .
 *.shorrtener.herokuapp.com CNAME .
+heykamu.com CNAME .
+*.heykamu.com CNAME .
 hibastyle.com CNAME .
 *.hibastyle.com CNAME .
 hicider.com CNAME .
@@ -4195,6 +4207,8 @@ links-bio.com CNAME .
 *.links-bio.com CNAME .
 linksdr.com CNAME .
 *.linksdr.com CNAME .
+linksero.com CNAME .
+*.linksero.com CNAME .
 linkshortenerfree.com CNAME .
 *.linkshortenerfree.com CNAME .
 linkshorteners.com CNAME .
@@ -4379,6 +4393,8 @@ min-url.com CNAME .
 *.min-url.com CNAME .
 minecraftparodileri.com CNAME .
 *.minecraftparodileri.com CNAME .
+minfier.com CNAME .
+*.minfier.com CNAME .
 minifyn.com CNAME .
 *.minifyn.com CNAME .
 minilien.com CNAME .
@@ -5495,6 +5511,8 @@ thefood2.com CNAME .
 *.thefood2.com CNAME .
 thejoekuskie.com CNAME .
 *.thejoekuskie.com CNAME .
+chat.thekphub.com CNAME .
+*.chat.thekphub.com CNAME .
 thelinkmaster.com CNAME .
 *.thelinkmaster.com CNAME .
 themestub.com CNAME .
@@ -7127,6 +7145,8 @@ rwz.fr CNAME .
 *.rwz.fr CNAME .
 s-url.fr CNAME .
 *.s-url.fr CNAME .
+shorturls.fr CNAME .
+*.shorturls.fr CNAME .
 shurl.fr CNAME .
 *.shurl.fr CNAME .
 smurl.fr CNAME .
@@ -7209,6 +7229,8 @@ orb.fyi CNAME .
 *.orb.fyi CNAME .
 rq.fyi CNAME .
 *.rq.fyi CNAME .
+shorturls.fyi CNAME .
+*.shorturls.fyi CNAME .
 suo.fyi CNAME .
 *.suo.fyi CNAME .
 tam.fyi CNAME .
@@ -8205,6 +8227,8 @@ shortr.in CNAME .
 *.shortr.in CNAME .
 shortu.in CNAME .
 *.shortu.in CNAME .
+shorturls.in CNAME .
+*.shorturls.in CNAME .
 shotcut.in CNAME .
 *.shotcut.in CNAME .
 shrinkforearn.in CNAME .
@@ -9831,6 +9855,8 @@ thelegends.land CNAME .
 *.thelegends.land CNAME .
 add.lat CNAME .
 *.add.lat CNAME .
+buu.lat CNAME .
+*.buu.lat CNAME .
 ckirlx.lat CNAME .
 *.ckirlx.lat CNAME .
 fonhoa.lat CNAME .
@@ -10579,6 +10605,8 @@ nin.link CNAME .
 *.nin.link CNAME .
 nov.link CNAME .
 *.nov.link CNAME .
+nxss.link CNAME .
+*.nxss.link CNAME .
 ohmy.link CNAME .
 *.ohmy.link CNAME .
 oikit.link CNAME .
@@ -10687,6 +10715,8 @@ shortenme.link CNAME .
 *.shortenme.link CNAME .
 shortest.link CNAME .
 *.shortest.link CNAME .
+shortfree.link CNAME .
+*.shortfree.link CNAME .
 shortin.link CNAME .
 *.shortin.link CNAME .
 shortino.link CNAME .
@@ -12469,6 +12499,8 @@ nawala.my CNAME .
 *.nawala.my CNAME .
 opn.my CNAME .
 *.opn.my CNAME .
+shorturls.my CNAME .
+*.shorturls.my CNAME .
 sinni.my CNAME .
 *.sinni.my CNAME .
 ss88.my CNAME .
@@ -13229,6 +13261,8 @@ shoco.one CNAME .
 *.shoco.one CNAME .
 shortlink.one CNAME .
 *.shortlink.one CNAME .
+shorturls.one CNAME .
+*.shorturls.one CNAME .
 t2m.one CNAME .
 *.t2m.one CNAME .
 tiny.one CNAME .
@@ -13833,6 +13867,8 @@ aqva.pl CNAME .
 *.aqva.pl CNAME .
 ble.pl CNAME .
 *.ble.pl CNAME .
+url.elmark.com.pl CNAME .
+*.url.elmark.com.pl CNAME .
 daa.pl CNAME .
 *.daa.pl CNAME .
 dee.pl CNAME .
@@ -14007,6 +14043,8 @@ shortify.pro CNAME .
 *.shortify.pro CNAME .
 shortsy.pro CNAME .
 *.shortsy.pro CNAME .
+shorturls.pro CNAME .
+*.shorturls.pro CNAME .
 shrinkme.pro CNAME .
 *.shrinkme.pro CNAME .
 shrinky.pro CNAME .

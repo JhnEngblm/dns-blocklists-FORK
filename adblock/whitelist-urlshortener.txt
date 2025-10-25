@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Oct 2025 08:27 UTC
-! Version: 2025.1025.0827.57
+! Last modified: 25 Oct 2025 16:45 UTC
+! Version: 2025.1025.1645.10
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1182,6 +1182,7 @@
 @@||buomto.life^
 @@||burl.me^
 @@||burnurl.com^
+@@||buu.lat^
 @@||buybitcoinsworldwide.com^
 @@||bw.care^
 @@||bwlf.us^
@@ -1526,6 +1527,7 @@
 @@||go.ceesti.com.br^
 @@||url.click2go.com.br^
 @@||ekg.com.np^
+@@||url.elmark.com.pl^
 @@||encurtador.com.br^
 @@||shortener.entrade.com.vn^
 @@||brochure.wp.exo.com.ar^
@@ -1555,6 +1557,7 @@
 @@||s.compass.com^
 @@||compatha.com^
 @@||comphi.st^
+@@||conify.cc^
 @@||conns.life^
 @@||consiseurl.com^
 @@||conta.cc^
@@ -2730,6 +2733,7 @@
 @@||hex.io^
 @@||link.hexlet.io^
 @@||heybit.link^
+@@||heykamu.com^
 @@||heylink.me^
 @@||heyyyl.ink^
 @@||hf.co^
@@ -3697,6 +3701,7 @@
 @@||linksable.to^
 @@||linksdr.com^
 @@||linksehat.net^
+@@||linksero.com^
 @@||linksfire.net^
 @@||linksfly.net^
 @@||linkshare.pro^
@@ -4138,6 +4143,7 @@
 @@||min-url.com^
 @@||minecraftparodileri.com^
 @@||mineurl.top^
+@@||minfier.com^
 @@||minggu.cfd^
 @@||mini-url.in^
 @@||mini-url.net^
@@ -4567,6 +4573,7 @@
 @@||nxdr.co^
 @@||nxm.us^
 @@||nxsg.us^
+@@||nxss.link^
 @@||nxturl.com^
 @@||nxy.in^
 @@||on.ny.gov^
@@ -5778,6 +5785,7 @@
 @@||shorterurl.net^
 @@||shortest.link^
 @@||shortfake.com^
+@@||shortfree.link^
 @@||shortfy.pro^
 @@||shortgo.me^
 @@||shorti.me^
@@ -5887,6 +5895,15 @@
 @@||shorturl88.com^
 @@||shorturlapp.com^
 @@||shorturlbot.com^
+@@||shorturls.asia^
+@@||shorturls.at^
+@@||shorturls.click^
+@@||shorturls.fr^
+@@||shorturls.fyi^
+@@||shorturls.in^
+@@||shorturls.my^
+@@||shorturls.one^
+@@||shorturls.pro^
 @@||shorturls.us^
 @@||shorturlss.com^
 @@||shorturlx.com^
@@ -6277,6 +6294,7 @@
 @@||st8.fm^
 @@||stack.im^
 @@||y.stadtfabrikanten.org^
+@@||stalk.cc^
 @@||stanford.io^
 @@||direct.starbets.academy^
 @@||starkho.me^
@@ -6533,6 +6551,7 @@
 @@||thefunkymonkey.lu^
 @@||thein.fo^
 @@||thejoekuskie.com^
+@@||chat.thekphub.com^
 @@||thelegends.land^
 @@||thelinkmaster.com^
 @@||themestub.com^

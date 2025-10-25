@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761384420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761409680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Oct 2025 09:27 UTC
-; Version: 2025.1025.0927.43
+; Last modified: 25 Oct 2025 16:28 UTC
+; Version: 2025.1025.1628.36
 ; Syntax: RPZ
-; Number of entries: 22324
+; Number of entries: 22354
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1950,6 +1950,8 @@ cineblog01.club CNAME .
 *.cineblog01.club CNAME .
 tracker.dicmusic.club CNAME .
 *.tracker.dicmusic.club CNAME .
+tracker.digitalcore.club CNAME .
+*.tracker.digitalcore.club CNAME .
 doodstream.club CNAME .
 *.doodstream.club CNAME .
 tr.doogh.club CNAME .
@@ -2456,6 +2458,8 @@ bolly4u.cologne CNAME .
 *.0second.com CNAME .
 0vg9r.com CNAME .
 *.0vg9r.com CNAME .
+tracker.0x7c0.com CNAME .
+*.tracker.0x7c0.com CNAME .
 1-2-3movies.com CNAME .
 *.1-2-3movies.com CNAME .
 100520.com CNAME .
@@ -5316,6 +5320,8 @@ lmanime.com CNAME .
 *.lmanime.com CNAME .
 loadbaba.com CNAME .
 *.loadbaba.com CNAME .
+tracker.loadbt.com CNAME .
+*.tracker.loadbt.com CNAME .
 mw.lonelil.com CNAME .
 *.mw.lonelil.com CNAME .
 watch.lonelil.com CNAME .
@@ -8390,6 +8396,8 @@ anisaishuu.de CNAME .
 *.anisaishuu.de CNAME .
 tracker.birkenwald.de CNAME .
 *.tracker.birkenwald.de CNAME .
+tracker.blazing.de CNAME .
+*.tracker.blazing.de CNAME .
 casacinema.de CNAME .
 *.casacinema.de CNAME .
 cb01.de CNAME .
@@ -8892,6 +8900,8 @@ predb.eu CNAME .
 *.predb.eu CNAME .
 prezup.eu CNAME .
 *.prezup.eu CNAME .
+tracker.publichd.eu CNAME .
+*.tracker.publichd.eu CNAME .
 rojadirecta.eu CNAME .
 *.rojadirecta.eu CNAME .
 scene-inspired.eu CNAME .
@@ -11462,6 +11472,8 @@ casacinema.lol CNAME .
 *.casacinema.lol CNAME .
 cineblog01.lol CNAME .
 *.cineblog01.lol CNAME .
+tracker.cubonegro.lol CNAME .
+*.tracker.cubonegro.lol CNAME .
 dood.lol CNAME .
 *.dood.lol CNAME .
 doodstream.lol CNAME .
@@ -12658,6 +12670,8 @@ bioscopeblog.net CNAME .
 *.bioscopeblog.net CNAME .
 biotorrents.net CNAME .
 *.biotorrents.net CNAME .
+tracker.bitcomet.net CNAME .
+*.tracker.bitcomet.net CNAME .
 bitmanija.net CNAME .
 *.bitmanija.net CNAME .
 bitspyder.net CNAME .
@@ -14080,6 +14094,8 @@ torfinder.net CNAME .
 *.torfinder.net CNAME .
 torlab.net CNAME .
 *.torlab.net CNAME .
+tracker.tornevall.net CNAME .
+*.tracker.tornevall.net CNAME .
 torrent-damage.net CNAME .
 *.torrent-damage.net CNAME .
 torrent-team.net CNAME .
@@ -14630,6 +14646,8 @@ moviesjoy.one CNAME .
 *.moviesjoy.one CNAME .
 pelisflix20.one CNAME .
 *.pelisflix20.one CNAME .
+tracker.picotorrent.one CNAME .
+*.tracker.picotorrent.one CNAME .
 piratebay.one CNAME .
 *.piratebay.one CNAME .
 pubfilm.one CNAME .
@@ -15734,6 +15752,8 @@ lmp3.org CNAME .
 *.lmp3.org CNAME .
 lnx-bbc.org CNAME .
 *.lnx-bbc.org CNAME .
+tracker.loadpeers.org CNAME .
+*.tracker.loadpeers.org CNAME .
 lovemovie.org CNAME .
 *.lovemovie.org CNAME .
 lumendatabase.org CNAME .
@@ -15850,6 +15870,8 @@ mobilesites.org CNAME .
 *.mobilesites.org CNAME .
 mobilism.org CNAME .
 *.mobilism.org CNAME .
+tracker.modarchive.org CNAME .
+*.tracker.modarchive.org CNAME .
 mononoke-bt.org CNAME .
 *.mononoke-bt.org CNAME .
 monova.org CNAME .
@@ -17508,6 +17530,8 @@ vegamovies.reisen CNAME .
 *.vegamovies.reisen CNAME .
 hdmovie2.ren CNAME .
 *.hdmovie2.ren CNAME .
+tracker.gaytor.rent CNAME .
+*.tracker.gaytor.rent CNAME .
 guardaserie.rent CNAME .
 *.guardaserie.rent CNAME .
 hdmovie2.rent CNAME .
@@ -18396,6 +18420,8 @@ pelis24.se CNAME .
 *.pelis24.se CNAME .
 pleaks.se CNAME .
 *.pleaks.se CNAME .
+sugoi.pomf.se CNAME .
+*.sugoi.pomf.se CNAME .
 tracker.pomf.se CNAME .
 *.tracker.pomf.se CNAME .
 publichd.se CNAME .
@@ -19446,6 +19472,8 @@ canna-power.to CNAME .
 *.canna-power.to CNAME .
 cataz.to CNAME .
 *.cataz.to CNAME .
+tracker.cgpeers.to CNAME .
+*.tracker.cgpeers.to CNAME .
 tracker.cinemaz.to CNAME .
 *.tracker.cinemaz.to CNAME .
 comicmafia.to CNAME .
@@ -22062,6 +22090,8 @@ hhdmovies1.xyz CNAME .
 *.hhdmovies1.xyz CNAME .
 hikaritv.xyz CNAME .
 *.hikaritv.xyz CNAME .
+tracker.hownetwork.xyz CNAME .
+*.tracker.hownetwork.xyz CNAME .
 huoquzhishi.xyz CNAME .
 *.huoquzhishi.xyz CNAME .
 tracker.iamhansen.xyz CNAME .
