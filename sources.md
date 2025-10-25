@@ -18,6 +18,7 @@ https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/03_scam.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/04_fake.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/05_popup.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/06_phish.txt
+https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/07_search-domains.txt
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easylist-downloads.adblockplus.org/abpindo.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt

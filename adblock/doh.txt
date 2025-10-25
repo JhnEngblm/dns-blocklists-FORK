@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Oct 2025 21:31 UTC
-! Version: 2025.1023.2131.20
+! Last modified: 25 Oct 2025 09:03 UTC
+! Version: 2025.1025.0903.19
 ! Syntax: AdBlock
-! Number of entries: 3398
+! Number of entries: 3400
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1085,6 +1085,7 @@
 ||doh.pub^
 ||doh.sb^
 ||doh.xyz^
+||domain.name^
 ||adguard.domorome.wf^
 ||dnsfilter.domotik.us^
 ||doh.domreg.lt^
@@ -3027,6 +3028,7 @@
 ||dns.tefuir0829.cn^
 ||family.dns.teknoholistik.com^
 ||dns.teknologiku.com^
+||homenet.telecomitalia.it^
 ||dns.telekom.de^
 ||d51538618.access.telenet.be^
 ||guard.telesterion.de^

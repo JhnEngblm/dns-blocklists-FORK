@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Oct 2025 08:34 UTC
-! Version: 2025.1024.0834.25
+! Last modified: 25 Oct 2025 09:34 UTC
+! Version: 2025.1025.0934.26
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -52,7 +52,7 @@
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc,domain=~doe.cash
 ||casino^$doc
-||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~reurl.cc|~rutracker.cc|~shottr.cc|~ultra.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
+||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~reurl.cc|~road.cc|~rutracker.cc|~shottr.cc|~ultra.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf

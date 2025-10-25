@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 21:31 UTC
-# Version: 2025.1023.2131.20
+# Last modified: 25 Oct 2025 09:03 UTC
+# Version: 2025.1025.0903.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3876
+# Number of entries: 3878
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1288,6 +1288,7 @@
 0.0.0.0 sm2.doh.pub
 0.0.0.0 uk-lon.doh.sb
 0.0.0.0 www.doh.xyz
+0.0.0.0 domain.name
 0.0.0.0 adguard.domorome.wf
 0.0.0.0 dnsfilter.domotik.us
 0.0.0.0 doh.domreg.lt
@@ -3454,6 +3455,7 @@
 0.0.0.0 dns.tefuir0829.cn
 0.0.0.0 family.dns.teknoholistik.com
 0.0.0.0 dns.teknologiku.com
+0.0.0.0 homenet.telecomitalia.it
 0.0.0.0 dns.telekom.de
 0.0.0.0 d51538618.access.telenet.be
 0.0.0.0 guard.telesterion.de

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Oct 2025 21:31 UTC
-# Version: 2025.1023.2131.20
+# Last modified: 25 Oct 2025 09:03 UTC
+# Version: 2025.1025.0903.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3398
+# Number of entries: 3400
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1084,6 +1084,7 @@ local=/doh.lv/
 local=/doh.pub/
 local=/doh.sb/
 local=/doh.xyz/
+local=/domain.name/
 local=/adguard.domorome.wf/
 local=/dnsfilter.domotik.us/
 local=/doh.domreg.lt/
@@ -3026,6 +3027,7 @@ local=/thakkali.teej.xyz/
 local=/dns.tefuir0829.cn/
 local=/family.dns.teknoholistik.com/
 local=/dns.teknologiku.com/
+local=/homenet.telecomitalia.it/
 local=/dns.telekom.de/
 local=/d51538618.access.telenet.be/
 local=/guard.telesterion.de/

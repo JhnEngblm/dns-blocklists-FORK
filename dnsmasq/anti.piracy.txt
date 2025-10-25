@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 21:26 UTC
-# Version: 2025.1024.2126.53
+# Last modified: 25 Oct 2025 09:27 UTC
+# Version: 2025.1025.0927.43
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11162
 #
@@ -2286,6 +2286,7 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
+local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -8232,7 +8233,6 @@ local=/sitostreaming.com/
 local=/sittingonclouds.net/
 local=/siyahmelek.pro/
 local=/sjcrack.com/
-local=/sjglrzaelbfyk.space/
 local=/skidrow-games.com/
 local=/skidrowcodex.net/
 local=/skidrowcodexgames.com/
@@ -8870,7 +8870,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -10822,6 +10821,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 Oct 2025 08:47 UTC
-! Version: 2025.1024.0847.10
+! Last modified: 25 Oct 2025 09:05 UTC
+! Version: 2025.1025.0905.33
 ! Syntax: AdBlock
-! Number of entries: 288
+! Number of entries: 294
 !
 ||httpdns.music.163.com^
 ||1and1-dns.de^
@@ -19,6 +19,7 @@
 ||3dns.eu^
 ||doh.42l.fr^
 ||8888.google^
+||doh.dns.apple.com.v.aaplimg.com^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
@@ -33,6 +34,7 @@
 ||resolvers-cn.httpdns.aliyuncs.com^
 ||httpdns-sc.aliyuncs.com^
 ||andrewnw.xyz^
+||doh.apad.pro^
 ||doh.dns.apple.com^
 ||applied-privacy.net^
 ||doh.appliedprivacy.net^
@@ -59,7 +61,6 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
-||doh.captnemo.in^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||canadianshield.cira.ca^
@@ -118,19 +119,23 @@
 ||doh.lv^
 ||doh.pub^
 ||doh.sb^
+||domain.name^
 ||takhtakh.domyah.net^
 ||dot.pub^
 ||dotserver.douyucdn.cn^
+||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
 ||tungdnsne.duckdns.org^
 ||dupatruwi22.fun^
 ||eth.link^
+||opennic1.eth-services.de^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||fidelius.top^
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||moph.go.th^
 ||dns.google.com^
@@ -257,6 +262,7 @@
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
 ||tecdrive.site^
+||homenet.telecomitalia.it^
 ||doh.tiar.app^
 ||dot.tiar.app^
 ||jp.tiar.app^

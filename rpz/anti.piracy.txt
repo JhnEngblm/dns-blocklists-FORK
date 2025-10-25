@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761341160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761384420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 21:26 UTC
-; Version: 2025.1024.2126.53
+; Last modified: 25 Oct 2025 09:27 UTC
+; Version: 2025.1025.0927.43
 ; Syntax: RPZ
 ; Number of entries: 22324
 ;
@@ -8340,6 +8340,8 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
+tracker-de-2.cutie.dating CNAME .
+*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -12020,8 +12022,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -18884,8 +18884,6 @@ tracker-de.ololosh.space CNAME .
 *.tracker-de.ololosh.space CNAME .
 pirateproxy.space CNAME .
 *.pirateproxy.space CNAME .
-sjglrzaelbfyk.space CNAME .
-*.sjglrzaelbfyk.space CNAME .
 soundpark.space CNAME .
 *.soundpark.space CNAME .
 streamflix.space CNAME .
@@ -20222,6 +20220,8 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
+tracker.xn--djrq4gl4hvoi.top CNAME .
+*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .
